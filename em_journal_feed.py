@@ -231,7 +231,10 @@ def slugify(name: str) -> str:
     return slug or "journal"
 
 
-def build_rss(articles: list[dict], title: str = FEED_TITLE, desc: str = FEED_DESC) -> str:
+def build_rss(articles: list[dict], title: str = FEED_TITLE, desc: str = FEED_DESC,
+              self_url: str = "") -> str:
+    # self_url = where this feed is published (feed validators recommend declaring it)
+    self_link = f'\n    <atom:link href="{esc(self_url)}" rel="self" type="application/rss+xml"/>' if self_url else ""
     now = rfc822(utcnow())
     items = []
     for art in articles:
@@ -259,10 +262,10 @@ def build_rss(articles: list[dict], title: str = FEED_TITLE, desc: str = FEED_DE
     </item>""")
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{esc(title)}</title>
-    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>{self_link}
     <description>{esc(desc)}</description>
     <lastBuildDate>{now}</lastBuildDate>
     <ttl>180</ttl>
@@ -339,7 +342,8 @@ def main():
                 merged.append(art)
     merged.sort(key=lambda a: parse_date(a["pubdate"]), reverse=True)
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(build_rss(merged), encoding="utf-8")
+    base = PAGES_BASE_URL.rstrip("/")
+    out_path.write_text(build_rss(merged, self_url=f"{base}/feed.xml"), encoding="utf-8")
     print(f"\nWrote {len(merged)} items to {out_path} (merged)")
 
     # Per-journal feeds → feeds/<journal>.xml next to the merged feed
@@ -354,7 +358,8 @@ def main():
             fp = feeds_dir / f"{slugify(journal)}.xml"
             fp.write_text(
                 build_rss(arts, title=f"{nice_name} — JHU proxied",
-                          desc=f"New articles in {nice_name}, linked through JHU access"),
+                          desc=f"New articles in {nice_name}, linked through JHU access",
+                          self_url=f"{base}/feeds/{slugify(journal)}.xml"),
                 encoding="utf-8",
             )
         print(f"Wrote {len(by_journal)} per-journal feeds to {feeds_dir}/")

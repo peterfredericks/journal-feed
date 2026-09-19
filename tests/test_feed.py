@@ -154,6 +154,14 @@ class BuildRssTests(unittest.TestCase):
         self.assertEqual(dt, datetime.datetime(2026, 9, 15, 6, 0, tzinfo=datetime.timezone.utc))
         email.utils.parsedate_to_datetime(ch.findtext("lastBuildDate"))
 
+    def test_atom_self_link(self):
+        ns = "{http://www.w3.org/2005/Atom}link"
+        self.assertIsNone(parse(f.build_rss([])).find(ns))
+        ch = parse(f.build_rss([art(1)], self_url="https://example.org/a&b/feed.xml"))
+        self.assertEqual(ch.find(ns).get("href"), "https://example.org/a&b/feed.xml")
+        self.assertEqual(ch.find(ns).get("rel"), "self")
+        self.assertEqual(ch.findtext("link"), "https://pubmed.ncbi.nlm.nih.gov/")
+
     def test_empty_feed_is_valid(self):
         ch = parse(f.build_rss([]))
         self.assertEqual(ch.findall("item"), [])
@@ -369,6 +377,8 @@ class MainTests(unittest.TestCase):
             for fp in files:
                 c = ET.parse(fp).getroot().find("channel")
                 self.assertEqual(c.findtext("title"), "Nice Name — JHU proxied")
+                self.assertEqual(c.find("{http://www.w3.org/2005/Atom}link").get("href"),
+                                 f"{f.PAGES_BASE_URL}/feeds/{fp.name}")
                 self.assertEqual(len(c.findall("item")), 2)
 
     def test_idempotent_across_runs(self):
