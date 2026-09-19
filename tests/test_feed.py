@@ -143,6 +143,7 @@ class BuildRssTests(unittest.TestCase):
         hrefs = [a.get("href") for a in frag.iter("a")]
         self.assertEqual(len(hrefs), 2)
         self.assertTrue(all(h.startswith(f.PROXY_PREFIX) for h in hrefs))
+        self.assertNotIn("prox", "".join(frag.itertext()).lower())   # link labels stay clean
         self.assertIn("O'Brien & Sons <x>", "".join(frag.itertext()))
 
     def test_guid_and_pubdate(self):
@@ -313,6 +314,109 @@ class FetchSummariesTests(unittest.TestCase):
         self.assertEqual(a["authors"].count("Author"), 6)
 
 
+EFETCH_XML = """<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2025//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd">
+<PubmedArticleSet>
+<PubmedArticle><MedlineCitation><PMID Version="1">111</PMID><Article><Abstract>
+  <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Sepsis &amp; shock; p &lt; 0.05 with CO<sub>2</sub> and <i>E. coli</i>.</AbstractText>
+  <AbstractText Label="MATERIALS AND METHODS">We did   things
+     across lines.</AbstractText>
+  <AbstractText Label="EMPTY"></AbstractText>
+  <AbstractText Label="CONCLUSIONS">It &quot;worked&quot; &#x2014; mostly.</AbstractText>
+</Abstract></Article><OtherAbstract><AbstractText>Plain-language summary, ignored.</AbstractText></OtherAbstract></MedlineCitation></PubmedArticle>
+<PubmedArticle><MedlineCitation><PMID Version="1">222</PMID><Article><Abstract>
+  <AbstractText>One unstructured paragraph.</AbstractText>
+</Abstract></Article></MedlineCitation></PubmedArticle>
+<PubmedArticle><MedlineCitation><PMID Version="1">333</PMID><Article><ArticleTitle>A letter, no abstract</ArticleTitle></Article></MedlineCitation></PubmedArticle>
+<PubmedArticle><MedlineCitation><PMID Version="1">555</PMID><Article><ArticleTitle>Viewpoint</ArticleTitle></Article>
+  <OtherAbstract Type="Publisher" Language="spa"><AbstractText>Resumen en espanol.</AbstractText></OtherAbstract>
+  <OtherAbstract Type="plain-language-summary" Language="eng"><AbstractText>This Viewpoint discusses things.</AbstractText></OtherAbstract>
+</MedlineCitation></PubmedArticle>
+<PubmedBookArticle><BookDocument><PMID>444</PMID></BookDocument></PubmedBookArticle>
+</PubmedArticleSet>""".encode()
+
+
+@mock.patch.object(f.time, "sleep", lambda s: None)
+class AbstractTests(unittest.TestCase):
+    def fetch(self, *bodies):
+        with mock.patch.object(f.urllib.request, "urlopen", side_effect=[FakeResponse(b) for b in bodies]) as m:
+            return f.fetch_abstracts(["111", "222", "333"]), m
+
+    def test_parses_structured_unstructured_and_missing(self):
+        got, m = self.fetch(EFETCH_XML)
+        self.assertEqual(set(got), {"111", "222", "555"})    # 333 (letter) and the book: no abstract
+        # no formal abstract -> English one-line summary only; never the translation
+        self.assertEqual(got["555"], [("", "This Viewpoint discusses things.")])
+        # a formal abstract wins over any OtherAbstract
+        self.assertNotIn("Plain-language", str(got["111"]))
+        self.assertEqual(got["111"], [
+            ("Background", "Sepsis & shock; p < 0.05 with CO2 and E. coli."),
+            ("Materials and methods", "We did things across lines."),
+            ("Conclusions", 'It "worked" \u2014 mostly.')])
+        self.assertEqual(got["222"], [("", "One unstructured paragraph.")])
+        qs = urllib.parse.parse_qs(urllib.parse.urlsplit(m.call_args[0][0].full_url).query)
+        self.assertEqual((qs["retmode"], qs["id"], qs["db"]), (["xml"], ["111,222,333"], ["pubmed"]))
+
+    def test_no_pmids_makes_no_request(self):
+        with mock.patch.object(f.urllib.request, "urlopen") as m:
+            self.assertEqual(f.fetch_abstracts([]), {})
+            m.assert_not_called()
+
+    def test_truncated_xml_is_retried(self):
+        got, m = self.fetch(EFETCH_XML[:400], b"<html>502</html", EFETCH_XML)
+        self.assertEqual(set(got), {"111", "222", "555"})
+        self.assertEqual(m.call_count, 3)
+
+    def test_ncbi_error_document_raises_after_retries(self):
+        err = b"<eFetchResult><ERROR>backend unavailable</ERROR></eFetchResult>"
+        with mock.patch.object(f.urllib.request, "urlopen", side_effect=[FakeResponse(err)] * f.MAX_RETRIES):
+            with self.assertRaises(ValueError):
+                f.fetch_abstracts(["1"])
+
+    def test_abstract_renders_as_wellformed_html_inside_valid_xml(self):
+        hostile = [(s[:40], s) for s in NASTY_STRINGS]
+        ch = parse(f.build_rss([art(1, abstract=[(lab, f.clean_text(txt)) for lab, txt in hostile]),
+                                art(2, abstract=[("", "Plain.")]), art(3), art(4, abstract=[])]))
+        items = ch.findall("item")
+        for it in items:
+            ET.fromstring(f"<d>{it.findtext('description')}</d>")
+        frag = ET.fromstring(f"<d>{items[1].findtext('description')}</d>")
+        self.assertEqual(frag.find("p").text, "Plain.")
+        self.assertIsNone(frag.find("p/b"))
+        self.assertEqual(len(list(ET.fromstring(f"<d>{items[2].findtext('description')}</d>").iter("a"))), 2)
+
+    def test_structured_labels_are_bold_and_text_survives(self):
+        a = art(1, abstract=[("Background", "Sepsis & shock; p < 0.05."), ("Results", "HR 0.8 (95% CI 0.6-1.0)")])
+        frag = ET.fromstring(f"<d>{parse(f.build_rss([a])).find('item').findtext('description')}</d>")
+        self.assertEqual([b.text for b in frag.iter("b")], ["Background:", "Results:"])
+        self.assertIn("Sepsis & shock; p < 0.05.", "".join(frag.itertext()))
+        paras = frag.findall("p")
+        self.assertEqual(len(paras), 3)                       # 2 abstract sections + the byline/links block
+        self.assertEqual(len(list(paras[-1].iter("a"))), 2)   # links come last, after the abstract
+
+    def test_main_attaches_abstracts_by_pmid(self):
+        with tempfile.TemporaryDirectory() as d:
+            out = Path(d) / "feed.xml"
+            rc, _, _ = MainTests.run_main(self, out, lambda j: ["1", "2"],
+                                          abstracts=lambda pmids: {"1": [("Aim", "Find out.")]})
+            self.assertEqual(rc, 0)
+            by_guid = {i.findtext("guid"): i.findtext("description") for i in ET.parse(out).getroot().iter("item")}
+            self.assertIn("Find out.", by_guid["pmid:1"])
+            self.assertNotIn("Find out.", by_guid["pmid:2"])
+
+    def test_abstract_outage_never_costs_a_journal_its_feed(self):
+        def boom(pmids):
+            raise urllib.error.URLError("efetch down")
+
+        with tempfile.TemporaryDirectory() as d:
+            out = Path(d) / "feed.xml"
+            rc, _, err = MainTests.run_main(self, out, lambda j: ["1"], abstracts=boom)
+            self.assertEqual(rc, 0)
+            self.assertIn("abstracts unavailable", err)
+            self.assertEqual(len(list((Path(d) / "feeds").glob("*.xml"))), len(f.JOURNALS))
+            self.assertEqual(len(list(ET.parse(out).getroot().iter("item"))), 1)
+
+
 @mock.patch.object(f.time, "sleep", lambda s: None)
 class EutilsRetryTests(unittest.TestCase):
     def http_error(self, code):
@@ -393,13 +497,14 @@ class EutilsRetryTests(unittest.TestCase):
 
 @mock.patch.object(f.time, "sleep", lambda s: None)
 class MainTests(unittest.TestCase):
-    def run_main(self, out, search, summaries=None):
+    def run_main(self, out, search, summaries=None, abstracts=None):
         def fake_fetch(pmids):
             return [art(p, journal="Nice Name", pubdate=f"2026/09/{10 + int(p) % 9:02d} 06:00") for p in pmids]
 
         buf_out, buf_err = io.StringIO(), io.StringIO()
         with mock.patch.object(f, "search_journal", side_effect=search), \
                 mock.patch.object(f, "fetch_summaries", side_effect=summaries or fake_fetch), \
+                mock.patch.object(f, "fetch_abstracts", side_effect=abstracts or (lambda pmids: {})), \
                 mock.patch.object(sys, "argv", ["x", str(out)]), \
                 redirect_stdout(buf_out), redirect_stderr(buf_err):
             rc = f.main()

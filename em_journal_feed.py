@@ -8,6 +8,7 @@ How it works:
   2. Builds a single RSS 2.0 feed, newest first
   3. Each item links to the article via the Welch/JHU proxy prefix
      (DOI link when available, PubMed link as fallback)
+  4. Each item's body carries the PubMed abstract, so it reads inside the RSS app
 
 No dependencies — uses only the Python standard library (macOS python3 is fine).
 
@@ -33,6 +34,7 @@ import email.utils
 import urllib.error
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 # ============================== CONFIG ======================================
@@ -134,8 +136,10 @@ if NCBI_API_KEY:
 # ============================================================================
 
 
-def eutils_get(endpoint: str, params: dict) -> dict:
-    params = {**params, **TOOL_PARAMS, "retmode": "json"}
+def eutils_get(endpoint: str, params: dict, fmt: str = "json"):
+    """GET an E-utilities endpoint with retries. Returns parsed JSON (dict), or
+    for fmt="xml" the parsed XML root element (efetch has no JSON output)."""
+    params = {**params, **TOOL_PARAMS, "retmode": fmt}
     url = f"{EUTILS}/{endpoint}?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": "journal-feed/1.0"})
     last_err = None
@@ -144,15 +148,21 @@ def eutils_get(endpoint: str, params: dict) -> dict:
             time.sleep(REQUEST_DELAY * 2 ** attempt)
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
-                # strict=False: NCBI occasionally emits raw control chars in titles
-                data = json.loads(resp.read().decode("utf-8"), strict=False)
+                body = resp.read()
+            if fmt == "xml":
+                root = ET.fromstring(body)
+                if root.tag == "eFetchResult" or root.find("ERROR") is not None:
+                    raise ValueError(f"NCBI error: {(root.findtext('ERROR') or '').strip()}")
+                return root
+            # strict=False: NCBI occasionally emits raw control chars in titles
+            data = json.loads(body.decode("utf-8"), strict=False)
         except urllib.error.HTTPError as e:
             if e.code != 429 and e.code < 500:
                 raise
             last_err = e
             continue
-        except (urllib.error.URLError, TimeoutError, ConnectionError, ValueError) as e:
-            last_err = e          # network blip or truncated/non-JSON body
+        except (urllib.error.URLError, TimeoutError, ConnectionError, ValueError, ET.ParseError) as e:
+            last_err = e          # network blip or truncated/garbled body
             continue
         # NCBI reports some failures (rate limit, backend down) inside a 200 body
         err = data.get("error") or data.get("esearchresult", {}).get("ERROR") \
@@ -213,6 +223,32 @@ def fetch_summaries(pmids: list[str]) -> list[dict]:
             "pubtypes": ", ".join(rec.get("pubtype", [])),
         })
     return articles
+
+
+def fetch_abstracts(pmids: list[str]) -> dict:
+    """Return {pmid: [(label, text), ...]} for the PMIDs that have an abstract.
+    Label is "" for unstructured abstracts. Letters, replies and editorials
+    usually have none and are simply absent from the result."""
+    if not pmids:
+        return {}
+    root = eutils_get("efetch.fcgi", {"db": "pubmed", "id": ",".join(pmids)}, fmt="xml")
+    out = {}
+    for article in root.iter("PubmedArticle"):
+        pmid = (article.findtext("MedlineCitation/PMID") or "").strip()
+        sections = []
+        nodes = article.findall("MedlineCitation/Article/Abstract/AbstractText")
+        if not nodes:
+            # No formal abstract (JAMA Viewpoints etc.): fall back to the
+            # publisher's one-line English summary. Other languages are translations.
+            nodes = [n for other in article.findall("MedlineCitation/OtherAbstract")
+                     if other.get("Language", "eng") == "eng" for n in other.findall("AbstractText")]
+        for node in nodes:
+            text = clean_text("".join(node.itertext()))   # itertext flattens <i>, <sub>, …
+            if text:
+                sections.append((clean_text(node.get("Label", "")).capitalize(), text))
+        if pmid and sections:
+            out[pmid] = sections
+    return out
 
 
 _TAGS = re.compile(r"</?(?:i|b|u|em|strong|sub|sup)\s*/?>", re.I)  # bare tags only: "a <b or c> d" is text
@@ -281,10 +317,12 @@ def build_rss(articles: list[dict], title: str = FEED_TITLE, desc: str = FEED_DE
         desc_parts = [
             esc(art["authors"]) if art["authors"] else "",
             esc(art["pubtypes"]) if art["pubtypes"] else "",
-            f'<a href="{esc(link)}">Full text (JHU proxy)</a>',
-            f'<a href="{esc(proxied_pubmed)}">PubMed (proxied)</a>',
+            f'<a href="{esc(link)}">Full text</a> · <a href="{esc(proxied_pubmed)}">PubMed</a>',
         ]
-        item_desc = esc("<br/>".join(p for p in desc_parts if p))
+        abstract = "".join(
+            f"<p><b>{esc(label)}:</b> {esc(text)}</p>" if label else f"<p>{esc(text)}</p>"
+            for label, text in art.get("abstract", []))
+        item_desc = esc(abstract + "<p>" + "<br/>".join(p for p in desc_parts if p) + "</p>")
 
         items.append(f"""    <item>
       <title>{item_title}</title>
@@ -355,6 +393,14 @@ def main():
             time.sleep(REQUEST_DELAY)
             arts = fetch_summaries(pmids) if pmids else []
             if pmids:
+                time.sleep(REQUEST_DELAY)
+                try:
+                    abstracts = fetch_abstracts(pmids)
+                    for a in arts:
+                        a["abstract"] = abstracts.get(a["pmid"], [])
+                except Exception as e:
+                    # Abstracts are a nicety: never lose a journal's feed over them
+                    print(f"  {journal}: abstracts unavailable ({e})", file=sys.stderr)
                 time.sleep(REQUEST_DELAY)
             by_journal[journal] = arts
             print(f"  {journal}: {len(arts)} article(s)")
