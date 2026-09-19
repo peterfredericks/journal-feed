@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.peter.journalfeed</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/YOURUSER/Scripts/em_journal_feed.py</string>
+        <string>/Users/YOURUSER/Scripts/feed.xml</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>10800</integer><!-- every 3 hours -->
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/tmp/journalfeed.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/journalfeed.err</string>
+</dict>
+</plist>

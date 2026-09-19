@@ -1,0 +1,13 @@
+# Local-only notes for Claude Code sessions
+CLAUDE.md
+.claude/
+
+# Generated output (published to the gh-pages branch by the workflow, never to main)
+feed.xml
+feeds/
+subscriptions.opml
+public/
+
+__pycache__/
+*.pyc
+.DS_Store
