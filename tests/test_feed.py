@@ -327,9 +327,26 @@ class EutilsRetryTests(unittest.TestCase):
         with mock.patch.object(f.urllib.request, "urlopen", side_effect=seq):
             self.assertEqual(f.search_journal("X"), ["5"])
 
-    def test_no_api_key_sent_unless_configured(self):
-        self.assertNotIn("api_key", f.TOOL_PARAMS)  # tests run without the env var
-        self.assertGreaterEqual(f.REQUEST_DELAY, 0.34)  # 3 req/s ceiling without a key
+    def load_with_env(self, **env):
+        """Fresh copy of the module imported under a controlled environment."""
+        import importlib.util
+        import os
+        spec = importlib.util.spec_from_file_location("feed_env_probe", f.__file__)
+        mod = importlib.util.module_from_spec(spec)
+        with mock.patch.dict(os.environ, env, clear=True):
+            spec.loader.exec_module(mod)
+        return mod
+
+    def test_api_key_only_from_environment(self):
+        for blank in ({}, {"NCBI_API_KEY": ""}, {"NCBI_API_KEY": "   "}):
+            m = self.load_with_env(**blank)
+            self.assertNotIn("api_key", m.TOOL_PARAMS)
+            self.assertGreaterEqual(m.REQUEST_DELAY, 0.34)  # 3 req/s ceiling without a key
+        m = self.load_with_env(NCBI_API_KEY=" k123 ")
+        self.assertEqual(m.TOOL_PARAMS["api_key"], "k123")
+        self.assertGreaterEqual(m.REQUEST_DELAY, 0.1)       # 10 req/s ceiling with one
+        # the key must never be baked into the source file
+        self.assertNotRegex(Path(f.__file__).read_text(), r"api_key\W+[0-9a-f]{20,}")
 
     def test_query_is_well_formed(self):
         captured = {}
