@@ -84,11 +84,40 @@ JOURNAL_GROUPS = {
 }
 JOURNALS = [j for group in JOURNAL_GROUPS.values() for j in group]
 
+# What each feed is called in your reader. Purely cosmetic — the PubMed names
+# above drive the search and the feed URLs. Anything not listed falls back to
+# its PubMed name.
+DISPLAY_NAMES = {
+    "Annals of emergency medicine": "Annals of Emergency Medicine",
+    "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine":
+        "Academic Emergency Medicine",
+    "Journal of the American College of Emergency Physicians open": "JACEP Open",
+    "The American journal of emergency medicine": "American Journal of Emergency Medicine",
+    "The Journal of emergency medicine": "Journal of Emergency Medicine",
+    "Emergency medicine journal : EMJ": "Emergency Medicine Journal",
+    "The western journal of emergency medicine": "Western Journal of Emergency Medicine",
+    "Resuscitation": "Resuscitation",
+    "Prehospital emergency care": "Prehospital Emergency Care",
+    "Critical care medicine": "Critical Care Medicine",
+    "Intensive care medicine": "Intensive Care Medicine",
+    "Critical care (London, England)": "Critical Care",
+    "American journal of respiratory and critical care medicine": "AJRCCM",
+    "Chest": "CHEST",
+    "The New England journal of medicine": "NEJM",
+    "JAMA": "JAMA",
+    "Lancet (London, England)": "The Lancet",
+    "JAMA internal medicine": "JAMA Internal Medicine",
+    "Annals of internal medicine": "Annals of Internal Medicine",
+    "JAMA network open": "JAMA Network Open",
+    "Journal of addiction medicine": "Journal of Addiction Medicine",
+    "Drug and alcohol dependence": "Drug and Alcohol Dependence",
+}
+
 WRITE_PER_JOURNAL = True   # also write one feed per journal into a feeds/ folder
 LOOKBACK_DAYS = 7          # how far back each run looks (feed readers dedupe by GUID)
 MAX_PER_JOURNAL = 150      # safety cap per journal per run (JAMA Netw Open runs 40+/week)
-FEED_TITLE = "EM + Journals — JHU proxied"
-FEED_DESC = "New articles from my journals, linked through JHU institutional access"
+FEED_TITLE = "All Journals"
+FEED_DESC = "New articles from every journal, in one feed"
 REQUEST_DELAY = 0.4        # seconds between NCBI calls (stay under 3 req/s)
 MAX_RETRIES = 4            # per NCBI call, with exponential backoff (429 / 5xx / network)
 
@@ -177,6 +206,7 @@ def fetch_summaries(pmids: list[str]) -> list[dict]:
             "pmid": pmid,
             "title": clean_text(rec.get("title", "")).rstrip(".") or "[No title]",
             "journal": clean_text(rec.get("fulljournalname") or rec.get("source", "")),
+            "abbrev": clean_text(rec.get("source", "")),   # e.g. "N Engl J Med"
             "authors": clean_text(", ".join(a for a in authors if a)),
             "pubdate": edat or rec.get("sortpubdate", "") or rec.get("epubdate", "") or rec.get("pubdate", ""),
             "doi": doi.strip(),
@@ -232,7 +262,10 @@ def slugify(name: str) -> str:
 
 
 def build_rss(articles: list[dict], title: str = FEED_TITLE, desc: str = FEED_DESC,
-              self_url: str = "") -> str:
+              self_url: str = "", show_journal: bool = False) -> str:
+    # show_journal: prefix item titles with the journal's short name. Only the
+    # merged feed wants this — inside a single-journal feed the reader already
+    # shows the feed name on every item, so a prefix is pure clutter.
     # self_url = where this feed is published (feed validators recommend declaring it)
     self_link = f'\n    <atom:link href="{esc(self_url)}" rel="self" type="application/rss+xml"/>' if self_url else ""
     now = rfc822(utcnow())
@@ -243,7 +276,8 @@ def build_rss(articles: list[dict], title: str = FEED_TITLE, desc: str = FEED_DE
         link = PROXY_PREFIX + urllib.parse.quote(target, safe="")
         proxied_pubmed = PROXY_PREFIX + urllib.parse.quote(pubmed_url, safe="")
 
-        item_title = esc(f"{art['journal']} — {art['title']}")
+        short = art.get("abbrev") or display_name(art["journal"])
+        item_title = esc(f"{short}: {art['title']}" if show_journal and short else art["title"])
         desc_parts = [
             esc(art["authors"]) if art["authors"] else "",
             esc(art["pubtypes"]) if art["pubtypes"] else "",
@@ -276,8 +310,8 @@ def build_rss(articles: list[dict], title: str = FEED_TITLE, desc: str = FEED_DE
 
 
 def display_name(journal: str) -> str:
-    """Short reader-facing name: PubMed name minus its ' : subtitle'."""
-    return journal.split(" : ")[0]
+    """Reader-facing name: DISPLAY_NAMES entry, else PubMed name minus ' : subtitle'."""
+    return DISPLAY_NAMES.get(journal) or journal.split(" : ")[0]
 
 
 def build_opml(groups: dict = None, base_url: str = None) -> str:
@@ -289,7 +323,7 @@ def build_opml(groups: dict = None, base_url: str = None) -> str:
         return (f'{indent}<outline type="rss" text="{esc(text)}" title="{esc(text)}" '
                 f'xmlUrl="{esc(url)}" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>')
 
-    lines = [feed("    ", "All journals (merged)", f"{base}/feed.xml")]
+    lines = [feed("    ", FEED_TITLE, f"{base}/feed.xml")]
     for group, journals in groups.items():
         lines.append(f'    <outline text="{esc(group)}" title="{esc(group)}">')
         lines += [feed("      ", display_name(j), f"{base}/feeds/{slugify(j)}.xml") for j in journals]
@@ -343,7 +377,7 @@ def main():
     merged.sort(key=lambda a: parse_date(a["pubdate"]), reverse=True)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     base = PAGES_BASE_URL.rstrip("/")
-    out_path.write_text(build_rss(merged, self_url=f"{base}/feed.xml"), encoding="utf-8")
+    out_path.write_text(build_rss(merged, self_url=f"{base}/feed.xml", show_journal=True), encoding="utf-8")
     print(f"\nWrote {len(merged)} items to {out_path} (merged)")
 
     # Per-journal feeds → feeds/<journal>.xml next to the merged feed
@@ -353,12 +387,11 @@ def main():
         # A journal that errored keeps its previous feed file untouched
         for journal, arts in by_journal.items():
             arts = sorted(arts, key=lambda a: parse_date(a["pubdate"]), reverse=True)
-            # Use PubMed's full journal name for the feed title when available
-            nice_name = arts[0]["journal"] if arts else display_name(journal)
+            nice_name = display_name(journal)
             fp = feeds_dir / f"{slugify(journal)}.xml"
             fp.write_text(
-                build_rss(arts, title=f"{nice_name} — JHU proxied",
-                          desc=f"New articles in {nice_name}, linked through JHU access",
+                build_rss(arts, title=nice_name,
+                          desc=f"New articles in {nice_name}",
                           self_url=f"{base}/feeds/{slugify(journal)}.xml"),
                 encoding="utf-8",
             )

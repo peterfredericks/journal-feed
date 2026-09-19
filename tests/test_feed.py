@@ -111,7 +111,7 @@ class BuildRssTests(unittest.TestCase):
         for it, s in zip(items, NASTY_STRINGS):
             if "\x00" in s or "￿" in s:
                 continue  # build_rss is only fed clean_text output; covered below
-            self.assertEqual(it.findtext("title"), f"{s} — {s}")
+            self.assertEqual(it.findtext("title"), s)
             self.assertEqual(it.findtext("category"), s)
 
     def test_channel_header_not_shadowed_by_items(self):
@@ -161,6 +161,34 @@ class BuildRssTests(unittest.TestCase):
         self.assertEqual(ch.find(ns).get("href"), "https://example.org/a&b/feed.xml")
         self.assertEqual(ch.find(ns).get("rel"), "self")
         self.assertEqual(ch.findtext("link"), "https://pubmed.ncbi.nlm.nih.gov/")
+
+    def test_item_titles_are_clean_and_merged_feed_uses_short_journal_name(self):
+        a = art(1, title="Antidotes for Anticoagulation Reversal", abbrev="N Engl J Med",
+                journal="The New England journal of medicine")
+        self.assertEqual(parse(f.build_rss([a])).find("item").findtext("title"),
+                         "Antidotes for Anticoagulation Reversal")
+        self.assertEqual(parse(f.build_rss([a], show_journal=True)).find("item").findtext("title"),
+                         "N Engl J Med: Antidotes for Anticoagulation Reversal")
+        # no abbreviation available -> falls back to the name without its subtitle
+        b = art(2, title="X", journal="Academic emergency medicine : official journal of the Society")
+        self.assertEqual(parse(f.build_rss([b], show_journal=True)).find("item").findtext("title"),
+                         "Academic emergency medicine: X")
+        # journal is still available to readers as the item category
+        self.assertEqual(parse(f.build_rss([a])).find("item").findtext("category"),
+                         "The New England journal of medicine")
+
+    def test_nothing_reader_facing_says_proxied(self):
+        with mock.patch.object(f, "PAGES_BASE_URL", "https://example.org"):
+            texts = [f.FEED_TITLE, f.FEED_DESC, *f.DISPLAY_NAMES.values()]
+            opml = ET.fromstring(f.build_opml().encode())
+            texts += [o.get("text") for o in opml.iter("outline")]
+        for x in texts:
+            self.assertNotRegex(x.lower(), r"prox|jhu|\(london")
+            self.assertNotIn(" : ", x)
+
+    def test_every_journal_has_a_display_name_and_no_strays(self):
+        self.assertEqual(set(f.DISPLAY_NAMES), set(f.JOURNALS))
+        self.assertEqual(len(set(f.DISPLAY_NAMES.values())), len(f.JOURNALS))
 
     def test_empty_feed_is_valid(self):
         ch = parse(f.build_rss([]))
@@ -393,7 +421,9 @@ class MainTests(unittest.TestCase):
             self.assertEqual(len(files), len(f.JOURNALS))
             for fp in files:
                 c = ET.parse(fp).getroot().find("channel")
-                self.assertEqual(c.findtext("title"), "Nice Name — JHU proxied")
+                self.assertIn(c.findtext("title"), f.DISPLAY_NAMES.values())
+                for it in c.findall("item"):
+                    self.assertEqual(it.findtext("title"), "T")      # no journal prefix
                 self.assertEqual(c.find("{http://www.w3.org/2005/Atom}link").get("href"),
                                  f"{f.PAGES_BASE_URL}/feeds/{fp.name}")
                 self.assertEqual(len(c.findall("item")), 2)
@@ -452,7 +482,8 @@ class MainTests(unittest.TestCase):
             self.assertEqual(list(ET.parse(out).getroot().iter("item")), [])
             for fp in (Path(d) / "feeds").glob("*.xml"):
                 ch = ET.parse(fp).getroot().find("channel")
-                self.assertTrue(ch.findtext("title").endswith("— JHU proxied"))
+                self.assertTrue(ch.findtext("title"))
+                self.assertNotIn(" : ", ch.findtext("title"))        # subtitle dropped
 
     def test_slug_collision_is_refused(self):
         with tempfile.TemporaryDirectory() as d, \
@@ -484,7 +515,7 @@ class OpmlTests(unittest.TestCase):
             for o in fo:
                 self.assertEqual(o.get("type"), "rss")
                 self.assertTrue(o.get("text") and o.get("title"))
-                self.assertNotIn(" : ", o.get("text"))
+                self.assertIn(o.get("text"), f.DISPLAY_NAMES.values())
 
     def test_urls_are_deployed_https_not_local_paths(self):
         for o in self.outlines(f.build_opml()).iter("outline"):
