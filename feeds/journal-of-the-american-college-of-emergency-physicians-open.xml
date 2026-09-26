@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JACEP Open</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/journal-of-the-american-college-of-emergency-physicians-open.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in JACEP Open</description>
+    <lastBuildDate>Sat, 26 Sep 2026 21:07:44 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>A Woman With Generalized Abdominal Pain</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100510</link>
+      <guid isPermaLink="false">pmid:42787861</guid>
+      <pubDate>Fri, 25 Sep 2026 09:22:00 +0000</pubDate>
+      <category>Journal of the American College of Emergency Physicians open</category>
+      <description>&lt;p&gt;Tanglitanon T, Nakornchai T, Monsomboon A&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100510&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42787861%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Woman With a Distended Abdomen</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100509</link>
+      <guid isPermaLink="false">pmid:42787829</guid>
+      <pubDate>Fri, 25 Sep 2026 09:19:00 +0000</pubDate>
+      <category>Journal of the American College of Emergency Physicians open</category>
+      <description>&lt;p&gt;Vinson A, Koshy S, Huang D&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100509&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42787829%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

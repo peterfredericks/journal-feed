@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Western Journal of Emergency Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/the-western-journal-of-emergency-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Western Journal of Emergency Medicine</description>
+    <lastBuildDate>Sat, 26 Sep 2026 21:07:44 +0000</lastBuildDate>
+    <ttl>180</ttl>
+
+  </channel>
+</rss>

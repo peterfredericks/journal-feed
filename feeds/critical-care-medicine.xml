@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Care Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/critical-care-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Critical Care Medicine</description>
+    <lastBuildDate>Sat, 26 Sep 2026 21:07:44 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Epilepsy After Antipsychotic Prescription in Survivors of Traumatic Brain Injury: A Population-Based Cohort Study</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007335</link>
+      <guid isPermaLink="false">pmid:42765799</guid>
+      <pubDate>Mon, 21 Sep 2026 09:33:00 +0000</pubDate>
+      <category>Critical care medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To evaluate whether the choice of antipsychotic treatment following traumatic brain injury (TBI) hospitalization is associated with the risk of post-traumatic epilepsy in older adults.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design:&lt;/b&gt; Retrospective cohort study.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Setting:&lt;/b&gt; Population-based cohort in Ontario, Canada (2009-2021).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Patients:&lt;/b&gt; We included adults 66 years or older without epilepsy who survived a first TBI admission and filled new prescriptions for antipsychotics within 30 days after discharge.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interventions:&lt;/b&gt; None.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Measurements and main results:&lt;/b&gt; The exposure groups included patients who were prescribed haloperidol or risperidone, compared separately to quetiapine. The primary outcome was a new diagnosis of epilepsy up to 5 years following discharge. We used inverse probability of treatment weighting of cause-specific Cox models to calculate adjusted hazard ratios (aHR) and 95% CIs based on a robust variance estimator. Of 1204 TBI survivors included, 202 (17%) filled prescriptions for haloperidol, 300 (25%) for risperidone, and 702 (58%) for quetiapine; epilepsy was diagnosed in 6%, 13%, and 14% of these groups, respectively. Mortality by 5 years of follow-up was 89% for haloperidol, 66% for risperidone, and 62% for quetiapine. Compared with quetiapine, a new prescription for haloperidol (aHR = 0.73; 95% CI, 0.39-1.34) or risperidone (aHR = 0.94; 95% CI, 0.65-1.36) was not associated with higher epilepsy risk.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; We found no clear signal of a differential risk of epilepsy when comparing new prescriptions for haloperidol or risperidone with quetiapine among survivors of TBI. Nonetheless, high mortality limited comparability across groups, CIs were wide, and additional studies should confirm our findings.&lt;/p&gt;&lt;p&gt;Ferraris A, Szmulewicz AG, Adhikari NKJ, Burry L, Hernández A, Wunsch H&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007335&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42765799%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

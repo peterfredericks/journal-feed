@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Care</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/critical-care-london-england.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Critical Care</description>
+    <lastBuildDate>Sat, 26 Sep 2026 21:07:44 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Increased ureagenesis revealing metabolic intolerance to enhanced nutrition in the PICU: a secondary analysis of the PEPaNIC RCT</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06345-7</link>
+      <guid isPermaLink="false">pmid:42791581</guid>
+      <pubDate>Fri, 25 Sep 2026 23:52:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; As compared with withholding parenteral nutrition (PN) for one week (late-PN), early supplementation of insufficient enteral nutrition with PN (early-PN) increased infection risk and delayed recovery of critically ill children in the PEPaNIC-RCT, with harm attributed to higher amino acid doses. We hypothesized that this harm could be explained by increased ureagenesis, revealing metabolic intolerance to enhanced feeding.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; This is a secondary analysis of the PEPaNIC-RCT (ClinicalTrials.gov-NCT01536275), in which patients (newborn-17 years) admitted to pediatric intensive care units (PICUs, Leuven-Rotterdam-Edmonton) were randomly allocated to early-PN or late-PN. For patients not receiving renal replacement therapy (RRT), we documented plasma/serum urea and urea/creatinine ratio (UCR) profiles throughout two PICU weeks and investigated whether an increased maximum value in the randomized intervention window (first week) statistically explained harm by early-PN, via multivariable logistic regression and Cox proportional hazards analyses. We studied risk of new infections and duration of PICU dependency as primary outcomes, 90-day mortality as safety outcome, and duration of hospital dependency as secondary outcome.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Of 1440 PEPaNIC-patients recruited, 665 early-PN and 663 late-PN non-RRT patients had UCR data. Urea concentrations and UCRs were higher in early-PN than in late-PN patients throughout the first 11 days. Higher first week maximum UCR independently associated with (OR/HR expressed per 30 age-normalized units) an increased risk of new infection [adjusted OR (95%CI) 1.746 (1.353-2.265), p &amp;lt; 0.0001], lower likelihood of earlier live PICU [adjusted HR 0.745 (0.671-0.824), p &amp;lt; 0.0001] and hospital discharge [adjusted-HR 0.778 (0.703-0.860), p &amp;lt; 0.0001], and increased 90-day mortality [adjusted OR 1.432 (1.029-1.993), p = 0.033], and statistically explained (part of) any effect of the randomized intervention. Similar results were obtained for urea concentrations.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Increased plasma/serum urea or UCR with early-PN partially explained the harm by early-PN, suggesting these may identify critically ill children metabolically intolerant to enhanced nutrition. This opens perspectives for incorporating urea or UCR into a dynamic monitoring tool to guide the appropriate timing and dosing of nutritional support.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov NCT01536275, registered February 2012.&lt;/p&gt;&lt;p&gt;Vanhorebeek I, Umman Serin N, Verbruggen SCAT, Joosten KFM, Van den Berghe G, Gunst J&lt;br/&gt;Journal Article, Randomized Controlled Trial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06345-7&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42791581%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Indirect calorimetry-guided nutrition during weaning from prolonged mechanical ventilation: a double-blind randomized controlled trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06272-7</link>
+      <guid isPermaLink="false">pmid:42791574</guid>
+      <pubDate>Fri, 25 Sep 2026 23:51:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Purpose:&lt;/b&gt; To determine whether indirect calorimetry (IC)-guided nutritional prescriptions improve weaning success and time to liberation from prolonged mechanical ventilation (PMV) compared with predictive-equation-guided feeding.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this double-blind randomized controlled trial conducted at Reuth Tel-Aviv Rehabilitation Hospital (Nov 2019-Apr 2023), with 1-year follow-up, adults ventilated ≥ 21 days were randomized to receive IC-guided energy targets or predictive-equation-guided feeding. Primary outcomes were successful weaning (≥ 7 consecutive days of spontaneous breathing) and time to successful weaning. Secondary outcomes included number of weaning cycles and 1-year mortality. Metabolic/nutritional safety parameters were recorded. Analyses followed the intention-to-treat principle, with additional per-protocol analyses. Time-to-event outcomes were evaluated using Kaplan-Meier estimates and Cox proportional hazards models.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 211 randomized patients (111 IC; 100 control), successful weaning was achieved in 58% of the IC arm and 50% of the control arm (absolute difference 8%; p = 0.33). Median time to successful weaning was 27 vs. 31 days, respectively (p = 0.58). One-year mortality was 48% in the IC arm and 56% in the control arm (absolute difference of -8%, 95%CI: -21.2%, 5.5%; p = 0.29). In a post hoc analysis of the per-protocol cohort (n = 198), a smaller difference between measured energy expenditure and delivered energy intake (energy-gap) was independently associated with a higher likelihood of successful weaning (HR = 1.02 per 50-kcal/day reduction in the energy-gap; 95%CI: 1.00, 1.05; p = 0.02). IC-guided feeding resulted in closer alignment between measured energy expenditure and delivered energy intake and reduced the tendency toward overfeeding observed with predictive-equation-based prescriptions. Successful weaning was independently associated with lower one-year mortality (HR = 0.54; 95%CI: 0.36-0.82), adjusting for study arm.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusion:&lt;/b&gt; The observed rates of successful weaning and one-year survival were numerically higher, and median time to liberation was shorter, with IC-guided nutrition than with predictive-equation-guided feeding, although between-group differences were not statistically significant. Closer alignment between measured energy expenditure and delivered energy intake was independently associated with successful weaning. These findings support further evaluation of energy delivery guided by measured energy expenditure in adequately powered multicenter trials.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov identifier NCT04825717. Registered March 15, 2021.&lt;/p&gt;&lt;p&gt;Fradkin M, Elyashiv M, Brik M, Agay N, Kait MG, Bornstein L&lt;br/&gt;Journal Article, Randomized Controlled Trial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06272-7&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42791574%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reply to: Organ donation after ECPR: ethical challenges and clinical implications</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06349-3</link>
+      <guid isPermaLink="false">pmid:42791549</guid>
+      <pubDate>Fri, 25 Sep 2026 23:49:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Rajsic S, Argudo E, Belda Hofheinz SM, Martínez Martínez M, Delgado A, Antonini MV&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06349-3&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42791549%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dosing of anti-infective drugs in patients undergoing therapeutic plasma exchange - considerations for practical application: a narrative review</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06306-0</link>
+      <guid isPermaLink="false">pmid:42786518</guid>
+      <pubDate>Fri, 25 Sep 2026 00:08:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Therapeutic plasma exchange (TPE) is used in a wide range of indications and patient populations. The current guidelines of the American Society for Apheresis on the use of therapeutic apheresis in clinical practice list 166 graded indications for TPE. Many indications are related to the treatment of critically ill patients. Indeed, two multicenter trials are currently investigating the role of TPE in the treatment of early septic shock.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main body:&lt;/b&gt; During TPE, usually 1.0-1.5 times the calculated plasma volume is exchanged using albumin solution or fresh frozen plasma as replacement fluid, although considerable deviations from this recommended exchange volume have been reported. Depending on the TPE modality (membrane-based or centrifugal), the duration of the procedure ranges between 90 and 140 min. TPE removes not only unwanted substances such as inflammatory mediators or pathological antibodies but may also remove drugs that are essential for the treatment of the underlying disease. Furthermore, changes in plasma protein concentrations due to TPE may affect the volume of distribution (Vd) and the concentrations of protein-bound drugs. The objective of the current narrative review is to introduce general principles of TPE-associated drug removal as well as the current literature on the dosing of anti-infectives in patients undergoing TPE.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusion:&lt;/b&gt; Pharmacokinetic characteristics, including volume of distribution, plasma protein binding, endogenous clearance, and redistribution kinetics, have been demonstrated to influence the susceptibility of a drug to TPE-associated removal. TPE may substantially affect plasma levels of drugs with low volume of distribution and high protein binding, including aminoglycosides and glycopeptides. Further studies are needed because direct evidence on the pharmacokinetics of anti-infective drugs undergoing TPE in sepsis remains limited. Specific timing or dosing strategies are therefore not supported by sufficient evidence and should be individualized according to drug-specific pharmacokinetics, TPE characteristics, and clinical situation.&lt;/p&gt;&lt;p&gt;Nachtigall MB, Schmidt JJ, Scherneck S, Flechtner J, David S, Kielstein JT&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06306-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42786518%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reply to: &quot;From derived signals to clinical stratification: interpreting EIT pulsatility in pulmonary embolism&quot;</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06343-9</link>
+      <guid isPermaLink="false">pmid:42786509</guid>
+      <pubDate>Fri, 25 Sep 2026 00:06:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Xu S, Li J, Li Z, Cai Y, Zhao J, Zhu R&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06343-9&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42786509%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The NLRP3 inflammasome in physiological and dysfunctional host response in human sepsis and critical illness: a narrative review</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06315-z</link>
+      <guid isPermaLink="false">pmid:42778957</guid>
+      <pubDate>Wed, 23 Sep 2026 23:57:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; The NLRP3 inflammasome is a cytosolic multiprotein complex that serves as a key regulator of innate immunity by reacting to pathogen- and damage-associated signals and orchestrating downstream inflammatory responses. Inflammasome activation induces caspase-1-dependent maturation of interleukin (IL)-1β, IL-18 and gasdermin D, which results in pyroptotic cell death.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main text:&lt;/b&gt; While tightly controlled inflammasome activation is essential for effective host defence and pathogen clearance, accumulating evidence implicates its dysregulation as a central driver of host response imbalance in critical illness. In conditions such as sepsis and acute respiratory distress syndrome, excessive activation contributes to hyperinflammation, endothelial dysfunction, immunothrombosis, and multi-organ failure. Conversely, insufficient or exhausted inflammasome responses may impair microbial clearance and predispose to secondary infections. These observations underscore the context-dependent and temporally dynamic role of inflammasome signalling as being either protective or pathogenic. Emerging therapeutic strategies aim to restore immune homeostasis through targeted modulation of inflammasome pathways, including IL-1 blockade (e.g., anakinra) and inhibition of upstream signalling components. However, clinical translation remains challenging, requiring improved patient stratification, biomarker-guided approaches, and a deeper understanding of disease heterogeneity.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Inflammasome signalling plays a highly dynamic role in critical illness, contributing to effective host defence, if functional, or to pathological inflammation, if dysregulated. Although targeted modulation of inflammasome pathways represents a promising therapeutic strategy, further research is needed to refine patient selection, identify reliable biomarkers, and better characterise disease heterogeneity to enable successful clinical translation.&lt;/p&gt;&lt;p&gt;Neumann C, Hickl F, Kemnitzer J, Leitner M, Giamarellos-Bourboulis EJ, Rubio I&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06315-z&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42778957%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eligibility criteria in sepsis-associated AKI trials preferentially exclude patients at risk to develop adverse kidney outcomes</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06348-4</link>
+      <guid isPermaLink="false">pmid:42778956</guid>
+      <pubDate>Wed, 23 Sep 2026 23:57:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Kamdem KV, Vardon F, Silva S, Faguer S&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06348-4&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42778956%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vancomycin dosing in critically ill patients receiving renal replacement therapy: a critical appraisal of the toxicity threshold and external validation</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06322-0</link>
+      <guid isPermaLink="false">pmid:42773480</guid>
+      <pubDate>Wed, 23 Sep 2026 00:07:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Zhou J, Lei H, Li R, Liu X, Chen G&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06322-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42773480%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intravenous-to-enteral drug substitution in the ICU: a single-centre analysis of the potential to reduce the environmental footprint of critical care</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06331-z</link>
+      <guid isPermaLink="false">pmid:42773466</guid>
+      <pubDate>Wed, 23 Sep 2026 00:04:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Marois C, Gasperment M, Celier A, Preteux A, Gaucher G, Scherer L&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06331-z&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42773466%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Two liberations, two physiological targets: implications of the X-COPD trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06330-0</link>
+      <guid isPermaLink="false">pmid:42768382</guid>
+      <pubDate>Tue, 22 Sep 2026 00:39:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Liu Z, Huang W&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06330-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42768382%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Correction to: Environmental burden of the neuro-conda trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06344-8</link>
+      <guid isPermaLink="false">pmid:42768364</guid>
+      <pubDate>Tue, 22 Sep 2026 00:34:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Massart N, Boissier F, Bernat M, Lecronier M, Arp HPH, Kalmar AF&lt;br/&gt;Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06344-8&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42768364%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Correction to: Coronary microvascular function in patients with sepsis and myocardial injury: an invasive coronary physiology study</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06298-x</link>
+      <guid isPermaLink="false">pmid:42760539</guid>
+      <pubDate>Fri, 18 Sep 2026 23:53:00 +0000</pubDate>
+      <category>Critical care (London, England)</category>
+      <description>&lt;p&gt;Lörstad S, Åstrand P, Gille-Johnson P, Wang Y, Ekenbäck C, Jokhaji F&lt;br/&gt;Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1186%2Fs13054-026-06298-x&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42760539%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergency Medicine Journal</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/emergency-medicine-journal.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Emergency Medicine Journal</description>
+    <lastBuildDate>Sat, 26 Sep 2026 21:07:44 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Trauma teams in trauma units: are they fit for purpose?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216024</link>
+      <guid isPermaLink="false">pmid:42785961</guid>
+      <pubDate>Thu, 24 Sep 2026 21:22:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;Carroll R, Lee JC, Raitt J&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216024&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42785961%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alcohol, drugs and self-harm emergencies in a national unscheduled care system: a retrospective observational study</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2025-215639</link>
+      <guid isPermaLink="false">pmid:42778343</guid>
+      <pubDate>Wed, 23 Sep 2026 21:42:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Alcohol, drugs and self-harm are important public health issues that often coincide with socioeconomic inequalities. While national policy frameworks highlight these as important issues, data describing their prevalence in unscheduled care are lacking.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Aim:&lt;/b&gt; To conduct the first national-level description of the number, demographic characteristics and routes of care involving alcohol, drugs or self-harm emergencies across all unscheduled care services in Scotland.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; A retrospective cross-sectional study using linked data from all unscheduled care services in Scotland (NHS 24 telephone triage service; primary care out-of-hours; ambulance; emergency department (ED); acute admission and mental health admission). All continuous care episodes (defined as pathways) were analysed and within these, indicators for involvement of alcohol, drugs and/or self-harm were identified from service level &amp;#x27;flags&amp;#x27; and clinical codes. Pathways from 1 April 2022 to 31 March 2023 were included. Descriptive analyses of characteristics, exploration of the top 30 most common pathways and top-down pathway-attributable-cost analyses were undertaken.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Of 2 721 120 pathways, 2.7% involved alcohol, drugs and/or self-harm-indicating considerable overlaps and complexity of care episodes. In 1.9% of all pathways only one of these indicators was identified. For the top 30 pathways (reflecting 79.0% of pathways involving only one indicator), the most common patient journey was ambulance to ED to acute admission, with an overall directly attributable cost to the National Health Service of approximately £216.9 million.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusion:&lt;/b&gt; Using current structured data, 1.9% of unscheduled care pathways in Scotland involve alcohol, drugs or self-harm and 2.7% involve one or several of these indicators. Ambulance services and EDs feature in most of these care pathways and are potential settings for intervention. Future work should explore these pathways in greater depth, refine case identification at service level and develop integrated care models within the ED to better serve this patient population and address health inequalities.&lt;/p&gt;&lt;p&gt;Schölin L, McStravick M, Lloyd A, Brett J, Eddleston M, Humphries C&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2025-215639&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42778343%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>All Journals</title>
+    <dateCreated>Sat, 26 Sep 2026 21:07:44 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="All Journals" title="All Journals" xmlUrl="https://peterfredericks.github.io/journal-feed/feed.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+    <outline text="Core EM" title="Core EM">
+      <outline type="rss" text="Annals of Emergency Medicine" title="Annals of Emergency Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/annals-of-emergency-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Academic Emergency Medicine" title="Academic Emergency Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/academic-emergency-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="JACEP Open" title="JACEP Open" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/journal-of-the-american-college-of-emergency-physicians-open.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="American Journal of Emergency Medicine" title="American Journal of Emergency Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/the-american-journal-of-emergency-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Journal of Emergency Medicine" title="Journal of Emergency Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/the-journal-of-emergency-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Emergency Medicine Journal" title="Emergency Medicine Journal" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/emergency-medicine-journal.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Western Journal of Emergency Medicine" title="Western Journal of Emergency Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/the-western-journal-of-emergency-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Resuscitation" title="Resuscitation" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/resuscitation.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Prehospital Emergency Care" title="Prehospital Emergency Care" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/prehospital-emergency-care.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+    </outline>
+    <outline text="Critical Care" title="Critical Care">
+      <outline type="rss" text="Critical Care Medicine" title="Critical Care Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/critical-care-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Intensive Care Medicine" title="Intensive Care Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/intensive-care-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Critical Care" title="Critical Care" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/critical-care-london-england.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="AJRCCM" title="AJRCCM" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/american-journal-of-respiratory-and-critical-care-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="CHEST" title="CHEST" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/chest.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+    </outline>
+    <outline text="General" title="General">
+      <outline type="rss" text="NEJM" title="NEJM" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/the-new-england-journal-of-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="JAMA" title="JAMA" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/jama.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="The Lancet" title="The Lancet" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/lancet-london-england.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="JAMA Internal Medicine" title="JAMA Internal Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/jama-internal-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Annals of Internal Medicine" title="Annals of Internal Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/annals-of-internal-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="JAMA Network Open" title="JAMA Network Open" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/jama-network-open.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+    </outline>
+    <outline text="Addiction" title="Addiction">
+      <outline type="rss" text="Journal of Addiction Medicine" title="Journal of Addiction Medicine" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/journal-of-addiction-medicine.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+      <outline type="rss" text="Drug and Alcohol Dependence" title="Drug and Alcohol Dependence" xmlUrl="https://peterfredericks.github.io/journal-feed/feeds/drug-and-alcohol-dependence.xml" htmlUrl="https://pubmed.ncbi.nlm.nih.gov/"/>
+    </outline>
+  </body>
+</opml>
