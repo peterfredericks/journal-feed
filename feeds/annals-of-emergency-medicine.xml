@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annals of Emergency Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/annals-of-emergency-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Annals of Emergency Medicine</description>
+    <lastBuildDate>Sat, 03 Oct 2026 23:46:22 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>LOOP DIURETICS SHOULD NOT BE ADMINISTERED EARLY TO ALL PATIENTS WITH ACUTE HEART FAILURE IN THE EMERGENCY DEPARTMENT</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.annemergmed.2026.07.010</link>
+      <guid isPermaLink="false">pmid:42808938</guid>
+      <pubDate>Tue, 29 Sep 2026 10:31:00 +0000</pubDate>
+      <category>Annals of emergency medicine</category>
+      <description>&lt;p&gt;Jain A&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.annemergmed.2026.07.010&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42808938%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Should Intravenous Loop Diuretics Be Administered Early to All Patients With Acute Heart Failure in the Emergency Department? Yes</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.annemergmed.2026.07.033</link>
+      <guid isPermaLink="false">pmid:42808937</guid>
+      <pubDate>Tue, 29 Sep 2026 10:31:00 +0000</pubDate>
+      <category>Annals of emergency medicine</category>
+      <description>&lt;p&gt;Vt A&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.annemergmed.2026.07.033&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42808937%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

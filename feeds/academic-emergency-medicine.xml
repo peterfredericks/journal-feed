@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Emergency Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/academic-emergency-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Academic Emergency Medicine</description>
+    <lastBuildDate>Sat, 03 Oct 2026 23:46:22 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Reply to Robson: Discharge Destination, Although Imperfect and Lacking Granular Detail, Is a Marker for Disability</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70418</link>
+      <guid isPermaLink="false">pmid:42827414</guid>
+      <pubDate>Sat, 03 Oct 2026 04:22:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Bivens M&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70418&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42827414%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discharge Destination Is Not Disability: Why Baseline Function Matters in Geriatric Trauma</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70399</link>
+      <guid isPermaLink="false">pmid:42827412</guid>
+      <pubDate>Sat, 03 Oct 2026 04:13:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Robson D&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70399&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42827412%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Departmental Practices to Reduce Night Shift Burden for Aging Emergency Physicians: A National Survey of Academic Emergency Departments</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70421</link>
+      <guid isPermaLink="false">pmid:42826014</guid>
+      <pubDate>Fri, 02 Oct 2026 11:32:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Beauchamp GA, Calderon Y, Deutsch AJ, Papanagnou D&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70421&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42826014%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frailty and Hospitalization After Emergency Department Evaluation Within Triage Categories in Older Patients: A Retrospective Cohort Study</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70419</link>
+      <guid isPermaLink="false">pmid:42811477</guid>
+      <pubDate>Wed, 30 Sep 2026 00:43:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt; Triage reflects acute urgency, whereas frailty may also influence disposition in older emergency department (ED) patients. This study aimed to estimate the association between Clinical Frailty Scale (CFS)-defined frailty and hospitalization after ED evaluation within Japan Triage and Acuity Scale (JTAS) categories and assess whether the strength varied across triage categories.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a single-center retrospective cohort study in an urban tertiary hospital in Japan. We identified consecutive triaged ED visits by patients aged ≥ 65 years from November 2025 to March 2026. Visits with CFS scores and covariates constituted the complete-case cohort. CFS ≥ 5 was defined as frailty. The primary outcome was admission to the study hospital or acute-care interhospital transfer. We used a mixed-effects logistic regression model with a CFS-by-JTAS interaction term, adjusting for age, sex, mode of arrival, injury- or poisoning-related visit, living arrangement, and long-term care needs certification, with patient-level random intercept. The global interaction was assessed using a likelihood-ratio test.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 3127 ED visits, 1526 resulted in hospitalization. In JTAS 1, the adjusted odds ratio (OR) for CFS ≥ 5 was not estimated because of quasi-complete separation. In the model excluding JTAS 1, the adjusted OR was 1.00 (95% confidence interval [CI], 0.65-1.55) in JTAS 2, 1.54 (95% CI: 1.19-1.99) in JTAS 3, and 2.01 (95% CI: 1.13-3.58) in JTAS 4/5. The global CFS-by-JTAS interaction was not statistically significant (P for interaction = 0.091).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Category-specific estimates suggested little association in JTAS 2 but were numerically larger in JTAS 3 and JTAS 4/5. However, the global interaction was nonsignificant, providing insufficient evidence that the association differed across categories. Prospective studies should examine the clinical, geriatric, social, decision-related, and healthcare-system factors that may underlie this association among older patients with comparable triage-assessed urgency.&lt;/p&gt;&lt;p&gt;Hata N, Nagae M, Umegaki H&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70419&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42811477%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emergency Department Feasibility of the Brief Test of Adult Cognition by Telephone (BTACT) for Research in Mild Traumatic Brain Injury</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70420</link>
+      <guid isPermaLink="false">pmid:42811447</guid>
+      <pubDate>Wed, 30 Sep 2026 00:33:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Barton DJ, Rudolph CF, Kalinina EK, Reddy K, Gallo N, Morford H&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70420&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42811447%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This Is Our Normalcy</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70417</link>
+      <guid isPermaLink="false">pmid:42811446</guid>
+      <pubDate>Wed, 30 Sep 2026 00:33:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Gorgens S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70417&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42811446%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Differentiating Normal Healing From Infection in Total Joint Arthroplasty: An Educational and Diagnostic Tool for Emergency Providers Evaluating the Postoperative Patient</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70414</link>
+      <guid isPermaLink="false">pmid:42802411</guid>
+      <pubDate>Mon, 28 Sep 2026 00:23:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Patients frequently present to the emergency department (ED) with pain, swelling, or erythema in the early period following total joint arthroplasty (TJA). Differentiating normal postoperative inflammation from superficial surgical site infection (S-SSI) or early periprosthetic joint infection (PJI) can be difficult due to overlapping clinical and laboratory features, particularly within the first 30 days after surgery. We seek to provide emergency providers with an efficient and evidence-based framework for differentiating normal healing from early infection following TJA. We accomplish this by reviewing postoperative physiology, temporal response of inflammatory markers and synovial fluid analysis, and existing diagnostic criteria for infection. Normal healing after TJA produces predictable inflammatory responses that commonly exceed thresholds established for chronic PJI diagnosis. Therefore, early PJI diagnosis should utilize a time-dependent interpretation of synovial fluid, while S-SSIs remain primarily clinical diagnoses. A structured diagnostic algorithm can safely reduce unnecessary testing and costs, protect against medicolegal pressures, and provide evidence-based practices for effectively detecting early infection following TJA. This is crucial in the setting of the new Transforming Episode Accountability Model (TEAM) that bundles TJA payment.&lt;/p&gt;&lt;p&gt;Brown TW, Carusi AT, Langworthy M&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70414&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42802411%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Differential Use of Central Outcomes Center to Maximize Follow-Up in a Study of Adolescents Seeking Care in the Emergency Department</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70413</link>
+      <guid isPermaLink="false">pmid:42798158</guid>
+      <pubDate>Sat, 26 Sep 2026 01:23:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Gammi TE, Nishijima DK, Rosenthal ED, Kuppermann N, Suskauer SJ, Arbogast KB&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70413&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42798158%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
