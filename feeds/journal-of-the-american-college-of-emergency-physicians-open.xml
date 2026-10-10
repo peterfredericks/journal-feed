@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JACEP Open</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/journal-of-the-american-college-of-emergency-physicians-open.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in JACEP Open</description>
+    <lastBuildDate>Sat, 10 Oct 2026 21:41:05 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Genitourinary Mass in a Four-Week-Old Infant</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100508</link>
+      <guid isPermaLink="false">pmid:42834988</guid>
+      <pubDate>Tue, 06 Oct 2026 05:10:00 +0000</pubDate>
+      <category>Journal of the American College of Emergency Physicians open</category>
+      <description>&lt;p&gt;Dranginis D, Lemon T, Schwarz WW, Perez-Milicua G&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100508&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42834988%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Man With Blurry Vision</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100514</link>
+      <guid isPermaLink="false">pmid:42830917</guid>
+      <pubDate>Mon, 05 Oct 2026 04:03:00 +0000</pubDate>
+      <category>Journal of the American College of Emergency Physicians open</category>
+      <description>&lt;p&gt;Wu PT, Chong CF&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100514&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42830917%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

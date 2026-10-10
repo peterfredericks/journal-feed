@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMA Internal Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/jama-internal-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in JAMA Internal Medicine</description>
+    <lastBuildDate>Sat, 10 Oct 2026 21:41:05 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>From Positive FIT Result to Colonoscopy-Closing a Gap in Care</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4836</link>
+      <guid isPermaLink="false">pmid:42832243</guid>
+      <pubDate>Mon, 05 Oct 2026 11:35:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Gross CP, Richman IB&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4836&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832243%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Temporary Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Patients With Inflammatory Arthritis: The COVER Randomized Clinical Trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4894</link>
+      <guid isPermaLink="false">pmid:42832241</guid>
+      <pubDate>Mon, 05 Oct 2026 11:35:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; The COVID-19 pandemic disproportionately affected patients with autoimmune and rheumatic diseases. Understanding whether certain medications affect the response to a SARS-CoV-2 supplemental dose vaccination is critical for counseling and treating patients receiving targeted immunomodulatory medications. The effect of holding these medications around the time of COVID-19 vaccination on immunogenicity and rheumatic disease outcomes has not been well studied.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To assess whether temporarily holding biologic or targeted synthetic disease-modifying antirheumatic drug therapy improves humoral immunogenicity following COVID-19 supplemental dose vaccination in patients with inflammatory arthritis as well as evaluate whether such interruption worsened disease activity.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; The COVID-19 Vaccine Response (COVER) trial was a multicenter randomized clinical pragmatic trial conducted from November 2021 to May 2024 of patients with rheumatoid arthritis, psoriatic arthritis, and axial spondylarthritis who were receiving care in the Excellence Network in Rheumatology to Innovate Care and High-Impact Research (ENRICH) practice-based network. Data were analyzed from June 2024 to April 2026.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interventions:&lt;/b&gt; Patients had received a primary messenger RNA COVID-19 vaccine series and were receiving stable immunomodulatory therapy with anti-tumor necrosis factor, anti-interleukin-17, abatacept, and a Janus kinase inhibitor (JAKi). Patients were randomized to continue or hold therapy for 2 weeks following their next COVID-19 supplemental dose administration.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The primary outcome was change in immunoglobulin G levels against the SARS-CoV-2 spike protein from baseline to 6-week follow-up, expressed as the geometric mean fold rise (GMFR). The primary analysis followed an intention-to-treat (ITT) principle, with missing outcomes addressed through multiple imputations. A per-protocol sensitivity analysis was also conducted. Secondary outcomes included disease flares and vaccine-related adverse events.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 840 randomized participants (continue group: 319 female individuals [76%]; mean [SD] age, 60.0 [12.9] years; hold group: 336 female individuals [80%]; mean [SD] age, 59.1 [12.9] years), substantial increases in SARS-CoV-2 spike immunoglobulin G antibody levels were observed across all groups from baseline to the postdose visit. In the primary ITT analysis, the GMFR ratio (hold/continue) was 0.96 (95% CI, 0.36-2.56), indicating no significant difference in humoral immunogenicity between arms. Results were consistent across drug subgroups and drug half-life categories. Holding therapy significantly increased disease flare risk (odds ratio, 2.27; 95% CI, 1.41-3.65), which was most pronounced among those who used JAKi; the Outcome Measures in Rheumatology RA Flare Questionnaire corroborated this perivaccination signal (54 of 256 [21.1%] vs 23 of 253 [9.1%] with ≥10-point worsening; risk difference, 12.0%; 95% CI, 5.9%-18.1%), with full recovery in both arms by 6-week follow-up. Adverse events were comparable between medication arms and were more frequent in the hold group.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; This randomized clinical trial found that, among patients with inflammatory arthritis, holding select biologic or JAKi therapies for 2 weeks at the time of supplemental COVID-19 vaccine dose did not significantly enhance humoral immunogenicity and was associated with transient but clinically meaningful disease flare. Routine interruption of these therapies at the time of COVID-19 dose administration is likely not warranted.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov Identifier: NCT05080218.&lt;/p&gt;&lt;p&gt;Curtis JR, Mudano AS, Cutter G, Mikuls TR, George MD, Thiele GM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4894&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832241%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Errors in the Visual Abstract</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4852</link>
+      <guid isPermaLink="false">pmid:42832235</guid>
+      <pubDate>Mon, 05 Oct 2026 11:34:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Journal Article, Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4852&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832235%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluation of Intervention Strategies to Improve Follow-Up Colonoscopy After Abnormal FIT/FOBT Result: A Systematic Review and Meta-Analysis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4827</link>
+      <guid isPermaLink="false">pmid:42832233</guid>
+      <pubDate>Mon, 05 Oct 2026 11:34:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Colorectal cancer is the second leading cause of cancer mortality worldwide. Early detection through screenings has been shown to improve morbidity and mortality. While fecal immunochemical test (FIT) or fecal occult blood test (FOBT) are established cost-effective screening modalities for colorectal cancer, follow-up colonoscopy screening rates remain suboptimal.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To evaluate interventions targeting colonoscopy completion and the prevalence of colonoscopy completion after an abnormal FIT/FOBT result.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Data sources:&lt;/b&gt; MEDLINE, Embase, and Cochrane databases were searched from inception to May 9, 2026, and the bibliographies of relevant studies were screened.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Study selection:&lt;/b&gt; Original studies, published in English, examining nonrandomized interventional studies or randomized clinical trials comparing interventions to improve follow-up colonoscopy after an abnormal FIT/FOBT result were included. Prevalence and risk ratios (RRs) with accompanying 95% CIs for each study were computed, and the results were pooled using a random-effects meta-analysis.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Data extraction and synthesis:&lt;/b&gt; This study was conducted in line with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) reporting guideline. Two authors reviewed each study and extracted the data independently, with discrepancies referred to a third independent author.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; Outcomes included prevalence and RR of various interventions.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 21 studies involving 19 613 patients (8101 female individuals [41.3%] and 11 512 male individuals [58.7%]; age range, 50-75 years) evaluating interventions to improve colonoscopy completion after an abnormal FIT/FOBT result were included. Patient navigation (RR, 1.24; 95% CI, 1.15-1.33; I2 = 57.1), patient reminders (RR, 1.32; 95% CI, 1.04-1.67; I2 = 89.9), clinician reminders (RR, 1.36; 95% CI, 1.12-1.65; I2 = 94.4), and automated referrals to gastrointestinal consult (RR, 1.68; 95% CI, 1.09-2.60; I2 = 91.9) were effective in increasing follow-up colonoscopy completion with moderate to high heterogeneity detected within and across intervention types. Sensitivity analyses excluding outliers resulted in low heterogeneity for patient navigation, patient reminders (messaging), and clinician reminders, while moderate heterogeneity remained for automated referrals. Follow-up colonoscopy increased from 4755 of 10 263 in control to 6272 of 9350 after interventions; pooled prevalence estimates were 47.8% and 69.1%, respectively.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; In this systematic review and meta-analysis, patient-level and system-level interventions, including patient navigation, patient reminders, and clinician reminders, are associated with increased completion of follow-up colonoscopy after an abnormal FIT/FOBT result. More studies are required to evaluate the efficacy of automated referrals to gastrointestinal consult due to large heterogeneity between studies and to study the incremental effect of each intervention in multicomponent interventions.&lt;/p&gt;&lt;p&gt;Chua WY, Chew LX, Chan CKM, Tong Z, Ng LP, Chee CE&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4827&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832233%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Landmark Significance and Future Directions of the RAPID-TEST Trial-Core Limitations and Advanced Pathways</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4675</link>
+      <guid isPermaLink="false">pmid:42832232</guid>
+      <pubDate>Mon, 05 Oct 2026 11:34:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Yang W, Li Y, Li J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4675&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832232%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Expiration of COVID-19 Pandemic Food Assistance and Food Insufficiency in Adults With Disabilities</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4583</link>
+      <guid isPermaLink="false">pmid:42832228</guid>
+      <pubDate>Mon, 05 Oct 2026 11:34:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This cross-sectional study explores the prevalence of food insufficiency following the end of SNAP emergency allotments among adults with disabilities in 22 US states.&lt;/p&gt;&lt;p&gt;Nehru BJ, Parekh T&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4583&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832228%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The UK Delivers a Tobacco-Free Generation-But Is the Real Prize Global?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4687</link>
+      <guid isPermaLink="false">pmid:42832222</guid>
+      <pubDate>Mon, 05 Oct 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This Viewpoint considers why the importance of the UK’s tobacco-free generation policy may extend beyond national borders, how it should be evaluated, and the role of health care professionals in ensuring it informs global tobacco-control efforts.&lt;/p&gt;&lt;p&gt;Jackson SE, Cheeseman H, Brown J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4687&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832222%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Landmark Significance and Future Directions of the RAPID-TEST Trial-Core Limitations and Advanced Pathways-Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4678</link>
+      <guid isPermaLink="false">pmid:42832217</guid>
+      <pubDate>Mon, 05 Oct 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Hay AD&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4678&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832217%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Not All Immunosuppressive Agents Need to Be Interrupted During COVID-19 Vaccination</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4891</link>
+      <guid isPermaLink="false">pmid:42832214</guid>
+      <pubDate>Mon, 05 Oct 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Park JK, Lee EB&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.4891&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42832214%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

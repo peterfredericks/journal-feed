@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prehospital Emergency Care</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/prehospital-emergency-care.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Prehospital Emergency Care</description>
+    <lastBuildDate>Sat, 10 Oct 2026 21:41:05 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Bystander AED effectiveness despite low utilisation in OHCA</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2743854</link>
+      <guid isPermaLink="false">pmid:42837514</guid>
+      <pubDate>Tue, 06 Oct 2026 14:53:00 +0000</pubDate>
+      <category>Prehospital emergency care</category>
+      <description>&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt; Observational estimates of bystander automated external defibrillator (AED) effectiveness are inconsistent in settings with mature public-access defibrillation infrastructure but low utilisation, partly because the conventional reference group pools emergency medical services (EMS)-shocked with non-defibrillated patients. We estimated bystander AED effectiveness against a partitioned no-defibrillation reference, tested effect modification by location, and quantified the deployment-utilisation gap.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; Retrospective analysis of a prospectively collected multicentre out-of-hospital cardiac arrest (OHCA) registry (Korea, October 2015-June 2025; 23,918 adults of presumed medical aetiology). A three-tier prehospital defibrillation-provider variable was defined: bystander AED applied (n = 383); EMS-delivered shock without preceding bystander AED (n = 5,975); and no prehospital defibrillation (reference; n = 17,560). Primary outcomes were survival to discharge and good neurological outcome (Cerebral Performance Category 1-2), analysed by multivariable logistic regression with propensity-score, inverse-probability-weighting and location-stratified secondary analyses.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Bystander AED application was associated with improved survival (adjusted odds ratio [aOR] 1.60; 95% CI 1.19-2.14) and good neurological outcome (2.31; 1.65-3.23), comparable to that of EMS-delivered shock; the pooled-control specification attenuated estimates to non-significance (survival 1.09; neurological 1.14). Shock-delivered applications significantly exceeded EMS-delivered shock for neurological outcome (aOR 1.43; P = 0.03). Effectiveness did not differ by location (interaction P ≥ 0.15). Bystander AED was applied in 8.5% of Public-area versus 1.9% of Non-public AED-opportunity cases - a 4.5-fold gap.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Bystander AED was associated with improved outcomes when applied, comparable to or exceeding EMS-delivered shock; the dominant constraint was the deployment-utilisation gap, greatest in residential settings. Residential rapid-activation infrastructure warrants policy priority alongside, not instead of, continued device placement.&lt;/p&gt;&lt;p&gt;Sohn Y, Cho G, Cho Y, Park T, Korean Cardiac Arrest Research Consortium (KoCARC) Investigators&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2743854&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42837514%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Response to the Letter to the Editor by Dr. Chong</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2743288</link>
+      <guid isPermaLink="false">pmid:42837499</guid>
+      <pubDate>Tue, 06 Oct 2026 14:53:00 +0000</pubDate>
+      <category>Prehospital emergency care</category>
+      <description>&lt;p&gt;Soliven REMR, Igarashi Y, Norii T, Yokobori S&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2743288&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42837499%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Letter to Editor: Response to &quot;Prehospital Trauma Compendium: Prehospital Management of Spinal Cord Injuries - A NAEMSP Comprehensive Review and Analysis of the Literature&quot;</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2745170</link>
+      <guid isPermaLink="false">pmid:42837497</guid>
+      <pubDate>Tue, 06 Oct 2026 14:53:00 +0000</pubDate>
+      <category>Prehospital emergency care</category>
+      <description>&lt;p&gt;Lardaro T, Cirillo LA&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2745170&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42837497%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pediatric Rural Interfacility Transfers by Emergency Medical Services</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2742416</link>
+      <guid isPermaLink="false">pmid:42837494</guid>
+      <pubDate>Tue, 06 Oct 2026 14:42:00 +0000</pubDate>
+      <category>Prehospital emergency care</category>
+      <description>&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt; Interfacility transports (IFTs) are critical for the care of pediatric patients in the United States (US), particularly in rural areas that may have limited pediatric specialty resources. Given the paucity of data describing rural pediatric IFTs, we aimed to characterize pediatric rural IFTs in the US.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a retrospective, observational study using the 2023 National Emergency Medical Services Information System dataset. Rural IFTs involving patients aged &amp;gt;1 day to &amp;lt;18 years were included and stratified into the following age groups: infant (1 day to &amp;lt;1 year), toddler (1-2 years), preschooler (3-5 years), young child (6-11 years), and teenager (12 to &amp;lt;18 years). Using descriptive statistics, we analyzed patient demographics, clinical characteristics, emergency medical services (EMS) transport characteristics, medications, procedures, and transport time intervals.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; We identified 29,992 rural pediatric IFTs (median age: 8 years [IQR: 2-14 years]; 52.9% male). Teenagers represented the largest age group transferred (38.8%). Respiratory diseases (12.3%) were the most common primary impression overall, whereas psychiatric and behavioral health conditions predominated among teenagers. Ground transport accounted for most IFTs (79.4%), and advanced life support units were the most common transport level of care (62.7%). Infants demonstrated the highest proportion of specialty critical care transports (32.1%) and longer median response and total call intervals across transport modalities compared with older age groups. Younger children more commonly received respiratory-focused medications and procedures, whereas teenagers more frequently received pain management and sedative medications.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Nearly 30,000 pediatric rural IFTs occurred in 2023, with substantial age-related differences in clinical presentations, transport characteristics, and EMS interventions. Infants more frequently required specialty critical care transport and experienced longer transport intervals, whereas psychiatric and behavioral health conditions represented a substantial proportion of adolescent transfers. These findings underscore the importance of pediatric-focused EMS preparedness, transport readiness, and clinical training initiatives to support safe rural pediatric interfacility care.&lt;/p&gt;&lt;p&gt;Morris CS, Gaw CE, Gage CB, Kadish CB, Runkle AP, Donofrio-Odman J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2742416&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42837494%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Missed Opportunities for Prehospital Transfusion in Pediatric Trauma</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2742418</link>
+      <guid isPermaLink="false">pmid:42836701</guid>
+      <pubDate>Tue, 06 Oct 2026 09:23:00 +0000</pubDate>
+      <category>Prehospital emergency care</category>
+      <description>&lt;p&gt;Hayes JM, Peters GA, Gao J, Cash RE&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1080%2F10903127.2026.2742418&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42836701%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
