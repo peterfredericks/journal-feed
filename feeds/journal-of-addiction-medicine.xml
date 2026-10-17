@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal of Addiction Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/journal-of-addiction-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Journal of Addiction Medicine</description>
+    <lastBuildDate>Sat, 17 Oct 2026 23:07:04 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Managing the Hospital Capacity Challenges of Medetomidine Withdrawal: A Retrospective Report of Dexmedetomidine Use in Intermediate Care Units</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FADM.0000000000001789</link>
+      <guid isPermaLink="false">pmid:42860369</guid>
+      <pubDate>Sun, 11 Oct 2026 22:34:00 +0000</pubDate>
+      <category>Journal of addiction medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt; Medetomidine, a veterinary alpha-2-adrenergic agonist, has emerged as a dominant adulterant in the Philadelphia illicit opioid supply, producing a severe withdrawal syndrome requiring significant inpatient support. We developed an intravenous dexmedetomidine protocol for intermediate care units (IMCU) and describe the safety and feasibility of delivering this care outside the intensive care unit (ICU).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; A retrospective descriptive analysis of patients who received dexmedetomidine under an IMCU orderset for alpha-2 withdrawal was conducted at two urban medical centers in Philadelphia, PA, from April 2024 to February 2026. Encounters were classified as protocol-concordant or protocol-discordant by dosing and level of support; the concordant cohort was primary. Variables included demographics and addiction consult status. Outcomes included length of stay (hospital and IMCU), ICU admission, rapid response team activation, intubation, and discharge disposition.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Of 487 encounters, 449 (92.2%) were protocol-concordant and 38 (7.8%) protocol-discordant. All subsequent results describe the protocol-concordant cohort (n=449) unless otherwise noted. The cohort was predominantly male (58.1%) with a mean age of 41.8 years. Median hospital stay was 6.0 days and median IMCU stay was 2.2 days. ICU admission was not required in 50.1% of encounters. Rapid response team activation occurred in 38 encounters (8.5%), the majority for escalating withdrawal management. Patient-directed discharge occurred in 41.4% of encounters.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; An IMCU dexmedetomidine protocol deployed across seven monitored units at 2 hospitals offers a replicable framework for managing medetomidine withdrawal while potentially mitigating critical care capacity challenges. Identified opportunities include modification of titration and dosing strategies and further investment in addiction consult infrastructure.&lt;/p&gt;&lt;p&gt;Durney PA, Goodstein D, Paquin E, Fitzpatrick G, Warrick-Stone T, Montesi M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FADM.0000000000001789&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42860369%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

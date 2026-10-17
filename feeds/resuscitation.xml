@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resuscitation</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/resuscitation.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Resuscitation</description>
+    <lastBuildDate>Sat, 17 Oct 2026 23:07:03 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Translating the R-EDByUS score into clinical decisions after cardiac arrest</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.resuscitation.2026.111353</link>
+      <guid isPermaLink="false">pmid:42880622</guid>
+      <pubDate>Thu, 15 Oct 2026 20:30:00 +0000</pubDate>
+      <category>Resuscitation</category>
+      <description>&lt;p&gt;Fan CY, Sung CW&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.resuscitation.2026.111353&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42880622%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.resuscitation.2026.111345</link>
+      <guid isPermaLink="false">pmid:42863592</guid>
+      <pubDate>Mon, 12 Oct 2026 19:30:00 +0000</pubDate>
+      <category>Resuscitation</category>
+      <description>&lt;p&gt;&lt;b&gt;Background/objective:&lt;/b&gt; Optimal ventilation delivery during cardiopulmonary resuscitation (CPR) remains uncertain. Current resuscitation guidelines do not recommend mechanical ventilation (MV) over manual bag-valve ventilation (BV). We evaluated the association between MV use during CPR and clinical outcomes in adults with cardiac arrest compared with manual BV.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We searched 6 bibliographic databases from inception through May 31, 2026. Included studies compared MV and BV ventilation CPR in adult cardiac arrest patients. Patients receiving MV at any moment during CPR were classified as the MV group; those receiving only BV comprised the BV group. Primary outcomes included return of spontaneous circulation (ROSC), survival to hospital admission, survival to hospital discharge, and good neurological outcome. Secondary outcomes included physiologic variables and pneumothorax. We calculated pooled risk ratios (RRs) and mean differences with 95% credible intervals (CrIs) using Bayesian random-effects meta-analyses.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Eight studies involving 6,847 patients were included. For the primary outcome, MV use during CPR was associated with a higher rate of ROSC than BV use (pooled RR, 1.20; 95% CrI, 1.04 to 1.42), with a 99% posterior probability of benefit. Posterior probabilities favoring MV for survival to admission, survival to discharge, and favorable neurological outcome were 92.3%, 93.6%, and 92.2%, respectively. Pneumothorax incidence was similar between groups.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusion:&lt;/b&gt; In adult cardiac arrest, MV use during CPR was associated with higher ROSC compared with manual BV. Evidence for improved survival and neurological outcomes remains imprecise and inconclusive.&lt;/p&gt;&lt;p&gt;Chu YQ, Su EH, Li H, Ko YC, Wei WT, Tsai TY&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.resuscitation.2026.111345&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42863592%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Corrigendum to &quot;European Resuscitation Council Guideline 2025 Adult Advanced Life Support&quot; [Resuscitation 215(Supplement 1) (2025) 110769]</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.resuscitation.2026.111313</link>
+      <guid isPermaLink="false">pmid:42863166</guid>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
+      <category>Resuscitation</category>
+      <description>&lt;p&gt;Soar J, Böttiger BW, Carli P, Jiménez FC, Cimpoesu D, Cole G&lt;br/&gt;Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.resuscitation.2026.111313&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42863166%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

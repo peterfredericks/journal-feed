@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annals of Emergency Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/annals-of-emergency-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Annals of Emergency Medicine</description>
+    <lastBuildDate>Sat, 17 Oct 2026 23:07:03 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Adoption of Outpatient Management of Acute Low-Risk Pulmonary Embolism</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.annemergmed.2026.08.738</link>
+      <guid isPermaLink="false">pmid:42878715</guid>
+      <pubDate>Thu, 15 Oct 2026 17:41:00 +0000</pubDate>
+      <category>Annals of emergency medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Study objective:&lt;/b&gt; To assess longitudinal outcomes of a multicomponent intervention designed to address key barriers to the outpatient management of low-risk pulmonary embolism (PE), and to define the most appropriate target population and metric for evaluating adoption.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We implemented a multicomponent intervention in the emergency department (ED) of a quaternary academic medical center. Outcomes were evaluated using the RE-AIM framework, comparing a 3-year preimplementation period (2016-2019) with active implementation (year I), postimplementation (year II), and maintenance (year III) periods. The primary outcome (adoption) was the proportion of low-PESI (≤85) patients discharged from the ED. Following implementation, the charts of all hospitalized low-PESI patients were reviewed to determine reasons for admission.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 1,810 patients with acute PE, 705 (39.0%) had low-PESI scores. Adoption rose from 5.1% preimplementation to 16.1% (odds ratio [OR] 3.43, 95% confidence interval [CI] 1.77 to 6.63), 24.0% (OR 5.98, 95% CI 3.04 to 11.78), and 33.3% (OR 9.24, 95% CI 5.04 to 16.92) in years I to III. There were no recurrent venous thromboembolism or deaths within 30 days of any ED discharge. Bleeding complications were rare (0%-4.3%) and none required hospitalization. Hospitalization decreased primarily among low-PESI patients without Hestia criteria, whereas admission of low-PESI Hestia-positive patients remained relatively constant. Excluding Hestia-positive cases, adoption increased from 9.0% preimplementation to 75% in the maintenance phase.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusion:&lt;/b&gt; In this single-center implementation study, a multicomponent intervention guided by RE-AIM resulted in a sustained increase in outpatient management of low-risk PE. Both the PESI score and Hestia criteria could be incorporated into the definition of the target population and future quality metrics.&lt;/p&gt;&lt;p&gt;Greineder CF, Mefford V, O&amp;#x27;Hare C, Joyce E, Ejanthker S, Desai K&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.annemergmed.2026.08.738&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42878715%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

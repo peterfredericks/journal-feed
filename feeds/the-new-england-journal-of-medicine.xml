@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEJM</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/the-new-england-journal-of-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in NEJM</description>
+    <lastBuildDate>Sat, 17 Oct 2026 23:07:03 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Continuous Glucose Monitoring in Non-Insulin-Treated Type 2 Diabetes</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2608571</link>
+      <guid isPermaLink="false">pmid:42878622</guid>
+      <pubDate>Thu, 15 Oct 2026 17:31:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Continuous glucose monitoring (CGM) has been shown to be beneficial in persons with type 1 diabetes and others with insulin-treated type 2 diabetes, but its role in the treatment of persons with type 2 diabetes not being treated with insulin has needed further study.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In a 26-week trial conducted at 22 primary care practices in the United States, we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks. Key CGM-measured secondary outcomes were tested hierarchically to control the type I error rate.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 145 participants were assigned to the CGM group, and 138 to the routine-care group. Participants ranged in age from 21 to 84 years. The mean (±SD) glycated hemoglobin level decreased from 8.8±1.3% at baseline to 7.2±1.1% at 26 weeks in the CGM group and from 8.7±1.2% to 8.0±1.4% in the routine-care group (adjusted mean difference, -0.9 percentage points; 95% confidence interval [CI], -1.1 to -0.6; P&amp;lt;0.001). The mean percentage of time that the CGM-measured glucose level was in the glucose-level range of 70 to 180 mg per deciliter was 21 percentage points higher (95% CI, 16 to 26) with CGM than with routine care (P&amp;lt;0.001). The between-group difference in the percentage of time that the glucose level was below 54 mg per deciliter was -0.17 percentage points (95% CI, -0.27 to -0.11; P&amp;lt;0.001 for noninferiority); the difference in the percentage of time that the glucose level was below 70 mg per deciliter was -0.20 percentage points (95% CI, -0.43 to -0.09; P&amp;lt;0.001 for noninferiority; P = 0.004 for superiority). No severe hypoglycemia events were reported.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among adults with type 2 diabetes that was not being treated with insulin and was being managed in a primary care setting, the use of CGM led to a greater reduction in the glycated hemoglobin level and to a lower risk of hyperglycemia than routine care. (Funded by Dexcom; CONNECT ClinicalTrials.gov number, NCT06601166.).&lt;/p&gt;&lt;p&gt;Oser TK, Martens T, Ruedy KJ, Bergford S, Calhoun P, Chang KL&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2608571&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42878622%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setmelanotide for the Treatment of Acquired Hypothalamic Obesity. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610994</link>
+      <guid isPermaLink="false">pmid:42874121</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Roth CL, Miller JL&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610994&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874121%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setmelanotide for the Treatment of Acquired Hypothalamic Obesity</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610994</link>
+      <guid isPermaLink="false">pmid:42874120</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Ou Q, Tang J&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610994&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874120%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setmelanotide for the Treatment of Acquired Hypothalamic Obesity</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610994</link>
+      <guid isPermaLink="false">pmid:42874119</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Zhang J, Zhan X, Li T&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610994&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874119%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Obinutuzumab in Active Systemic Lupus Erythematosus. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610854</link>
+      <guid isPermaLink="false">pmid:42874118</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Furie RA, Vital EM, Meier O&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610854&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874118%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Obinutuzumab in Active Systemic Lupus Erythematosus</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610854</link>
+      <guid isPermaLink="false">pmid:42874117</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Pamuk ON&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610854&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874117%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Extended DAPT for Multivessel Coronary Artery Disease. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855</link>
+      <guid isPermaLink="false">pmid:42874116</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Tian J, Stone GW, Yu B&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874116%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Extended DAPT for Multivessel Coronary Artery Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855</link>
+      <guid isPermaLink="false">pmid:42874115</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Narula S, Nanna MG&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874115%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Extended DAPT for Multivessel Coronary Artery Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855</link>
+      <guid isPermaLink="false">pmid:42874114</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Yeh RW, Secemsky EA, Cohen DJ&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874114%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Extended DAPT for Multivessel Coronary Artery Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855</link>
+      <guid isPermaLink="false">pmid:42874113</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Castiello DS, Spitzer E&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874113%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Extended DAPT for Multivessel Coronary Artery Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855</link>
+      <guid isPermaLink="false">pmid:42874112</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Russo M, Vergallo R, Jang IK&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610855&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874112%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integration-Associated Paraspinal Neoplasm after AAV Gene Therapy</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2607927</link>
+      <guid isPermaLink="false">pmid:42874111</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Vo JN, Wu YM, Heider A, Cao X, Wang R, Pham T&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2607927&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874111%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Once-Weekly Mosnodenvir as Dengue Prophylaxis in a Human Infection Model</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2516395</link>
+      <guid isPermaLink="false">pmid:42874110</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Van Wesenbeeck L, Rasschaert F, Pierce KK, Herrera-Taracena G, Sabundayo BP, Buelens A&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2516395&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874110%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chemotherapy-free Treatment of Ph-Positive ALL</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2610489</link>
+      <guid isPermaLink="false">pmid:42874109</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Fielding AK&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2610489&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874109%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adapting to Genomic Medicine</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2608188</link>
+      <guid isPermaLink="false">pmid:42874108</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Marks P&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2608188&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874108%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Case 29-2026: A 39-Year-Old Man with Abdominal Pain, Foot Drop, and a Spinal Mass</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2603183</link>
+      <guid isPermaLink="false">pmid:42874107</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Pineda AE, Husseini JS, Choy E, Auchincloss HG, Shankar GM, Hayes FJ&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2603183&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874107%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alkaptonuria</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607077</link>
+      <guid isPermaLink="false">pmid:42874106</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Padhan P, Singh P&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607077&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874106%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adult Attention Deficit-Hyperactivity Disorder</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcp2516040</link>
+      <guid isPermaLink="false">pmid:42874105</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Attention deficit-hyperactivity disorder (ADHD) is a medical condition that is present in approximately 2.5% of adults worldwide and manifests in a variety of different ways across the lifespan. Adults with ADHD often have coexisting psychiatric disorders such as anxiety, mood, sleep, substance use, and personality disorders and are at increased risk for coexisting somatic conditions such as obesity, cardiovascular and cerebrovascular disease, type 1 and type 2 diabetes, and immune and inflammatory conditions. Hence, such adults may be seen by clinicians providing care for a wide range of psychiatric and somatic conditions. Nevertheless, ADHD remains unrecognized and undiagnosed in many persons. Assessment requires interviewing of the patient for core ADHD symptoms, coexisting conditions, and their functional effects, which can be facilitated by using standardized rating scales. Key components of treatment are psychoeducation and psychostimulant or nonstimulant medication, mostly in combination with psychosocial interventions and lifestyle guidance.&lt;/p&gt;&lt;p&gt;Buitelaar JK, Newcorn JH&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcp2516040&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874105%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Long-Acting HIV Therapy in African Adults with Adherence Challenges</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2518753</link>
+      <guid isPermaLink="false">pmid:42874104</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; In eastern and southern Africa, approximately 1 million people living with human immunodeficiency virus (HIV) and receiving oral therapy do not have viral suppression because of adherence challenges.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a phase 3b, open-label, randomized trial to compare long-acting injectable cabotegravir plus rilpivirine with oral dolutegravir-based therapy among adults with virally suppressed HIV type 1 (viral load, &amp;lt;200 copies per milliliter) and suboptimal adherence or care engagement. The participants were assigned in a 1:1 ratio to receive intramuscular injections of cabotegravir (600 mg) plus rilpivirine (900 mg) every 8 weeks, with the first two injection visits occurring 4 weeks apart, or to continue daily oral dolutegravir-based therapy; baseline drug-resistance testing was not performed. The primary end point was a viral load of less than 50 copies per milliliter at week 48; noninferiority was assessed with a margin of -10 percentage points. Confirmed virologic failure (two consecutive viral loads of ≥200 copies per milliliter) was a key secondary end point.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 540 participants were enrolled across seven sites in Kenya, South Africa, and Uganda; 537 were included in the primary analysis. At 48 weeks, 244 of 268 participants (91.0%) in the long-acting-therapy group had a viral load of less than 50 copies per milliliter, as compared with 240 of 269 participants (89.2%) in the oral-therapy group (risk difference, 1.9 percentage points; 95% confidence interval [CI], -3.1 to 6.9), which met the criterion for noninferiority. The results of a per-protocol analysis were consistent with those of the primary analysis. Confirmed virologic failure occurred in 5 participants (1.9%) in the long-acting-therapy group and in no participants in the oral-therapy group (risk difference, 1.9 percentage points; 95% CI, 0.3 to 3.5). Serious adverse events were reported in 11 of 271 participants (4.1%) who received long-acting therapy and in 8 of 269 participants (3.0%) who received oral therapy (risk difference, 1.1 percentage points; 95% CI, -1.1 to 4.2).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among persons with HIV in Africa who have adherence challenges, long-acting cabotegravir plus rilpivirine was noninferior to oral dolutegravir-based therapy for maintaining a viral load of less than 50 copies per milliliter. (Funded by Johnson &amp;amp; Johnson; IMPALA ClinicalTrials.gov number, NCT05546242; Pan African Clinical Trials Registry number, PACT202301600757432TMC278LAHTX3005.).&lt;/p&gt;&lt;p&gt;Cresswell FV, Kitonsa J, Norcross C, Tumusiime V, Ombajo LA, Garrett N&lt;br/&gt;Journal Article, Randomized Controlled Trial, Clinical Trial, Phase III, Multicenter Study, Comparative Study, Equivalence Trial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2518753&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874104%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phase 2 Trial of Icotrokinra for Patients with Ulcerative Colitis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2604435</link>
+      <guid isPermaLink="false">pmid:42874103</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Monoclonal antibodies targeting the interleukin-23 pathway are effective in treating inflammatory bowel disease. However, these therapies must be administered intravenously or by subcutaneous injection.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a phase 2b, double-blind, randomized trial of oral icotrokinra, a peptide that blocks the interleukin-23 receptor, in adults with moderately to severely active ulcerative colitis. Participants were assigned to receive icotrokinra at a once-daily dose of 400 mg, 200 mg, or 100 mg or placebo. The primary end point was clinical response at week 12. Secondary end points included clinical remission, remission of symptoms, and endoscopic improvement at week 12.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 252 participants underwent randomization: 63 were assigned to the 400-mg group, 62 to the 200-mg group, 64 to the 100-mg group, and 63 to the placebo group. All the doses of icotrokinra were superior to placebo with respect to a clinical response at week 12, which occurred in 63% of the participants in the 400-mg group, 58% in the 200-mg group, and 55% in the 100-mg group, as compared with 27% in the placebo group (P&amp;lt;0.001 for all comparisons with placebo). The percentage of participants with clinical remission at week 12 was also significantly higher in the 400-mg group than in the placebo group (30% vs. 11%, P = 0.006), as were the percentage of participants with symptomatic remission (46% vs. 19%, P&amp;lt;0.001) and the percentage of participants with endoscopic improvement (37% vs. 14%, P = 0.002). Clinical remission at week 12 occurred in 24% of the participants in the 200-mg group (P = 0.054 for the comparison with placebo); in accordance with the fixed-sequence testing procedure to account for multiple comparisons, no further formal testing of secondary end points was conducted. Through week 28, the percentage of participants with adverse events was 60% in the 400-mg group, 66% in the 200-mg group, 66% in the 100-mg group, and 62% in the placebo group. For serious adverse events, the percentages were 2%, 5%, 0%, and 10%, respectively.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among participants with moderately to severely active ulcerative colitis, a clinical response at week 12 was significantly more common with once-daily oral icotrokinra at each of three tested doses than with placebo. (Funded by Johnson &amp;amp; Johnson; ANTHEM-UC ClinicalTrials.gov number, NCT06049017.).&lt;/p&gt;&lt;p&gt;Abreu MT, Siegmund B, Surace L, Erondu N, Chen M, Chachu K&lt;br/&gt;Journal Article, Randomized Controlled Trial, Clinical Trial, Phase II, Multicenter Study&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2604435&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874103%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ponatinib-Blinatumomab or Imatinib-Chemotherapy for Adult Ph-Positive ALL</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2606208</link>
+      <guid isPermaLink="false">pmid:42874102</guid>
+      <pubDate>Wed, 14 Oct 2026 17:23:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; The outcome of Philadelphia-positive acute lymphoblastic leukemia (Ph-positive ALL) has greatly improved with the use of tyrosine kinase inhibitors and immunotherapy.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this trial, we randomly assigned adult patients with Ph-positive ALL in a 2:1 ratio to receive ponatinib plus blinatumomab (intervention group) or imatinib plus chemotherapy (control group) as frontline treatment. A crossover to the intervention group was allowed for patients with persistence or reappearance of measurable residual disease in the control group. The primary end point was event-free survival.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 236 patients underwent randomization: 158 to the intervention group and 78 to the control group. The median age of the patients was 55 years (range, 24 to 82). At a median follow-up of 23.7 months, the estimated 24-month event-free survival was 86% in the intervention group and 67% in the control group (P&amp;lt;0.001). Survival with no measurable residual disease was 68% and 42%, respectively. At the end of induction, a complete hematologic response was observed in 94% of the patients in the intervention group and in 79% of those in the control group. After blinatumomab consolidation, a molecular response was observed in 71% and 49% of the patients, respectively. After crossover to the intervention group, 20 of 31 patients (64%) had a molecular response. Overall survival was 90% in the intervention group and 85% in the control group. The cumulative incidence of relapse was 5% and 13%, respectively. As of this report, only 19% of the patients in the intervention group had undergone hematopoietic stem-cell transplantation after having had a first complete hematologic response.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; In this phase 3 trial, a frontline chemotherapy-free targeted and immunotherapeutic approach was superior to the use of imatinib and chemotherapy. (Funded by Associazione Italiana per la Ricerca sul Cancro and others; GIMEMA ALL2820 ClinicalTrials.gov number, NCT04722848.).&lt;/p&gt;&lt;p&gt;Chiaretti S, Piciocchi A, Skert C, Leoncin M, Borlenghi E, Cattaneo C&lt;br/&gt;Clinical Trial, Phase III, Comparative Study, Journal Article, Multicenter Study, Randomized Controlled Trial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2606208&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42874102%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Continuous or Intermittent Renal-Replacement Therapy - What Is the Question?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612910</link>
+      <guid isPermaLink="false">pmid:42873071</guid>
+      <pubDate>Wed, 14 Oct 2026 14:30:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Palevsky PM&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612910&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42873071%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2608397</link>
+      <guid isPermaLink="false">pmid:42873070</guid>
+      <pubDate>Wed, 14 Oct 2026 14:30:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; The preferred method of renal-replacement therapy for acute kidney injury in critically ill patients remains uncertain.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this multicenter, open-label, noninferiority trial, we randomly assigned critically ill adults with acute kidney injury who had indications for renal-replacement therapy to undergo intermittent hemodialysis or continuous renal-replacement therapy as the initial treatment. The primary outcome was a major adverse kidney event - defined as death, dependence on renal-replacement therapy, or a serum creatinine concentration more than 25% above the baseline value - by day 90.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; The trial was stopped early after sequential interim analyses showed a sustained signal of higher mortality with intermittent hemodialysis than with continuous renal-replacement therapy. A total of 554 patients underwent randomization, with 272 patients assigned to undergo intermittent hemodialysis and 282 to undergo continuous renal-replacement therapy; 535 patients (260 in the intermittent group and 275 in the continuous group) were included in the intention-to-treat population. A major adverse kidney event occurred by day 90 in 203 patients (78.1%) in the intermittent group and in 197 patients (71.6%) in the continuous group (adjusted absolute risk difference, 6.28 percentage points; 95% confidence interval [CI], -1.22 to 13.79). Death by day 90 occurred in 164 patients (63.1%) and in 147 patients (53.5%), respectively. Kaplan-Meier mortality estimates at day 90 were 63.3% and 53.6% (hazard ratio, 1.30; 95% CI, 1.04 to 1.63). The most common complication potentially related to acute kidney injury or renal-replacement therapy was hypotension, which occurred in 179 patients (68.8%) in the intermittent group and in 183 patients (66.5%) in the continuous group.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among critically ill patients with acute kidney injury who had indications for renal-replacement therapy, intermittent hemodialysis as the initial treatment approach was not shown to be noninferior to continuous renal-replacement therapy with respect to major adverse kidney events by day 90 and was associated with higher mortality. (Funded by the French Ministry of Health; ICRAKI ClinicalTrials.gov number, NCT06032884.).&lt;/p&gt;&lt;p&gt;Gaudry S, Boubaya M, Louis G, Chaïbi K, de Montmollin E, Bohé J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2608397&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42873070%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flushing in Carcinoid Syndrome</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2606144</link>
+      <guid isPermaLink="false">pmid:42867399</guid>
+      <pubDate>Tue, 13 Oct 2026 16:54:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Karthik N, Rastogi A&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2606144&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42867399%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Firearm-Related Discussions as an Age-Friendly Intervention</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2608481</link>
+      <guid isPermaLink="false">pmid:42867396</guid>
+      <pubDate>Tue, 13 Oct 2026 16:54:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Makaroun LK, Farrell TW, Betz ME&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2608481&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42867396%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Health-Related Social Needs among Older Adults - Addressing Mismeasurement</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2608580</link>
+      <guid isPermaLink="false">pmid:42867394</guid>
+      <pubDate>Tue, 13 Oct 2026 16:54:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Unruh MA, Vest JR&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2608580&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42867394%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Not Available in Your Country</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2609409</link>
+      <guid isPermaLink="false">pmid:42867384</guid>
+      <pubDate>Tue, 13 Oct 2026 16:53:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Kotanidis CP&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2609409&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42867384%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who Counts as Infertile? A Missed Opportunity for Inclusion</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2603604</link>
+      <guid isPermaLink="false">pmid:42867383</guid>
+      <pubDate>Tue, 13 Oct 2026 16:53:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Amato P, Cohen IG&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2603604&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42867383%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

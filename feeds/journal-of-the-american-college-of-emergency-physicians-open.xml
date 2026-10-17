@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JACEP Open</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/journal-of-the-american-college-of-emergency-physicians-open.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in JACEP Open</description>
+    <lastBuildDate>Sat, 17 Oct 2026 23:07:03 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Young Woman With Shortness of Breath</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100516</link>
+      <guid isPermaLink="false">pmid:42871824</guid>
+      <pubDate>Wed, 14 Oct 2026 11:44:00 +0000</pubDate>
+      <category>Journal of the American College of Emergency Physicians open</category>
+      <description>&lt;p&gt;Hite A, Gatz JD&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100516&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42871824%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ulcerative Rash in Brown Skin</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100517</link>
+      <guid isPermaLink="false">pmid:42871790</guid>
+      <pubDate>Wed, 14 Oct 2026 11:37:00 +0000</pubDate>
+      <category>Journal of the American College of Emergency Physicians open</category>
+      <description>&lt;p&gt;Muwanes J, Kim L, Kellar J, Garispe A&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100517&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42871790%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Use of an Electronic Health Record Algorithm to Identify Persons With Human Immunodeficiency Virus Out Of Care in United States Emergency Departments</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100513</link>
+      <guid isPermaLink="false">pmid:42861009</guid>
+      <pubDate>Mon, 12 Oct 2026 04:06:00 +0000</pubDate>
+      <category>Journal of the American College of Emergency Physicians open</category>
+      <description>&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; Emergency department (ED) human immunodeficiency virus (HIV) screening programs are designed primarily to identify persons with undiagnosed HIV and, therefore, systematically exclude persons with diagnosed HIV (PWHDx). PWHDx who are out of care (OOC) contribute disproportionately to HIV transmission and are a priority population within Ending the HIV Epidemic (EHE) initiatives. Because PWHDx OOC are not routinely identified through screening, complementary strategies are needed to support re-engagement in care. We evaluated an electronic health record algorithm (EHRa) designed to identify PWHDx presenting to the ED. We then determined HIV care status, characterized differences between patients in care (IC) and OOC, and quantified the incremental yield of EHRa-based identification beyond routine HIV screening.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a retrospective, cross-sectional study across 3 EDs with universal HIV screening. Adults (≥18 years) presenting between February and July 2024 who screened HIV positive or were identified through the EHRa were included. Data from HIV screening databases and EHRa reports were analyzed using descriptive statistics and logistic regression.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 88,501 adult ED visits, 798 persons with HIV were identified (0.9%): 5.1% newly diagnosed, 21.6% PWHDx OOC, and 73.3% PWHDx IC. The EHRa identified 589 PWHDx who were not captured through routine screening, including 113 (19.2%) who were OOC. Compared with IC patients, PWHDx OOC had higher AIDS prevalence (37.5% vs 18.6%) and lower viral suppression (17.6% vs 83.3%). OOC status was independently associated with cisgender female gender, housing instability, limited phone access, and being uninsured.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; A simple, locally generated EHRa substantially increased identification of PWHDx in the ED, including many OOC patients who were not captured through routine screening. A simple, locally generated EHRa demonstrated substantial incremental yield for identifying PWHDx in the ED, including many OOC patients who were not captured through routine screening. EHR-based identification strategies may help identify and re-engage PWHDx OOC and support national EHE goals.&lt;/p&gt;&lt;p&gt;White DAE, Manteuffel J, Burns M, Jewett M, Rodriguez C, Regalado G&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.acepjo.2026.100513&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42861009%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
