@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEJM</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/the-new-england-journal-of-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in NEJM</description>
+    <lastBuildDate>Sat, 24 Oct 2026 15:54:41 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2607544</link>
+      <guid isPermaLink="false">pmid:42912700</guid>
+      <pubDate>Fri, 23 Oct 2026 13:41:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; In patients with IgA nephropathy, complement activation drives glomerular inflammation, which leads to hematuria, proteinuria, and nephron loss. Ravulizumab is a terminal complement inhibitor that prevents formation of C5a and C5b-9.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this phase 3 trial, we enrolled adults with IgA nephropathy who had an estimated glomerular filtration rate of at least 30 ml per minute per 1.73 m2 of body-surface area and proteinuria (24-hour urinary protein-to-creatinine ratio [with protein and creatinine both measured in grams] of ≥0.75 or total urinary protein excretion of ≥1.0 g per day), despite standard therapy. Patients were randomly assigned in a 1:1 ratio to receive an intravenous infusion of either ravulizumab or placebo every 8 weeks. In the prespecified interim analysis, the primary efficacy end point was the change from baseline in the 24-hour urinary protein-to-creatinine ratio at week 34. Safety was also assessed.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; In all, 485 patients underwent randomization, with 240 patients assigned to the ravulizumab group and 245 to the placebo group; 352 patients (176 in each group) were included in the interim analysis. In the ravulizumab group, the geometric mean 24-hour urinary protein-to-creatinine ratio at baseline and at week 34 was 1.56 and 0.83, respectively; in the placebo group, it was 1.60 and 1.48, respectively. At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%), corresponding to an adjusted geometric mean 24-hour urinary protein-to-creatinine ratio that was 43.4% (99% confidence interval, 30.1 to 54.2) lower with ravulizumab than with placebo (P&amp;lt;0.001). Adverse events occurred in 69.5% of the patients receiving ravulizumab and in 75.8% of those receiving placebo; serious adverse events occurred in 4.6% and 9.0%, respectively. No meningococcal infections or deaths occurred.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; In adults with IgA nephropathy, ravulizumab resulted in a significantly greater reduction in the protein-to-creatinine ratio than placebo at week 34. (Funded by Alexion, AstraZeneca Rare Disease Unit; I CAN ClinicalTrials.gov number, NCT06291376; EU Clinical Trials number, 2023-507851-31-00.).&lt;/p&gt;&lt;p&gt;Barratt J, Farag YMK, Rice K, Cammett TJ, Inker LA, Trimarchi H&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2607544&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42912700%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2608682</link>
+      <guid isPermaLink="false">pmid:42912669</guid>
+      <pubDate>Fri, 23 Oct 2026 13:39:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; B-cell activating factor (BAFF) and a proliferation-inducing ligand (APRIL) have distinct roles in IgA-producing B-cell populations and appear to be central to the pathogenesis of IgA nephropathy. Povetacicept, an enhanced, variant transmembrane activator and calcium-modulator and cyclophilin-ligand interactor (TACI)-Fc fragment fusion therapeutic, is engineered for dual inhibition of BAFF and APRIL.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this ongoing, phase 3, double-blind, placebo-controlled trial, participants with biopsy-proven IgA nephropathy receiving stable background therapy were randomly assigned in a 2:1 ratio to receive povetacicept at a dose of 80 mg or placebo subcutaneously every 4 weeks. The primary end point of this prespecified interim analysis was the change in the 24-hour urinary protein-to-creatinine ratio at week 36. Secondary end points were the change at week 36 in galactose-deficient IgA1 levels and hematuria resolution at week 36 among participants with baseline hematuria.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 557 participants received povetacicept (372 participants) or placebo (185 participants). Efficacy analyses included the first 199 participants who had undergone randomization (131 in the povetacicept group and 68 in the placebo group). The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -58.6 to -39.2; P&amp;lt;0.001). Galactose-deficient IgA1 levels decreased by 77.4% with povetacicept and increased by 9.1% with placebo (adjusted difference, -79.3 percentage points; 95% CI, -82.2 to -75.9; P&amp;lt;0.001). Among the participants with baseline hematuria, resolution occurred in 85% with povetacicept and in 23% with placebo (adjusted difference, 62 percentage points; 95% CI, 45 to 78; P&amp;lt;0.001). The incidence of adverse events (75% with povetacicept and 78% with placebo) and serious adverse events (3% and 4%, respectively) were similar in the trial groups.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Povetacicept led to a significantly greater reduction in the 24-hour urinary protein-to-creatinine ratio than placebo by week 36 in participants with IgA nephropathy. (Funded by Vertex Pharmaceuticals; RAINIER AIS-D08 ClinicalTrials.gov number, NCT06564142.).&lt;/p&gt;&lt;p&gt;Barratt J, Zhang H, Han SH, Suzuki Y, Tumlin J, Chacko B&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2608682&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42912669%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2609127</link>
+      <guid isPermaLink="false">pmid:42911185</guid>
+      <pubDate>Fri, 23 Oct 2026 12:45:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Sibeprenlimab, a humanized monoclonal antibody, selectively inhibits the cytokine A proliferation-inducing ligand (APRIL), a key driver of IgA nephropathy. Preliminary trial results with regard to the primary end point of the 24-hour urinary protein-to-creatinine ratio at 9 months after treatment as compared with baseline have been reported, but secondary end points, including outcomes regarding estimated glomerular filtration rate (eGFR), have not.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We randomly assigned adults with IgA nephropathy to receive subcutaneous sibeprenlimab (at a dose of 400 mg) or placebo every 4 weeks. The key secondary end point was the annualized slope of the eGFR over 24 months. Other secondary end points included the change in eGFR from baseline to 24 months, a composite kidney end point of kidney-function decline or kidney failure, and pharmacodynamic and safety end points.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 510 patients underwent randomization - 259 to receive sibeprenlimab and 251 to receive placebo. The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m2 of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab and -4.2 ml per minute per 1.73 m2 per year (95% CI, -4.9 to -3.6) with placebo (between-group difference, 4.5 ml per minute per 1.73 m2 per year; 95% CI, 3.6 to 5.4; P&amp;lt;0.001). The least-squares mean treatment difference for the change in eGFR from baseline to 24 months was 9.2 ml per minute per 1.73 m2 (95% CI, 7.1 to 11.4; P&amp;lt;0.001). A composite kidney end-point event occurred in 1 patient (0.4%) in the sibeprenlimab group and in 28 patients (11.2%) in the placebo group (adjusted difference, -10.8 percentage points; hazard ratio, 0.029; 95% CI, 0.004 to 0.214; P&amp;lt;0.001). Adverse events occurred in 235 patients (90.7%) in the sibeprenlimab group and 226 patients (90.0%) in the placebo group; serious adverse events occurred in 21 patients (8.1%) and 32 patients (12.7%), respectively; and serious infections in 5 patients (1.9%) and 10 patients (4.0%). No deaths were reported.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among patients with IgA nephropathy, treatment with sibeprenlimab stabilized the eGFR slope over 24 months, a finding consistent with a reduced risk of kidney-function decline. (Funded by Otsuka Pharmaceutical Development and Commercialization; VISIONARY ClinicalTrials.gov number, NCT05248646.).&lt;/p&gt;&lt;p&gt;Rizk DV, Barratt J, Suzuki Y, Zhang H, Wong MG, Liew A&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2609127&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42911185%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2610103</link>
+      <guid isPermaLink="false">pmid:42911181</guid>
+      <pubDate>Fri, 23 Oct 2026 12:45:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Atacicept resulted in a significantly greater reduction in the urinary protein-to-creatinine ratio than placebo in a previously published analysis of this trial, ORIGIN 3. Final prespecified efficacy results are reported here.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We randomly assigned adults with biopsy-confirmed IgA nephropathy to receive weekly subcutaneous atacicept at a dose of 150 mg or placebo. We carried out final analyses of two secondary end points: the change in the estimated glomerular filtration rate (eGFR) at week 52 and the annualized eGFR slope through week 104; additional hierarchically tested end points and safety were assessed.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Of 431 patients who underwent randomization, 428 received atacicept or placebo (214 per group). At week 52, the mean change in the eGFR was -0.11 ml per minute per 1.73 m2 of body-surface area (95% confidence interval [CI], -1.44 to 1.22) with atacicept and -5.69 ml per minute per 1.73 m2 (95% CI, -7.04 to -4.35) with placebo (mean difference, 5.58 ml per minute per 1.73 m2; 95% CI, 3.68 to 7.48; P&amp;lt;0.001). Through week 104, the mean annualized eGFR slope was -0.60 ml per minute per 1.73 m2 (95% CI, -1.62 to 0.41) with atacicept and -5.60 ml per minute per 1.73 m2 (95% CI, -6.64 to -4.57) with placebo (difference, 5.00 ml per minute per 1.73 m2 per year; 95% CI, 3.55 to 6.45; P&amp;lt;0.001). Composite kidney-disease progression occurred in 11 patients (5.1%) in the atacicept group and in 38 patients (17.8%) in the placebo group (hazard ratio, 0.24; 95% CI, 0.12 to 0.48; P&amp;lt;0.001); no patients in the atacicept group had progression to dialysis, transplantation, or death, as compared with 7 patients in the placebo group. Adverse events occurred in 160 of 214 patients (74.8%) in the atacicept group and in 167 of 214 patients (78.0%) in the placebo group; serious adverse events occurred in 7.0% and 15.4%, respectively. One patient (in the placebo group) died.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Atacicept slowed and stabilized the decline in the eGFR as compared with placebo. (Funded by Vera Therapeutics; ORIGIN 3 ClinicalTrials.gov number, NCT04716231.).&lt;/p&gt;&lt;p&gt;Barratt J, Brenner RM, Barbour SJ, Campbell KN, Doan T, Eren N&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2610103&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42911181%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mavacamten and Obstructive Hypertrophic Cardiomyopathy in Teens. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611023</link>
+      <guid isPermaLink="false">pmid:42906108</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Rossano JW, Wolf CM, Mital S&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611023&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906108%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mavacamten and Obstructive Hypertrophic Cardiomyopathy in Teens</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611023</link>
+      <guid isPermaLink="false">pmid:42906107</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Huang Y, Wang H, Guo L&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611023&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906107%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mavacamten and Obstructive Hypertrophic Cardiomyopathy in Teens</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611023</link>
+      <guid isPermaLink="false">pmid:42906106</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Pallet N, Narjoz C, Loriot MA&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611023&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906106%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pulsed Field Ablation for Persistent Atrial Fibrillation. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610073</link>
+      <guid isPermaLink="false">pmid:42906105</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Wazni OM, Andrade JG&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610073&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906105%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pulsed Field Ablation for Persistent Atrial Fibrillation</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610073</link>
+      <guid isPermaLink="false">pmid:42906104</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Chang Y, Chen WC&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610073&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906104%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pulsed Field Ablation for Persistent Atrial Fibrillation</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610073</link>
+      <guid isPermaLink="false">pmid:42906103</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Jiang X, Yan M&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610073&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906103%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IVUS-Guided PCI in Left Main Coronary Disease. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433</link>
+      <guid isPermaLink="false">pmid:42906102</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Testa L, Spitzer E, Banning AP&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906102%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IVUS-Guided PCI in Left Main Coronary Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433</link>
+      <guid isPermaLink="false">pmid:42906101</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Güner A, Kalçık M, Uzun F&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906101%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IVUS-Guided PCI in Left Main Coronary Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433</link>
+      <guid isPermaLink="false">pmid:42906100</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Beirne E, Kennedy MW&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906100%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IVUS-Guided PCI in Left Main Coronary Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433</link>
+      <guid isPermaLink="false">pmid:42906099</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Wong B, Fairley S&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906099%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IVUS-Guided PCI in Left Main Coronary Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433</link>
+      <guid isPermaLink="false">pmid:42906098</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Ren G, Chen Z, Ye H&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609433&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906098%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611022</link>
+      <guid isPermaLink="false">pmid:42906097</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;O&amp;#x27;Reilly EM, Wolpin BM, Wainberg ZA&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611022&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906097%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611022</link>
+      <guid isPermaLink="false">pmid:42906096</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Park JJ&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611022&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906096%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>In Vivo Aquaporin-1 Circular RNA Therapy for Radiation-Induced Xerostomia</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2604891</link>
+      <guid isPermaLink="false">pmid:42906095</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Hoffman HT, Quon H, Rassekh CH, Hassan H&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2604891&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906095%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conducting Research with Involuntarily Hospitalized Patients - Ethical, Legal, and Regulatory Considerations</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMms2608116</link>
+      <guid isPermaLink="false">pmid:42906094</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Silverman BC, Gallin K, Camprodon JA&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMms2608116&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906094%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infective Endocarditis - When Is Enough Enough?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612352</link>
+      <guid isPermaLink="false">pmid:42906093</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;DeSimone DC, Baddour LM&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612352&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906093%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ianalumab in Sjögren&#x27;s Disease - A First Step</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2610330</link>
+      <guid isPermaLink="false">pmid:42906092</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Negrini S&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2610330&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906092%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Role for Factor XIa Inhibitors after an Acute Coronary Syndrome Event</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612343</link>
+      <guid isPermaLink="false">pmid:42906091</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Mukherjee D&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612343&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906091%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Case 30-2026: A 52-Year-Old Man with Vision Loss in the Left Eye</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2603184</link>
+      <guid isPermaLink="false">pmid:42906090</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Sobrin L, McKay KM, Kovac V, Wu F, Stagner AM&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2603184&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906090%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tuberculous Empyema Resulting in Pseudochylothorax</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2517156</link>
+      <guid isPermaLink="false">pmid:42906089</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Soleimani A, Aghagoli Y&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2517156&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906089%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helicobacter pylori Infection - Advances, Challenges, and the Road Ahead</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMra2414530</link>
+      <guid isPermaLink="false">pmid:42906088</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;The discovery of Helicobacter pylori has revolutionized the prevention and treatment of gastritis, peptic ulcers, and, most important, gastric cancer. In the past 40 years, enormous progress has been achieved in the clinical and basic research on H. pylori infection. However, challenges in preventing and treating H. pylori infection exist owing to the lack of an H. pylori vaccine and the ever-increasing resistance to antibiotics worldwide. This review summarizes the history of and key milestones in H. pylori research, provides an update on the understanding of the pathogenesis and global burden of H. pylori infection and the screening strategy for the primary prevention of gastric cancer, and focuses on the emerging trends in the management of H. pylori infection.&lt;/p&gt;&lt;p&gt;Li H, Megraud F, Marshall BJ&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMra2414530&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906088%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ianalumab for the Treatment of Patients with Sjögren&#x27;s Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2601088</link>
+      <guid isPermaLink="false">pmid:42906087</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Sjögren&amp;#x27;s disease is a complex, systemic autoimmune disease with no approved targeted therapies. Ianalumab is an IgG1 monoclonal antibody with a dual mechanism of action, depleting B cells through antibody-dependent cellular cytotoxicity and inhibiting B-cell activation and survival through blockade of B-cell activating factor receptor.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted two 52-week, double-blind, randomized, placebo-controlled trials involving patients with active Sjögren&amp;#x27;s disease. Patients in the NEPTUNUS-1 trial were assigned in a 1:1 ratio to receive subcutaneous ianalumab (300 mg monthly) or placebo; patients in the NEPTUNUS-2 trial were assigned in a 1:1:1 ratio to receive 300 mg of ianalumab monthly or every 3 months or placebo. The primary end point was the change from baseline in the score on the European Alliance of Associations for Rheumatology (EULAR) Sjögren&amp;#x27;s Syndrome Disease Activity Index (ESSDAI) at week 48 (scores range from 0 to 123, with higher scores indicating greater disease activity). The first key secondary end point in the hierarchical plan for the NEPTUNUS-1 trial was an ESSDAI response (≥5-point reduction) at week 48; for the NEPTUNUS-2 trial, it was the change from baseline in the score on the Sjögren&amp;#x27;s Syndrome Symptom Diary (SSSD) or EULAR Sjögren&amp;#x27;s Syndrome Patient Reported Index (ESSPRI) at week 48.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Overall, 275 patients underwent randomization in the NEPTUNUS-1 trial (ianalumab monthly, 137 patients; placebo, 138 patients) and 504 in the NEPTUNUS-2 trial (ianalumab monthly, 168 patients; ianalumab every 3 months, 167 patients; and placebo, 169 patients). In both trials, ianalumab monthly led to a significantly greater decrease in the ESSDAI score at week 48 than placebo, with a between-group difference of -1.3 points (95% confidence interval [CI], -2.6 to 0.0; P = 0.0496) in NEPTUNUS-1 and -1.0 points (95% CI, -2.0 to 0.0; P = 0.04) in NEPTUNUS-2. No significant differences in the incidence of an ESSDAI response or in the change from baseline in SSSD or ESSPRI scores were observed at week 48. The incidence of serious adverse events was similar with ianalumab and placebo. Nonserious local injection-site and systemic injection-related reactions were more common in the ianalumab groups.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; In these two trials involving patients with active Sjögren&amp;#x27;s disease, ianalumab at a dose of 300 mg monthly resulted in a significantly greater decrease in disease activity at week 48 than placebo, although there were no significant differences in the incidence of an ESSDAI response or in the change from baseline in SSSD or ESSPRI symptom scores. (Funded by Novartis Pharma; NEPTUNUS-1 and NEPTUNUS-2 ClinicalTrials.gov numbers, NCT05350072 and NCT05349214, respectively.).&lt;/p&gt;&lt;p&gt;Mariette X, Grader-Beck T, Finzel S, Schiopu E, Papas A, Devauchelle-Pensec V&lt;br/&gt;Journal Article, Randomized Controlled Trial, Multicenter Study, Clinical Trial, Phase III&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2601088&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906087%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Examining the Use of Race in Clinical Algorithms</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2612470</link>
+      <guid isPermaLink="false">pmid:42906086</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Burstin H, Enders FT, Levy S, Siddique S, Wright JL, Malina D&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2612470&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906086%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2611477</link>
+      <guid isPermaLink="false">pmid:42904878</guid>
+      <pubDate>Thu, 22 Oct 2026 16:51:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide, we assigned adults with moderate-to-severe OSA and a body-mass index (the weight in kilograms divided by the square of the height in meters) of at least 27, without (TRIUMPH-1-OSA) or with (TRIUMPH-2-OSA) type 2 diabetes, to receive retatrutide (4, 9, or 12 mg) or placebo. The primary end point was the change in the apnea-hypopnea index (AHI, the average number of apneas and hypopneas per hour of sleep) at 80 weeks with 9 mg and 12 mg of retatrutide. For OSA-related end points, a hybrid-treatment estimand was applied, with a hypothetical strategy used for participants who had intercurrent events suggesting treatment failure and a treatment-policy strategy used elsewhere. We also report intention-to-treat (ITT) results.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 243 participants underwent randomization in TRIUMPH-1-OSA and 448 in TRIUMPH-2-OSA. The baseline mean AHI was 58.6 and 55.9 events per hour, respectively, and the mean body weight was 119.6 and 115.9 kg. At 80 weeks, the mean changes in the AHI (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OSA were -22.9 (4 mg), -34.3 (9 mg), and -31.7 (12 mg) events per hour, versus -9.9 with placebo (difference vs. placebo, -13.0 [95% confidence interval {CI}, -23.0 to -3.0], -24.4 [95% CI, -34.1 to -14.7], and -21.9 [95% CI, -32.2 to -11.5], respectively). The changes with retatrutide in TRIUMPH-2-OSA were -19.2 (4 mg), -24.7 (9 mg), and -25.4 (12 mg) events per hour, versus -10.3 with placebo (difference vs. placebo, -8.9 [95% CI, -15.9 to -2.0], -14.4 [95% CI, -21.6 to -7.2], and -15.1 [95% CI, -22.5 to -7.7]). For the ITT estimand, the corresponding differences from placebo were -13.2 (95% CI, -22.6 to -3.9), -24.7 (95% CI, -34.1 to -15.3), and -22.5 (95% CI, -31.9 to -13.1) in TRIUMPH-1-OSA and -8.8 (95% CI, -15.8 to -1.7), -13.9 (95% CI, -21.3 to -6.6), and -15.0 (95% CI, -22.5 to -7.4) in TRIUMPH-2-OSA. The mean percent change in body weight with retatrutide (key secondary end point) was -12.5 to -22.2% in TRIUMPH-1-OSA and -12.1 to -18.5% in TRIUMPH-2-OSA, versus -4.8% and -5.6% with placebo (treatment-regimen estimand). The most common adverse events were gastrointestinal.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; In adults with OSA and obesity or overweight with or without type 2 diabetes, retatrutide resulted in significantly greater decreases in the AHI than placebo. (Funded by Eli Lilly; TRIUMPH-1 and -2 ClinicalTrials.gov numbers, NCT05929066 and NCT05929079.).&lt;/p&gt;&lt;p&gt;Grunstein RR, Somers VK, Azarbarzin A, Malhotra A, Sands SA, Lucey BP&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2611477&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42904878%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What I See before Anyone Speaks</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2604584</link>
+      <guid isPermaLink="false">pmid:42895222</guid>
+      <pubDate>Mon, 19 Oct 2026 07:44:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Shpiner RB&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2604584&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42895222%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Community Engagement Requirements in Medicaid - Law as a Determinant of Health</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2608810</link>
+      <guid isPermaLink="false">pmid:42895221</guid>
+      <pubDate>Mon, 19 Oct 2026 07:44:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Huberfeld N, Shafer PR&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2608810&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42895221%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Shared-Savings ACOs Have Failed to Deliver for Primary Care</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2605590</link>
+      <guid isPermaLink="false">pmid:42895219</guid>
+      <pubDate>Mon, 19 Oct 2026 07:44:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Rotenstein LS, Stine N, Landon B&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2605590&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42895219%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spinal Tuberculosis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607513</link>
+      <guid isPermaLink="false">pmid:42895218</guid>
+      <pubDate>Mon, 19 Oct 2026 07:44:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Henriques SP, Mota M&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607513&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42895218%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

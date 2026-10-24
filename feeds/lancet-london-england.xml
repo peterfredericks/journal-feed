@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Lancet</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/lancet-london-england.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in The Lancet</description>
+    <lastBuildDate>Sat, 24 Oct 2026 15:54:41 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Remibrutinib versus teriflunomide in relapsing multiple sclerosis (REMODEL-1 and REMODEL-2): two randomised, phase 3 trials</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902058-1</link>
+      <guid isPermaLink="false">pmid:42915009</guid>
+      <pubDate>Fri, 23 Oct 2026 18:53:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Remibrutinib is a highly selective, potent, covalent, CNS-penetrant, oral BTK inhibitor. We assessed the efficacy and safety of remibrutinib in adult patients with relapsing multiple sclerosis.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; REMODEL-1 and REMODEL-2 are two identical, randomised, double-blind, double-dummy, active comparator-controlled, parallel-group, event-driven, phase 3 trials conducted at 407 centres in 46 countries. Patients aged 18-55 years with relapsing multiple sclerosis, an Expanded Disability Status Scale score of 0-5·5, and evidence of recent disease activity were randomly assigned 1:1 to oral remibrutinib 100 mg twice daily or teriflunomide 14 mg once daily via interactive response technology. Randomisation was stratified by geographical region, MRI cohort participation, and multiple sclerosis subtype. Patients, site investigators, and trial team were masked to treatment allocation. The primary endpoint was annualised relapse rate (ARR), defined as the number of confirmed multiple sclerosis relapses per patient-year with up to 30 months of follow-up, and assessed in all randomly assigned patients. These trials are registered with ClinicalTrials.gov (NCT05147220 and NCT05156281) and are ongoing, not recruiting.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Findings:&lt;/b&gt; Between Dec 13, 2021, and Dec 30, 2025, 2632 patients were screened and 2007 patients were randomly assigned. REMODEL-1 included 1000 patients (remibrutinib 502, teriflunomide 498; mean age 38·2 years, 666 [66·6%] female, 334 [33·4%] male) and REMODEL-2 included 1007 patients (remibrutinib 504, teriflunomide 503; mean age 39·0 years, 675 [67·0%] female, 332 [33·0%] male). ARR was significantly lower with remibrutinib than with teriflunomide: 0·073 versus 0·112 (rate ratio [RR] 0·648 [95% CI 0·453-0·927]; p=0·018) in REMODEL-1 and 0·080 versus 0·116 (RR 0·688 [0·487-0·972]; p=0·034) in REMODEL-2. The most common adverse events were upper respiratory tract infection (132 [13·1%] of 1006 with remibrutinib vs 137 [13·7%] of 1001 with teriflunomide), nasopharyngitis (92 [9·1%] vs 123 [12·3%]), diarrhoea (84 [8·3%] vs 109 [10·9%]), and alopecia (58 [5·8%] vs 135 [13·5%]). Adverse events leading to treatment discontinuation were less frequent with remibrutinib (31 [3·1%]) versus teriflunomide (58 [5·8%]). The safety profile of remibrutinib was consistent with that in other indications, including no liver safety concerns.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interpretation:&lt;/b&gt; Remibrutinib was superior to teriflunomide in patients with relapsing multiple sclerosis, while maintaining a favourable safety profile. These findings support remibrutinib as a potential new oral treatment option for relapsing multiple sclerosis.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Funding:&lt;/b&gt; Novartis.&lt;/p&gt;&lt;p&gt;Wiendl H, Bermel R, Airas L, Chitnis T, Nakahara J, Williams M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902058-1&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42915009%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Efficacy and safety of mitapivat in patients with sickle cell disease (RISE UP): a phase 3, double-blind, global, randomised, placebo-controlled trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901480-7</link>
+      <guid isPermaLink="false">pmid:42913682</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Persistent haemolytic anaemia and recurrent vaso-occlusion drive complications and accelerate mortality in sickle cell disease. Mitapivat, an oral allosteric activator of pyruvate kinase, increases ATP and decreases 2,3-DPG with the potential to improve haemolytic anaemia and reduce sickling. We aimed to evaluate the efficacy and safety of mitapivat in patients with sickle cell disease.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We report results from RISE UP, a phase 3, double-blind, global, randomised, placebo-controlled trial from 69 sites across 15 countries. Patients older than 16 years with anaemia and recurrent sickle cell pain crises were randomly assigned (2:1) to either mitapivat 100 mg or placebo twice a day using permuted-block randomisation. Primary endpoints, assessed in all randomly assigned patients, were haemoglobin response (≥1·0 g/dL increase in average haemoglobin concentration from week 24 to week 52 compared with baseline) and annualised rate of sickle cell pain crises. This study is registered with ClinicalTrials.gov, NCT05031780, and the open-label extension is ongoing.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Findings:&lt;/b&gt; A total of 207 patients were randomly assigned to mitapivat (138 [67%]) or placebo (69 [33%]). 56 (41%) of 138 patients in the mitapivat group had a haemoglobin response, compared with two (3%) of 69 patients on placebo (adjusted difference 38%, 95% CI 29-47; two-sided p&amp;lt;0·0001). The annualised rate (95% CI) of sickle cell pain crises was 2·6 (2·3-3·0) for mitapivat and 3·1 (2·6-3·6) for placebo (two-sided p=0·1213). Serious adverse events were reported in 28 (20%) patients on mitapivat and 20 (29%) patients on placebo; one (1%) patient and 0 patients, respectively, were deemed treatment related.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interpretation:&lt;/b&gt; Mitapivat, an oral pyruvate kinase activator, with a novel mechanism that ameliorates haemolytic anaemia, has the potential to be an effective and convenient disease-modifying treatment for people with sickle cell disease.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Funding:&lt;/b&gt; Agios Pharmaceuticals.&lt;/p&gt;&lt;p&gt;Andemariam B, Kuo KHM, Algahtani FH, Al Kindi S, Ataga KI, Bartolucci P&lt;br/&gt;Journal Article, Randomized Controlled Trial, Clinical Trial, Phase III, Multicenter Study&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901480-7&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913682%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Department of Error</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902107-0</link>
+      <guid isPermaLink="false">pmid:42913681</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902107-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913681%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Department of Error</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902109-4</link>
+      <guid isPermaLink="false">pmid:42913680</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902109-4&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913680%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Department of Error</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902108-2</link>
+      <guid isPermaLink="false">pmid:42913679</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902108-2&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913679%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Department of Error</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902106-9</link>
+      <guid isPermaLink="false">pmid:42913678</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902106-9&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913678%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unanswered questions from the NIMBLE trial - Authors&#x27; reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901942-2</link>
+      <guid isPermaLink="false">pmid:42913677</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Vu T, Pavani R, NIMBLE investigators&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901942-2&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913677%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unanswered questions from the NIMBLE trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901643-0</link>
+      <guid isPermaLink="false">pmid:42913676</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Tao X&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901643-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913676%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond imaging thresholds in large-core stroke thrombectomy - Authors&#x27; reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901903-3</link>
+      <guid isPermaLink="false">pmid:42913675</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Sarraj A, Costalat V, Zaidat OO, Yoshimura S, Miao Z, Bendszus M&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901903-3&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913675%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond imaging thresholds in large-core stroke thrombectomy</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901642-9</link>
+      <guid isPermaLink="false">pmid:42913674</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Bakhriansyah J, Baharuddin B, Prawitasari DS, Handayani L&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901642-9&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913674%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease - Authors&#x27; reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901902-1</link>
+      <guid isPermaLink="false">pmid:42913673</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Ong ACM, Carriazo S, Ma BM, Torra R, Pei Y&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901902-1&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913673%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nephromegaly-driven malnutrition in autosomal dominant polycystic kidney disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901050-0</link>
+      <guid isPermaLink="false">pmid:42913672</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Pisoni MB, Paolisi M, Bianca P, Kola K, Rivera RF, Vezzoli G&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901050-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913672%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Communication: the missing pillar of clinical trial governance</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902030-1</link>
+      <guid isPermaLink="false">pmid:42913671</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Servais L, Smith A, Washbrook S, Le Pichon JB, Oskoui M&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902030-1&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913671%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khairul Islam</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902113-6</link>
+      <guid isPermaLink="false">pmid:42913670</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Thornton J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902113-6&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913670%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Longevity is a political concern</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902112-4</link>
+      <guid isPermaLink="false">pmid:42913669</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;O&amp;#x27;Mahony S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902112-4&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913669%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Offline: Berlin diary</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902116-1</link>
+      <guid isPermaLink="false">pmid:42913668</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Horton R&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902116-1&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913668%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mitapivat in the RISE UP trial: a new therapy for sickle cell disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902046-5</link>
+      <guid isPermaLink="false">pmid:42913667</guid>
+      <pubDate>Fri, 23 Oct 2026 17:57:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Knight-Madden J, Ramsay Z&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2902046-5&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42913667%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901536-9</link>
+      <guid isPermaLink="false">pmid:42906565</guid>
+      <pubDate>Thu, 22 Oct 2026 19:46:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Endometrial ablation is an established and effective treatment for women with heavy menstrual bleeding, but many patients require further treatment, with approximately 10% ultimately undergoing a hysterectomy within 2 years. The insertion of a levonorgestrel-releasing intrauterine system (LNG-IUS) immediately after endometrial ablation might inactivate residual untreated endometrium or prevent its regeneration, thereby preventing recurrent symptoms necessitating a hysterectomy. The aim of the study was to assess whether LNG-IUS insertion immediately after endometrial ablation in women with heavy menstrual bleeding reduced the need for subsequent hysterectomy within 2 years compared with endometrial ablation alone.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; This multicentre, open-label, randomised, controlled, superiority trial was conducted in 34 hospitals in the Netherlands. Women younger than 60 years with heavy menstrual bleeding who were eligible for endometrial ablation were included and randomly assigned (1:1) to combined treatment comprising endometrial ablation plus LNG-IUS or to standard care comprising endometrial ablation alone (stratified by dysmenorrhoea and age). Masking was not applied. Endometrial ablation was done using electrical radiofrequency ablation or by transcervical resection of the endometrium. In participants allocated to combined treatment, intrauterine insertion of an LNG-IUS containing a total of 52 mg of levonorgestrel (releasing 20 μg per day in the first year) was done immediately after the ablative procedure. The primary outcome was the incidence of hysterectomy within 2 years, analysed on a modified intention-to-treat basis in all participants with available data. Serious adverse events were systematically assessed at 6 weeks, 12 months, and 24 months after the intervention. This study was registered on the International Clinical Trials Registry Platform (NL-OMON54839) and is complete.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Findings:&lt;/b&gt; Between Nov 19, 2019, and April 5, 2023, 715 participants were randomly assigned to combined treatment (n=359) or endometrial ablation alone (n=356). The median age of all participants was 45 years (IQR 40-48). 42 (6%) participants had missing data for the primary outcome at 2 years of follow-up. A hysterectomy was done in 15 (4%) of 342 participants in the combined treatment group versus 34 (10%) of 331 participants in the endometrial ablation group, corresponding to a relative risk (RR) of 0·43 (95% CI 0·24 to 0·77; p=0·0050), with a risk difference of -0·06 (95% CI -0·10 to -0·02; p=0·0040). Serious adverse events were reported in 27 (8%) of 346 participants in the combined treatment group and 26 (8%) of 327 participants in the endometrial ablation alone group (RR 0·98, 95% CI 0·59-1·65; p=0·94), and there were no treatment-related deaths.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interpretation:&lt;/b&gt; The combination of endometrial ablation and LNG-IUS significantly reduced the incidence of hysterectomy compared with endometrial ablation alone. The combined treatment appears to be a safe adjunctive strategy for heavy menstrual bleeding that does not increase the risk of complications.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Funding:&lt;/b&gt; The Netherlands Organization for Health Research and Development.&lt;/p&gt;&lt;p&gt;Oderkerk TJ, Leemans JC, Beelen P, Herman MC, Coppus SFPJ, van der Weide MC&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901536-9&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906565%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901602-8</link>
+      <guid isPermaLink="false">pmid:42906564</guid>
+      <pubDate>Thu, 22 Oct 2026 19:46:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Neoadjuvant immune checkpoint blockade induces high pathological response rates in patients with locally advanced mismatch repair-deficient (dMMR) colon cancer, yet long-term survival outcomes have not been established. Previously, we reported safety (a primary endpoint) and pathological response (a secondary endpoint) data from the NICHE-2 trial. Here, we report the primary efficacy endpoint of 3-year disease-free survival and the exploratory endpoint of 5-year overall survival.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this single-arm, multicentre, phase 2, NICHE-2 trial, patients with previously untreated, clinical stage 2 or 3, resectable dMMR colon cancer received a single dose of intravenous ipilimumab (1 mg per kg) on day 1, and two doses of intravenous nivolumab (3 mg per kg) on days 1 and 15, followed by surgery in one of the six participating hospitals in the Netherlands. Here, we report the independent primary efficacy endpoint of 3-year disease-free survival (time from surgery until disease recurrence or death from any cause) and the secondary endpoint of circulating tumour DNA (ctDNA) analysis. Overall survival (time from study enrolment until death from any cause) is reported as an exploratory post-hoc analysis. All endpoints were assessed in the per-protocol population (patients who met the eligibility criteria and received at least one cycle of therapy). The study is registered with ClinicalTrials.gov, NCT03026140, and has completed accrual.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Findings:&lt;/b&gt; From July 4, 2017, to July 18, 2022, 123 patients were screened, of whom 115 were treated and 111 were included in the per-protocol population. At the data cutoff (June 19, 2026), the postoperative median follow-up was 58·7 months (IQR 49·0-72·9). The 3-year disease-free survival was 100% (97·5% CI 100-100). After a median follow-up of 60·4 months (IQR 50·6-74·1), calculated from time of study enrolment, the 5-year overall survival was 100% (95% CI 100-100). In patients with available plasma samples, ctDNA was detected in 99 (92%) of 108 patients at baseline, and ctDNA clearance was observed in 44 (45%) of 98 patients after the first cycle in week 2 and in 80 (82%) of 97 patients after the second cycle before surgery. In patients with a pathological near-complete response and complete response, presurgery ctDNA clearance was observed in 19 (70%) of 27 patients and 60 (92%) of 65 patients, respectively. Assessment for minimal residual disease after surgery revealed that all patients were ctDNA negative.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interpretation:&lt;/b&gt; In patients with locally advanced dMMR colon cancer, treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%. These findings support neoadjuvant nivolumab plus ipilimumab as a potential standard of care for patients with locally advanced dMMR colon cancer.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Funding:&lt;/b&gt; Bristol Myers Squibb.&lt;/p&gt;&lt;p&gt;Chalabi M, van den Dungen LDW, de Gooyer PGM, Balduzzi S, Aalbers AGJ, Kerver ED&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901602-8&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906564%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Redefining curative treatment for early-stage mismatch repair-deficient colon cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901612-0</link>
+      <guid isPermaLink="false">pmid:42906563</guid>
+      <pubDate>Thu, 22 Oct 2026 19:46:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Gill S, Loree J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901612-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906563%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preserving the uterus: an effective dual therapy to avoid hysterectomy</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901715-0</link>
+      <guid isPermaLink="false">pmid:42906562</guid>
+      <pubDate>Thu, 22 Oct 2026 19:46:00 +0000</pubDate>
+      <category>Lancet (London, England)</category>
+      <description>&lt;p&gt;Lemos MJ, Carugno J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1016%2FS0140-6736%2826%2901715-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42906562%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
