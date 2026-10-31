@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergency Medicine Journal</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/emergency-medicine-journal.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Emergency Medicine Journal</description>
+    <lastBuildDate>Sat, 31 Oct 2026 05:36:02 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Discussing lung cancer management options in the emergency department</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216560</link>
+      <guid isPermaLink="false">pmid:42963123</guid>
+      <pubDate>Fri, 30 Oct 2026 21:33:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;Moghanaki D, Goldman J, Weingrow D, Hendey GW&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216560&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42963123%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrative review of consumers&#x27; experiences of care in emergency departments for suicidality</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216460</link>
+      <guid isPermaLink="false">pmid:42951351</guid>
+      <pubDate>Wed, 28 Oct 2026 21:13:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;Cooper KL, McFadden T, Goodhew M, Razavy S, Boustany C, Webb G&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216460&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42951351%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Will a sweet treat make cough retreat? In children presenting with acute cough due to upper respiratory tract infection, does honey treatment reduce cough severity?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216314</link>
+      <guid isPermaLink="false">pmid:42951350</guid>
+      <pubDate>Wed, 28 Oct 2026 21:13:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;Williams J, Fitzgibbon-Cadiou A&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216314&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42951350%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is Doppler ultrasound superior to nuclear scintigraphy for diagnosing testicular torsion?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216606</link>
+      <guid isPermaLink="false">pmid:42951349</guid>
+      <pubDate>Wed, 28 Oct 2026 21:13:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;Philippou P, Darbyshire D&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216606&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42951349%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

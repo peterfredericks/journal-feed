@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intensive Care Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/intensive-care-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Intensive Care Medicine</description>
+    <lastBuildDate>Sat, 31 Oct 2026 05:36:02 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Immunological signatures of sepsis in abdominal solid organ transplant recipients: A multilayer and multicentric prospective cohort study</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08612-1</link>
+      <guid isPermaLink="false">pmid:42955323</guid>
+      <pubDate>Thu, 29 Oct 2026 12:15:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Sepsis is defined as life-threatening organ dysfunction resulting from a dysregulated host response to infection. Patients with prior abdominal solid organ transplantation (SOT) are highly susceptible to infection due to chronic immunosuppression, yet exhibit improved survival once sepsis occurs. The underlying mechanisms remain poorly understood.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a post hoc analysis within a prospective multicenter cohort of septic patients (SepsisDataNet.NRW; n = 538). Clinical outcomes were assessed using Kaplan-Meier analysis and multivariable Cox regression. Immune profiling included serum cytokines, flow cytometric immunophenotyping, plasma proteomics, and intracellular signaling using proximity ligation assays (PLA) in peripheral blood mononuclear cells (PBMCs). To reduce clinical confounding, complementary exploratory analyses were performed in a non-septic kidney transplant cohort (e:KID).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; SOT patients demonstrated improved 30-day survival compared with non-SOT patients (84% vs. 66%; adjusted HR 0.49, 95% CI 0.26-0.95). Cytokine analysis revealed lower IL-6 and TNF-α levels alongside higher IL-18 concentrations, indicating an altered inflammatory profile. Flow cytometry showed reductions in adaptive immune cells but relatively preserved innate immune function, reflected by higher monocytic HLA-DR expression. Proteomics identified enrichment of innate immune, complement, and lipid metabolic response networks. PLA-based cellular analyses revealed increased GLUT1 expression and enhanced TFAM/TFB2M interaction in SOT patients, indicating a distinct immunometabolic marker profile. In e:KID patients paired serum metabolomics demonstrated higher glucose and lower lactate concentrations 12 months after transplantation, accompanied by broader alterations in lipid and branched-chain amino acid profiles.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusion:&lt;/b&gt; In patients with sepsis, abdominal SOT is associated with significant better survival than in non-SOT patients. Septic abdominal SOT patients display a distinct immune phenotype characterized by attenuated systemic inflammation, relative preservation of selected innate immune readouts, and alterations in immunometabolic markers.&lt;/p&gt;&lt;p&gt;Witowski A, Bracht T, Kröger L, Rump K, Nowak H, Bergmann L&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08612-1&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42955323%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diagnosis: the forgotten ICU procedure</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08609-w</link>
+      <guid isPermaLink="false">pmid:42955322</guid>
+      <pubDate>Thu, 29 Oct 2026 12:15:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Contou D&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08609-w&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42955322%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Family suffering after critical illness: understanding buffers and stressors</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08621-0</link>
+      <guid isPermaLink="false">pmid:42955321</guid>
+      <pubDate>Thu, 29 Oct 2026 12:15:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Naef R, Bienvenu OJ&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08621-0&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42955321%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ventilator-associated pneumonia after traumatic brain injury: a timing-sensitive ecological framework of neuroimmune-pulmonary vulnerability</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08606-z</link>
+      <guid isPermaLink="false">pmid:42955320</guid>
+      <pubDate>Thu, 29 Oct 2026 12:15:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Ventilator-associated pneumonia (VAP) is frequent after traumatic brain injury (TBI), but its biological meaning and outcome impact remain incompletely defined. Traditional models emphasise mechanical ventilation, aspiration, colonisation, endotracheal tube biofilm, and hospital pathogens. These mechanisms remain essential, but they do not fully explain the early clustering, heterogeneous susceptibility, changing bacteriology, and variable mortality effect observed after TBI.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main text:&lt;/b&gt; Severe brain injury creates an early vulnerable host state through impaired consciousness and airway protection, neuroimmune dysregulation, autonomic and endocrine activation, altered pulmonary immune surveillance, and, in many patients, extracranial trauma, shock, transfusion, or thoracic injury. These processes interact with ventilation, antibiotic pressure, and rapid respiratory microbiome disruption. Early VAP may reflect abrupt loss of control after injury and intubation, whereas late VAP may reflect persistent or secondary failure driven by biofilm maturation, antibiotic selection, multidrug-resistant pathogens, and intensive care unit (ICU)-acquired immune dysfunction. Clinically, VAP consistently prolongs ventilation, ICU stay, antibiotic exposure, and resource use, while its independent effect on mortality is phenotype- and context-dependent.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; This model proposes a timing-sensitive ecological framework in which established mechanisms may converge early and with particular clinical intensity after severe TBI, creating a vulnerable host-microbe state that may lower the threshold for clinically apparent infection. Future studies should distinguish isolated TBI from polytrauma, compare TBI with other acute brain injuries and non-neurological ventilated populations, and incorporate dynamic immune, microbial, and trajectory-based outcomes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Highlights:&lt;/b&gt; VAP after TBI should be viewed as a timing-sensitive interaction between ventilator exposure and early host vulnerability, not as a distinct disease entity or as a pneumonia pathway unique to traumatic brain injury. The TBI-focused contribution lies in the early convergence of otherwise non-unique mechanisms: impaired airway control, aspiration risk, neuroimmune-endocrine activation, treatment exposure, dysbiosis, and extracranial injury burden, rather than in any single TBI-specific mechanism. Isolated TBI and TBI with polytrauma are biologically different phenotypes and should be separated in future studies. Early and late VAP may represent different phases of loss of pulmonary host-microbe containment; this distinction is probabilistic rather than TBI-specific in itself and requires validation in TBI-stratified cohorts. Mortality remains clinically relevant but context-dependent; VAP more consistently modifies recovery trajectory, ventilator dependence, ICU stay, antibiotic exposure, and possibly neurological recovery.&lt;/p&gt;&lt;p&gt;Martin-Loeches I, Povoa P, Robba C, Bandera A, Guglielmi A, Citerio G&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08606-z&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42955320%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What do the findings of compartmentalised sub-phenotypes in lungs of patients with pneumonia mean for critical care?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08637-6</link>
+      <guid isPermaLink="false">pmid:42955319</guid>
+      <pubDate>Thu, 29 Oct 2026 12:15:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Conway Morris A, Mazumdar S, Jeffrey M&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08637-6&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42955319%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Optimizing post-extubation respiratory support in high-risk patients</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08647-4</link>
+      <guid isPermaLink="false">pmid:42944922</guid>
+      <pubDate>Tue, 27 Oct 2026 12:16:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Grieco DL, Azoulay E, De Jong A&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08647-4&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42944922%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ARDS at 60: beyond lung protection to lung repair</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08610-3</link>
+      <guid isPermaLink="false">pmid:42944921</guid>
+      <pubDate>Tue, 27 Oct 2026 12:16:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Wang Y, Xu Y, Zhang H&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08610-3&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42944921%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heat stroke presenting with choreiform dyskinesias: an unusual MRI pattern</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08629-6</link>
+      <guid isPermaLink="false">pmid:42944920</guid>
+      <pubDate>Tue, 27 Oct 2026 12:16:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Chougar L, Barhoum P, Delorme C, Marois C&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08629-6&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42944920%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>European Society of Intensive Care Medicine consensus statement on human-centred partnership in the intensive care unit</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08626-9</link>
+      <guid isPermaLink="false">pmid:42931902</guid>
+      <pubDate>Mon, 26 Oct 2026 12:13:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;A human-centred partnership in the intensive care unit (ICU) aims to integrate person-centred care, communication, emotional support, equity, and collaboration into ICU environments. The European Society of Intensive Care Medicine (ESICM) developed a consensus statement on human-centred partnership in the ICU following a systematic, multi-phase, evidence-informed methodology incorporating the views of ICU professionals, academics, and patient and family representatives. This international multidisciplinary panel of 46 members conducted rapid reviews addressing 20 Population, Intervention, Comparator, Outcomes (PICO) questions across six domains: person-centred care; communication and transparency; emotional well-being; equity, diversity, and inclusion; ICU environment; technology and innovation. Based on the evidence synthesis, 53 draft statements were developed and evaluated through a two-round eDelphi study. The final set of statements was discussed and ratified at an expert consensus meeting with the initial panel of experts and with patients and family representatives. A total of 201 international stakeholders participated in round 1 and 149 in round 2. Members of the expert consensus meeting ultimately endorsed 43 consensus statements. Key recommendations supported flexible family visitation, structured interdisciplinary communication, empathy-based staff training, psychological support for patients and ICU professionals, culturally responsive care, environmental interventions to improve sleep and reduce delirium, and the integration of digital supported technologies. The consensus statement on human-centred partnership in the ICU provides a comprehensive framework for clinicians with evidence-informed directions to deliver high-quality practice across diverse ICU settings. By prioritising person-centred care, communication, inclusivity, and well-being alongside responsible technological innovation, the experiences and outcomes of patients, families, and ICU professionals may improve.&lt;/p&gt;&lt;p&gt;Latour JM, Rodriguez-Ruiz E, Arabi YM, Benbenishty J, Boulanger C, Cai S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08626-9&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42931902%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Physiology-guided ventilation as an equity intervention: from kilograms to compliance</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08633-w</link>
+      <guid isPermaLink="false">pmid:42931901</guid>
+      <pubDate>Mon, 26 Oct 2026 12:13:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;von Wedel D, Amato MBP, Schaefer MS&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08633-w&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42931901%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phenotyping ARDS: A pragmatic path forward with the POLARIS international cohort</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08614-z</link>
+      <guid isPermaLink="false">pmid:42931900</guid>
+      <pubDate>Mon, 26 Oct 2026 12:13:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Pensier J, Schaefer MS, Talmor D&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08614-z&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42931900%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond avoiding failure: the proactive and beneficial role of appropriate antimicrobial therapy in the ICU</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08650-9</link>
+      <guid isPermaLink="false">pmid:42931899</guid>
+      <pubDate>Mon, 26 Oct 2026 12:13:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;Ramirez P, Kalil AC, Ferrer R&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08650-9&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42931899%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Restoring patients&#x27; voice in intensive care: augmentative and alternative communication for human-centred care</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08654-5</link>
+      <guid isPermaLink="false">pmid:42931898</guid>
+      <pubDate>Mon, 26 Oct 2026 12:13:00 +0000</pubDate>
+      <category>Intensive care medicine</category>
+      <description>&lt;p&gt;van Mol M, Martin Delgado MC, Greco M&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1007%2Fs00134-026-08654-5&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42931898%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

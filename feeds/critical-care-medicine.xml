@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Care Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/critical-care-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Critical Care Medicine</description>
+    <lastBuildDate>Sat, 31 Oct 2026 05:36:02 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Tracheal Intubation-Associated Cardiac Arrest in Critically Ill Children: The Medical Equivalent of a 100-Year Flood</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007409</link>
+      <guid isPermaLink="false">pmid:42957602</guid>
+      <pubDate>Fri, 30 Oct 2026 00:03:00 +0000</pubDate>
+      <category>Critical care medicine</category>
+      <description>&lt;p&gt;Khanal A, Hartman ME&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007409&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42957602%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Excessive Tidal Volume During Noninvasive Ventilation: Mechanisms of Harm Leading to Worse Clinical Outcomes</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007410</link>
+      <guid isPermaLink="false">pmid:42957594</guid>
+      <pubDate>Fri, 30 Oct 2026 00:02:00 +0000</pubDate>
+      <category>Critical care medicine</category>
+      <description>&lt;p&gt;Mavignier N, Mauri T&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007410&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42957594%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond 28-Day Mortality: The Unfinished Story of Extracorporeal Membrane Oxygenation Survivorship</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007405</link>
+      <guid isPermaLink="false">pmid:42951898</guid>
+      <pubDate>Thu, 29 Oct 2026 00:06:00 +0000</pubDate>
+      <category>Critical care medicine</category>
+      <description>&lt;p&gt;Greendyk RA, Tonna JE&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007405&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42951898%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Variation in Pediatric Extracorporeal Cardiopulmonary Resuscitation Survival After In-Hospital Cardiac Arrest: Development and Validation of a Survival Model for Risk-Standardized Survival Rates: An Analysis of the Extracorporeal Life Support Organization Registry</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007383</link>
+      <guid isPermaLink="false">pmid:42951894</guid>
+      <pubDate>Thu, 29 Oct 2026 00:05:00 +0000</pubDate>
+      <category>Critical care medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt; To develop and internally validate a multivariable prediction model for survival to hospital discharge after pediatric extracorporeal cardiopulmonary resuscitation (ECPR) for in-hospital cardiac arrest (IHCA), and to use this model to derive risk-standardized survival rates (RSSRs) and quantify between-hospital variation in outcomes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design:&lt;/b&gt; Retrospective multicenter cohort study.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Setting:&lt;/b&gt; Hospitals contributing to the Extracorporeal Life Support Organization (ELSO) registry between 2020 and 2023.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Patients:&lt;/b&gt; Children (&amp;lt; 18 yr) treated with ECPR for IHCA.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interventions:&lt;/b&gt; None.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Measurements and main results:&lt;/b&gt; Eligible patients were identified from the ELSO Registry and split into derivation (N = 1060) and validation (N = 317) cohorts using a hospital-stratified split to preserve within-hospital clustering. Survival prediction models were derived using penalized logistic regression with the least absolute shrinkage and selection operator. A full-event model incorporating 14 routinely available clinical variables demonstrated fair discrimination (area under the curve, 0.728 in the derivation cohort and 0.678 in the validation cohort) and good calibration (observed-to-expected ratio, 0.995; Brier score, 0.222 in the validation cohort). This model was embedded in a multilevel logistic regression model to generate hospital-level RSSRs for centers reporting five or more ECPR cases. Between-hospital variation was quantified using the median odds ratio, which was 1.30 (95% CI, 1.11-1.93), indicating significant differences in survival likelihood between centers after adjusting for patient-level risk.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; In a large, international cohort of pediatric ECPR patients, we developed and internally validated a clinically interpretable model for survival to hospital discharge. The model performance as a discriminator likely limits its use as a standalone tool for clinical decision-making. However, strong internal calibration allowed for determination of hospital-level RSSRs, which revealed significant inter-hospital variability. These findings demonstrate the feasibility of developing a risk-adjustment model capable of estimating hospital-level RSSRs. Additional external validation and evaluation of residual case-mix differences are needed before such models can be used for benchmarking across pediatric ECPR centers.&lt;/p&gt;&lt;p&gt;Loaec M, Himebauch AS, Balcarcel D, Reilly JP, Feng R, Regan M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007383&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42951894%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Candida Septic Shock: If Every Hour Matters, Who Requires Empiric Therapy?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007411</link>
+      <guid isPermaLink="false">pmid:42951887</guid>
+      <pubDate>Thu, 29 Oct 2026 00:03:00 +0000</pubDate>
+      <category>Critical care medicine</category>
+      <description>&lt;p&gt;Gupta S, Rhee C, Klompas M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007411&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42951887%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Role of Mitochondrial Impairment in Sepsis-Induced Platelet Activation</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007407</link>
+      <guid isPermaLink="false">pmid:42925135</guid>
+      <pubDate>Sat, 24 Oct 2026 12:23:00 +0000</pubDate>
+      <category>Critical care medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt; Sepsis-induced mitochondrial impairment has been described in different organs, in both animal models and humans. Excessive radical oxygen species (ROS) could be involved in this phenomenon. As a result, antioxidants have been proposed as a potential therapeutic strategy, although results remain controversial. Platelet hyperactivation is considered a central pathogenic mechanism in the development of sepsis-induced organ damage. In this study, we aimed to determine whether mitochondrial dysfunction contributes to platelet hyperactivation during sepsis. We also evaluated the effect of ROS scavenging using the mitochondria-targeted antioxidant MitoTEMPO.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design:&lt;/b&gt; Laboratory investigation.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Setting:&lt;/b&gt; University Hospital.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Patients and subjects:&lt;/b&gt; Patients with sepsis/septic shock (n = 3/7), nonseptic burn patients (n = 10), and healthy control subjects (n = 10).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interventions:&lt;/b&gt; Platelet mitochondria and isolated platelets from healthy donors were treated in vitro with plasma from patients with sepsis/septic shock and healthy subjects, before and after preincubation with MitoTEMPO.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Measurements and main results:&lt;/b&gt; We measured platelet oxygen consumption rates in isolated human platelets using the Seahorse Extracellular Flux Analyzer. Platelet mitochondrial respiratory chain enzyme activity was measured in mitochondria-enriched fractions by spectrophotometry. Platelet aggregation in platelet-rich plasma was analyzed using light-transmission aggregometry, and leukocyte-platelet adhesion in whole blood by flow cytometry.We found that incubating platelets with septic plasma significantly reduced basal, maximal, and adenosine triphosphate-linked oxygen consumption rate. Incubation of platelet mitochondria with septic plasma also reduced platelet Complex I activity, compared with healthy plasma or plasma from nonseptic burn patients. This decrease was associated with an increase in Epinephrine-induced platelet activation. Preincubating platelets with the mitochondria-selective ROS scavenger MitoTEMPO significantly reversed these effects.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Our results show that the mitochondria-selective ROS scavenger MitoTEMPO prevents mitochondrial dysfunction and enhances platelet activation induced by septic plasma in human platelets in vitro. This may help in designing new therapeutic approaches to prevent sepsis-induced organ damage mediated by mitochondrial dysfunction and platelet hyperactivation.&lt;/p&gt;&lt;p&gt;Greco E, Schiavello M, Bosco O, Vizio B, Bellini S, Dini C&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1097%2FCCM.0000000000007407&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42925135%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
