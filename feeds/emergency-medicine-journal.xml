@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergency Medicine Journal</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/emergency-medicine-journal.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Emergency Medicine Journal</description>
+    <lastBuildDate>Sat, 07 Nov 2026 19:24:34 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Hospital variation in emergency admission rates from English emergency departments</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2025-215663</link>
+      <guid isPermaLink="false">pmid:42977512</guid>
+      <pubDate>Tue, 03 Nov 2026 21:33:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;Xu Y, Siciliani L, Jacob N, Chalkley M, Santos R&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2025-215663&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42977512%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

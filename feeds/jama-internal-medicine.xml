@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMA Internal Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/jama-internal-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in JAMA Internal Medicine</description>
+    <lastBuildDate>Sat, 07 Nov 2026 19:24:34 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Putting a Rare Vaccine-Related Adverse Event into Context-Shouldering a Small Risk</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5913</link>
+      <guid isPermaLink="false">pmid:42981067</guid>
+      <pubDate>Wed, 04 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Chaitoff A, Katz MH&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5913&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42981067%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Risk of Shoulder Injury Related to Vaccine Administration for COVID-19 and Influenza Vaccinations</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5899</link>
+      <guid isPermaLink="false">pmid:42981061</guid>
+      <pubDate>Wed, 04 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; The National Academies of Sciences, Engineering, and Medicine identified a critical evidence gap regarding the risk of shoulder injury related to vaccine administration (SIRVA) after COVID-19 vaccination.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To compare the risk of SIRVA after COVID-19 vs influenza vaccinations in adults.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; This population-based cohort study included individuals aged at least 18 years who received a COVID-19 or influenza vaccination administered via intramuscular deltoid injection between August 1, 2023, and April 30, 2024, at Kaiser Permanente Southern California. Data were analyzed from June 2024 to September 2026.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Exposure:&lt;/b&gt; Receipt of COVID-19 vaccination or influenza vaccination.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The primary outcome was incident SIRVA, defined as shoulder symptoms beginning at or before 7 days and persisting more than 30 days after vaccination, identified using a validated natural language processing algorithm. Incidences were calculated per 10 000 vaccinations. Adjusted relative risks (RRs), risk differences, and 95% CIs were estimated using robust Poisson regression with inverse probability of treatment weighting.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 1 366 362 individuals (mean [SD] age at vaccination, 58.4 [18.2] years; 782 994 female [57.3%]) across 1 901 588 vaccinations were included (1 076 609 vaccinations [56.7%] were administered to females). Among 1 830 636 vaccinations in the primary analysis, 252 SIRVA cases were identified as follows: 110 cases (0.018%) after 596 614 COVID-19 vaccinations and 142 cases (0.012%) after 1 234 022 influenza vaccinations. An additional 13 SIRVA cases (0.018%) were identified among 70 952 simultaneous COVID-19 and influenza vaccinations. Most COVID-19 vaccines were Pfizer-BioNTech messenger RNA (667 455 of 667 566 [99.98%]), and influenza vaccines were predominantly standard-dose (866 530 of 1 304 974 [66.40%]) or high-dose (438 183 of 1 304 974 [33.58%]) inactivated quadrivalent formulations. SIRVA incidence was higher after COVID-19 than influenza vaccination, at an incidence of 1.84 (95% CI, 1.53-2.22) vs 1.15 (95% CI, 0.98-1.36) per 10 000 vaccinations, corresponding to an adjusted absolute increase of 0.67 cases (95% CI, 0.15-1.19) per 10 000 vaccinations (adjusted RR, 1.63; 95% CI, 1.16-2.28). Among adults 65 years or older, SIRVA incidence was 2.11 (95% CI, 1.67-2.67) per 10 000 for COVID-19 vaccination and 1.63 (95% CI, 1.28-2.07) per 10 000 for high-dose influenza vaccination (adjusted RR, 1.41; 95% CI, 0.92-2.15).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; Results of this cohort study suggest that although SIRVA was rarely associated with both vaccines, COVID-19 vaccination was associated with approximately 7 additional cases per 100 000 vaccinations compared with influenza vaccination. Among adults aged 65 years or older, SIRVA risk did not differ significantly between COVID-19 and high-dose influenza vaccination. The small absolute risk of SIRVA should be considered alongside the established benefits of COVID-19 and influenza vaccination in preventing severe disease and hospitalization.&lt;/p&gt;&lt;p&gt;Zheng C, Qian L, Sy LS, Goodwin GV, Yeh M, Navarro RA&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5899&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42981061%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robust Oversight of Medicare Advantage Plans-Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5346</link>
+      <guid isPermaLink="false">pmid:42970286</guid>
+      <pubDate>Mon, 02 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Chen Z, Trivedi AN, Meyers DJ&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5346&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42970286%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Atrial Fibrillation With a Most Regular Rhythm</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5352</link>
+      <guid isPermaLink="false">pmid:42970277</guid>
+      <pubDate>Mon, 02 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This case report describes a patient in their 80s with several comorbidities who presented to the emergency department for weakness and anorexia.&lt;/p&gt;&lt;p&gt;Lee CH, Scheinman MM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5352&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42970277%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Surveillance Mammography and Second Primary Breast Cancer Diagnosis Among Older Women With a History of Breast Cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5465</link>
+      <guid isPermaLink="false">pmid:42970273</guid>
+      <pubDate>Mon, 02 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Although surveillance mammography is commonly performed among older women, whether this practice improves clinical outcomes in this population is uncertain.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To evaluate the association between surveillance mammography and second primary breast cancer stage at diagnosis among older women with a history of breast cancer.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; This retrospective longitudinal cohort study used Surveillance, Epidemiology, and End Results Program-Medicare data. Women with nonmetastatic breast cancer that was diagnosed from 2004 to 2008 at 67 years or older who had a surveillance mammogram at approximately 5 years after diagnosis were included. Analyses used cause-specific hazard models with inverse probability of treatment weighting to estimate the risk of stage-specific second primary breast cancer among women who continued surveillance mammography and those who did not. Analyses were stratified by hormone receptor (HR) status of the initial breast cancer. Follow-up continued until second breast cancer diagnosis, death, or end of the study (December 2021). Analyses were performed between November 2025 and August 2026.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Exposure:&lt;/b&gt; Continued surveillance mammography more than 5 years after initial diagnosis.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; Stage-specific cumulative incidence of a second primary breast cancer, categorized as in situ, localized, or advanced (regional or distant).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 9888 women (mean [SD] age, 81.1 [5.5] years; 387 Hispanic [3.9%], 514 non-Hispanic Black [5.1%], and 8514 White individuals [86.1%]), 8055 (81.4%) had in situ or localized disease and 7621 (76.9%) had HR-positive tumors at initial diagnosis. Overall, 7940 women (80.3%) continued surveillance at cohort entry. Advanced second primary breast cancer was rare, and incidence did not differ among those who continued surveillance and those who did not (cumulative incidence, 1.65% vs 2.15%; hazard ratio, 0.76; 95% CI, 0.46-1.26). Results were similar in subgroups of women with initial HR-positive and HR-negative breast cancer.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; The results of this cohort study suggest that among older survivors of breast cancer, continued surveillance mammography was not associated with a reduced risk of advanced second primary breast cancer. The absolute risk of advanced cancer was low, and surveillance decisions should be individualized given the potential burdens of continued surveillance.&lt;/p&gt;&lt;p&gt;Richman IB, Long JB, Lindsay ME, Sheffrin M, Berger ER&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5465&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42970273%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robust Oversight of Medicare Advantage Plans</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5343</link>
+      <guid isPermaLink="false">pmid:42970271</guid>
+      <pubDate>Mon, 02 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Taitsman JK&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5343&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42970271%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dueling Visions to Improve Value in Medicare-Price or Prevention?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5325</link>
+      <guid isPermaLink="false">pmid:42970262</guid>
+      <pubDate>Mon, 02 Nov 2026 11:32:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This Viewpoint discusses prevention-based accountability and price-based reforms to put Medicare on a sustainable spending path.&lt;/p&gt;&lt;p&gt;Ryan AM, Rooke-Ley H, Barnett ML&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5325&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42970262%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
