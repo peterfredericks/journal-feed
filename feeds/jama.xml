@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMA</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/jama.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in JAMA</description>
+    <lastBuildDate>Sat, 14 Nov 2026 19:55:25 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Fluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau Pathology</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24689</link>
+      <guid isPermaLink="false">pmid:43026662</guid>
+      <pubDate>Fri, 13 Nov 2026 23:35:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Neurodegenerative diseases with abnormal tau protein aggregation in the brain (ie, tauopathies) can be classified by the tau isoform that accumulates: 3-repeat (3R), 4-repeat (4R), or mixed 3R/4R tauopathies, which include chronic traumatic encephalopathy (CTE), some forms of frontotemporal lobar degeneration, and Alzheimer disease (AD). The endogenously cleaved form of tau microtubule binding region containing the residue 243 (eMTBR-tau243) can be detected in cerebrospinal fluid (CSF) and blood and has been associated with AD tau pathology, but its specificity and biological interpretation in non-AD tauopathies remains unclear.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To evaluate biofluid eMTBR-tau243 in a range of tauopathies.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; This case-control study included 4 biorepositories based in the US that contributed CSF and plasma samples from participants with and without tauopathies, many of whom had antemortem biofluid samples paired with autopsy or genetically defined neuropathology. Samples were analyzed between August 2023 and December 2025. Data analysis occurred from August 2024 to July 2026.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Exposure:&lt;/b&gt; CSF and plasma eMTBR-tau243 concentrations measured using a mass spectrometry-based assay.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; Outcomes included mixed 3R/4R tauopathy (eg, AD and CTE) based on autopsy, frontotemporal lobar degeneration with MAPT variants (FTLD-MAPT), and CTE stage. Differences in biomarker levels between groups were evaluated using analysis of variance or analysis of covariance, and area under the receiver operating characteristic curve (AUC) was calculated to evaluate the discriminative performance of fluid eMTBR-tau243.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among the 229 participants (196 with CSF samples and 55 with plasma samples [22 with both]), mean (SD) age at fluid sample collection was 63 (13) years and 108 (47%) were female. Median (IQR) CSF eMTBR-tau243 was increased in 10 patients with AD (0.459 [0.246-0.801] fmol/mL) compared with 29 cognitively unimpaired controls (0.002 [0.001-0.005] fmol/mL) (adjusted P &amp;lt; .001), but other autopsy-confirmed non-AD tauopathies (which included 52 individuals with conditions including progressive supranuclear palsy and corticobasal degeneration) did not demonstrate an increase (0.015 [0.008, 0.039] fmol/mL). Six symptomatic FTLD-MAPT variant carriers with mixed 3R/4R tauopathy (R406W, V337M, and G389R) had increased median (IQR) CSF eMTBR-tau243 (0.140 [0.055-0.174] fmol/mL) compared with 15 4R tauopathy variant carriers including N279K and P301L (0.004 [0.001-0.044] fmol/mL) (P = .001). Median (IQR) plasma eMTBR-tau243 was increased in 11 patients with CTE (1.93 [0.42-3.68] fmol/L) compared with 20 cognitively unimpaired controls (0.29 [0.05-0.62] fmol/L) (adjusted P = .007), but did not increase as high as among 14 patients with AD (11.25 [2.29-19.38] fmol/L). Plasma eMTBR-tau243 distinguished CTE stage III and IV from controls (AUC, 0.97; 95% CI, 0.92-1.00), but not CTE stage I from controls (AUC, 0.64; 95% CI, 0.32-0.97).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; This study found that plasma and CSF eMTBR-tau243 were increased in mixed 3R/4R tauopathies including AD, high-stage CTE, and a subset of genetic FTLD-MAPT, compared with cognitively unimpaired controls. Further validation in larger cohorts is needed to determine the clinical utility of eMTBR-tau243 as a potential diagnostic biomarker for CTE and other tauopathies beyond AD.&lt;/p&gt;&lt;p&gt;Horie K, Koppisetti RK, VandeVrede L, Asken BM, Li Y, Yen D&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24689&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43026662%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JAMA Editors&#x27; Summary Podcast: November 13, 2026</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2025.16129</link>
+      <guid isPermaLink="false">pmid:43024503</guid>
+      <pubDate>Fri, 13 Nov 2026 12:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2025.16129&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024503%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FDA Approves First Generic Hormone Therapy Patch for Women</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20051</link>
+      <guid isPermaLink="false">pmid:43024345</guid>
+      <pubDate>Fri, 13 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Richmond S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20051&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024345%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CDC Report Highlights Growing Threat From Drug-Resistant Germs</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20050</link>
+      <guid isPermaLink="false">pmid:43024343</guid>
+      <pubDate>Fri, 13 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Richmond S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20050&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024343%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FDA Approves Novel Treatment for Chronic Hepatitis B</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20049</link>
+      <guid isPermaLink="false">pmid:43024341</guid>
+      <pubDate>Fri, 13 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Richmond S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20049&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024341%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>After COVID-19 Vaccination, Why Do Some People Run a Fever?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22638</link>
+      <guid isPermaLink="false">pmid:43024340</guid>
+      <pubDate>Fri, 13 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This Medical News article discusses a study that linked the gut microbiome to fever after COVID-19 vaccination.&lt;/p&gt;&lt;p&gt;Rubin R&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22638&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024340%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ACOG Releases Guidance on GLP-1 Use in Pregnancy and Lactation</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22659</link>
+      <guid isPermaLink="false">pmid:43024259</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Richmond S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22659&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024259%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Personalized mRNA Cancer Vaccine Reduces Melanoma Recurrence Risk</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20047</link>
+      <guid isPermaLink="false">pmid:43024257</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Anderer S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20047&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024257%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>US Health Insurance Coverage Declines</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20046</link>
+      <guid isPermaLink="false">pmid:43024256</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Anderer S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20046&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024256%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Study Finds Nearly 75% of Deceased Former NFL Players Had CTE</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22660</link>
+      <guid isPermaLink="false">pmid:43024255</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Richmond S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22660&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024255%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nicotine Vaping Linked to Reduced Vascular Function in Young Adults</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22661</link>
+      <guid isPermaLink="false">pmid:43024253</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Richmond S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22661&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024253%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>In an Effort to Reduce Hypertension, Salt Substitutes Come to the Table</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23873</link>
+      <guid isPermaLink="false">pmid:43024245</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This Medical News article discusses efforts to increase the use of potassium-enriched salt substitutes to lower sodium intake and prevent and manage hypertension.&lt;/p&gt;&lt;p&gt;Rodgers L&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23873&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024245%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Updated Guidance Released for Type 2 Diabetes Care</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20048</link>
+      <guid isPermaLink="false">pmid:43024232</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Anderer S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20048&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43024232%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finerenone and CKD Due to Glomerular Diseases-Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19534</link>
+      <guid isPermaLink="false">pmid:43018989</guid>
+      <pubDate>Thu, 12 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Neuen BL, Heerspink HJL, Perkovic V&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19534&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018989%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Review of Hip Fractures</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19487</link>
+      <guid isPermaLink="false">pmid:43018987</guid>
+      <pubDate>Thu, 12 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Gottlieb M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19487&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018987%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Review of Hip Fractures</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19490</link>
+      <guid isPermaLink="false">pmid:43018985</guid>
+      <pubDate>Thu, 12 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Miller PD&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19490&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018985%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond the Rogue Agent-Preparing Health Systems for AI Failure</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24040</link>
+      <guid isPermaLink="false">pmid:43018982</guid>
+      <pubDate>Thu, 12 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This Viewpoint discusses the role of artificial intelligence (AI) and health system preparedness and resilience in the event of an AI failure in clinical operations.&lt;/p&gt;&lt;p&gt;Hertelendy AJ, Miri A, Dameff C&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24040&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018982%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preference Signaling for Interview Selection: The Residency Match&#x27;s Unsettled Front End</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22125</link>
+      <guid isPermaLink="false">pmid:43018981</guid>
+      <pubDate>Thu, 12 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This Viewpoint discusses the concept of preference signaling in the medical school application process.&lt;/p&gt;&lt;p&gt;Paltiel AD, Walensky RP&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22125&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018981%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finerenone and CKD Due to Glomerular Diseases</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19531</link>
+      <guid isPermaLink="false">pmid:43018964</guid>
+      <pubDate>Thu, 12 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Xiao L, Zhang Z, Sun L&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19531&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018964%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Treatment of Acute Ischemic Stroke: A Review</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19482</link>
+      <guid isPermaLink="false">pmid:43018963</guid>
+      <pubDate>Thu, 12 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Acute ischemic stroke, caused by thrombotic or embolic occlusion of a cervical or cerebral artery, leads to neurologic injury due to sudden disruption of blood flow to the brain. Ischemic stroke is a leading cause of disability and death and accounts for about 85% of strokes in the US.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Observations:&lt;/b&gt; Symptoms of acute ischemic stroke vary based on the area of the affected brain. Common presentations include sudden arm or leg weakness, aphasia or slurred speech, sudden loss of balance or coordination, sudden visual difficulties, and/or facial drooping. Patients with suspected stroke should be transported to the nearest emergency department for urgent brain imaging, typically noncontrast computed tomography (CT). Based on 2026 American Heart Association/American Stroke Association (AHA/ASA) guidelines, first-line therapy for patients with acute ischemic stroke presenting within 4.5 hours from symptom onset with disabling symptoms (eg, affecting the ability to perform activities of daily living) is intravenous thrombolysis (tenecteplase or alteplase) in those without intracranial hemorrhage or other contraindications to thrombolysis. The treatment window can be extended to 9 hours-and up to 24 hours in patients with large vessel occlusion (eg, involving the internal carotid artery or proximal middle cerebral artery [M1 segment]) who are unable to receive thrombectomy-based on identification of salvageable tissue using perfusion imaging with CT perfusion or magnetic resonance imaging. In appropriately selected patients with acute ischemic stroke, pooled randomized trial data show an approximately 10% absolute increase in the probability of a better functional outcome with intravenous thrombolysis. Based on 2026 AHA/ASA guidelines, endovascular thrombectomy, which involves clot removal with an intra-arterial mechanical device, is recommended for patients with large vessel occlusion within 6 hours of stroke onset (class 1 recommendation) and is recommended in selected patients with large vessel occlusion within 24 hours of last known well (class 1 recommendation). Endovascular therapy should be performed after intravenous thrombolysis unless patients have contraindications to thrombolytic therapy. Compared with medical management, which includes intravenous thrombolysis when indicated, endovascular thrombectomy produces an approximately 20% absolute increase in functional independence.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; Acute ischemic stroke causes substantial disability and mortality. First-line therapy for patients with disabling acute stroke symptoms is intravenous thrombolysis (if no contraindications) within 4.5 hours of stroke onset and up to 24 hours in carefully selected patients not receiving mechanical thrombectomy; for large vessel occlusions, mechanical thrombectomy may be performed up to 24 hours after stroke onset in eligible patients.&lt;/p&gt;&lt;p&gt;Albers GW, Heit JJ&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19482&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018963%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma: Research Summary</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23165</link>
+      <guid isPermaLink="false">pmid:43018960</guid>
+      <pubDate>Thu, 12 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23165&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018960%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Too Tall</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22625</link>
+      <guid isPermaLink="false">pmid:43018955</guid>
+      <pubDate>Thu, 12 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;In this narrative medicine essay, a physician discusses the way his tall height changed his perspective during his residency.&lt;/p&gt;&lt;p&gt;Bohler F&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.22625&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018955%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Approved Form of Notice</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24928</link>
+      <guid isPermaLink="false">pmid:43018953</guid>
+      <pubDate>Thu, 12 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24928&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018953%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma: The PANKU-Esophagus01 Randomized Clinical Trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20250</link>
+      <guid isPermaLink="false">pmid:43018949</guid>
+      <pubDate>Thu, 12 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Effective therapy remains lacking for patients with advanced esophageal squamous cell carcinoma (ESCC) whose disease progressed after standard treatment. Izalontamab brengitecan, an epidermal growth factor receptor and human epidermal growth factor receptor 3 bispecific antibody-drug conjugate with a topoisomerase I inhibitor, Ed-04, has shown clinical activity in ESCC in a phase 1b study.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To evaluate the efficacy and safety of izalontamab brengitecan compared with chemotherapy in patients with advanced ESCC who progressed after first-line programmed cell death 1 protein (PD-1)/programmed cell death 1 ligand 1 (PD-L1) inhibitor plus platinum-containing chemotherapy.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; This phase 3, open-label, randomized clinical trial was conducted across 80 hospitals in China. Patients with recurrent or metastatic ESCC that had progressed with first-line PD-1/PD-L1 inhibitor plus platinum-containing chemotherapy were enrolled. Between March 19, 2024, and August 1, 2025 (final follow-up, October 17, 2025), a total of 704 patients were screened, and 497 were enrolled and randomized.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interventions:&lt;/b&gt; Patients were randomly assigned (1:1) to receive either izalontamab brengitecan (n = 249; 2.5 mg/kg on days 1 and 8 every 3 weeks) or physician-selected chemotherapy (n = 248; irinotecan, paclitaxel, or docetaxel) every 3 weeks.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The dual primary end points were progression-free survival (PFS) assessed by blinded independent central review according to Response Evaluation Criteria in Solid Tumors version 1.1 and overall survival (OS).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Of 497 patients who underwent randomization (median age, 61.0 years [range, 34-76]; 448 male patients [90.1%]), 493 received study treatment. At this interim analysis, izalontamab brengitecan demonstrated statistically significant improvement in both PFS and OS. Median PFS by blinded independent central review was 4.17 months (95% CI, 3.61-4.53 months) with izalontamab brengitecan vs 1.97 months (95% CI, 1.61-2.73 months) with chemotherapy (hazard ratio, 0.50; 95% CI, 0.40-0.63; log-rank P &amp;lt; .001). Median OS was 9.79 months (95% CI, 7.89-11.01 months) with izalontamab brengitecan vs 7.20 months (95% CI, 6.18-7.82 months) with chemotherapy (hazard ratio, 0.63; 95% CI, 0.48-0.82; log-rank P &amp;lt; .001). Grade 3 or higher treatment-related adverse events occurred in 212 of 249 patients (85.1%) with izalontamab brengitecan and 147 of 248 patients (59.3%) with chemotherapy and were predominantly hematologic.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; Izalontamab brengitecan significantly improved PFS and OS vs chemotherapy in patients with recurrent or metastatic ESCC whose disease had progressed after first-line treatment. These findings support izalontamab brengitecan as a new second-line treatment for this population in China.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov Identifier: NCT06304974.&lt;/p&gt;&lt;p&gt;Lu Z, Huang Z, Meng X, Fan Y, Wu T, Pang Q&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20250&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018949%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Review of Hip Fractures-Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19493</link>
+      <guid isPermaLink="false">pmid:43018946</guid>
+      <pubDate>Thu, 12 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Kiel DP, Tsai JN&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19493&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018946%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Report of Committee on Otorhinologic Hygiene of Swimming</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24927</link>
+      <guid isPermaLink="false">pmid:43018944</guid>
+      <pubDate>Thu, 12 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24927&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018944%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Is Postural Orthostatic Tachycardia Syndrome?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.18692</link>
+      <guid isPermaLink="false">pmid:43018940</guid>
+      <pubDate>Thu, 12 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This JAMA Patient Page describes who is typically affected by postural orthostatic tachycardia syndrome, the risk factors, and the diagnosis and treatment.&lt;/p&gt;&lt;p&gt;Walter KL&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.18692&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43018940%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond Screening-Building a Maternal Mental Health Care System</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21767</link>
+      <guid isPermaLink="false">pmid:43013318</guid>
+      <pubDate>Wed, 11 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This Viewpoint, using postpartum psychosis (PPP) as an example, raises questions about the ability of the US health care system to identify and treat perinatal mental illnesses; highlights recent progress and suggests ways to further improve; and calls for system changes to ensure that all patients with perinatal mental illnesses are identified and treated.&lt;/p&gt;&lt;p&gt;Choi S, Cantor J, Fitelson E, Monk C&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21767&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013318%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>P-Tau217 Levels and Cognitive Impairment</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19196</link>
+      <guid isPermaLink="false">pmid:43013316</guid>
+      <pubDate>Wed, 11 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Chard T, Lin J, Sheng H&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19196&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013316%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HOPO 14-1, an Oral Actinide Chelator: A Phase 1 Nonrandomized Clinical Trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19809</link>
+      <guid isPermaLink="false">pmid:43013314</guid>
+      <pubDate>Wed, 11 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Current treatments approved by the US Food and Drug Administration for internal actinide contamination (pentetate calcium trisodium and pentetate zinc trisodium) require intravenous injection or nebulized inhalation under medical supervision and have limited radionuclide coverage. HOPO 14-1, an oral form of 3,4,3-LI(1,2-HOPO), is the first shelf-stable, broad-spectrum actinide chelator in clinical development that does not require intravenous access or trained personnel. In preclinical models, 3,4,3-LI(1,2-HOPO) removed a broad range of actinides, and its oral route supports scalable emergency medical use.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To evaluate the safety, tolerability, pharmacokinetic parameters, and excretion of a single dose of HOPO 14-1 in healthy adults.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; This was a phase 1 nonrandomized clinical trial including 42 healthy adults (6 per dose level) with evaluations for 14 days after administration of a single dose and conducted at a single site in the US. Participants were recruited and screened between March 2023 and July 2025 and follow-up was completed in August 2025.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Intervention:&lt;/b&gt; Single oral dose of HOPO 14-1 administered at 1 of 7 dose levels (100 mg, 200 mg, 500 mg, 1200 mg, 2500 mg, 5000 mg, or 7500 mg) with follow-up through day 14 after dose administration.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The primary outcomes were the incidence and severity of adverse events, drug-related adverse events, and serious adverse events. The secondary outcomes were plasma pharmacokinetic parameters and cumulative urinary and fecal excretion.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Of the 42 healthy adults enrolled (median age, 43 [IQR, 34-51] years; 64% female), all received a single dose of HOPO 14-1 (administered across all dose levels as assigned). There were no serious adverse events or dose-limiting toxic effects. The drug-related adverse events included diarrhea (31%), vomiting (14%), headache (12%), and fatigue (7%); all were mild to moderate in severity. Gastrointestinal adverse events were the principal tolerability findings and most evident at the highest doses. The plasma pharmacokinetic parameters demonstrated rapid absorption (median time of maximum plasma concentration, 0.86 [range, 0.53-1.60] hours to 1.90 [range, 1.40-2.90] hours) and dose-dependent increases in systemic exposure, with greater than proportional increases at higher doses. Fecal excretion was the primary route of elimination; urinary excretion was minimal.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; Single oral doses of HOPO 14-1 up to 7500 mg were administered without dose-limiting toxicity or serious adverse events in healthy adults. Gastrointestinal tolerability defined the practical single-dose ceiling. These findings establish the first human safety and pharmacokinetic profile of a novel, orally administered actinide chelator and support further clinical evaluation of HOPO 14-1 as a countermeasure for internal radionuclide and heavy metal contamination. Development of a deployable and population-level emergency intervention addresses a long-standing unmet need with important implications for public health preparedness.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov Identifier: NCT05628961.&lt;/p&gt;&lt;p&gt;Goonewardena SN, Atleski L, Bunin DI, Furimsky AM, Pui S, Green CE&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19809&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013314%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>P-Tau217 Levels and Cognitive Impairment-Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19199</link>
+      <guid isPermaLink="false">pmid:43013303</guid>
+      <pubDate>Wed, 11 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Buckley RF, Sperling RA&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19199&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013303%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>P-Tau217 Levels and Cognitive Impairment</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19202</link>
+      <guid isPermaLink="false">pmid:43013288</guid>
+      <pubDate>Wed, 11 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Pal S, Lahiri SN, Babulal GM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19202&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013288%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Acute Vestibular Syndrome</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19524</link>
+      <guid isPermaLink="false">pmid:43013287</guid>
+      <pubDate>Wed, 11 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This JAMA Insights discusses the clinical presentation, diagnostic approach, and treatment of acute vestibular syndrome.&lt;/p&gt;&lt;p&gt;Edlow JA, Gold D&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19524&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013287%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Missing Information in End Matter and Errors in eTable</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24600</link>
+      <guid isPermaLink="false">pmid:43013285</guid>
+      <pubDate>Wed, 11 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article, Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24600&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013285%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Medical Countermeasures for Radionuclide Internal Contamination</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21948</link>
+      <guid isPermaLink="false">pmid:43013278</guid>
+      <pubDate>Wed, 11 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Chang A, Iddins CJ, Lewis RJ&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21948&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013278%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JAMA Editors&#x27; Summary Podcast: October 16, 2026</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2025.16097</link>
+      <guid isPermaLink="false">pmid:43007341</guid>
+      <pubDate>Tue, 10 Nov 2026 11:03:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Webcast&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2025.16097&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43007341%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Review of Gastroparesis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19140</link>
+      <guid isPermaLink="false">pmid:43002432</guid>
+      <pubDate>Mon, 09 Nov 2026 11:34:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Zhang H&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19140&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002432%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Review of Gastroparesis-Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19143</link>
+      <guid isPermaLink="false">pmid:43002426</guid>
+      <pubDate>Mon, 09 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Camilleri M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19143&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002426%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Review of Gastroparesis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19137</link>
+      <guid isPermaLink="false">pmid:43002417</guid>
+      <pubDate>Mon, 09 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Matheussen H, Vanuytsel T, Tack J&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.19137&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002417%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Think Outside the Box With Intravenous Iron-The New Ferric Carboxymaltose FDA Boxed Warning</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21147</link>
+      <guid isPermaLink="false">pmid:43002414</guid>
+      <pubDate>Mon, 09 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This Viewpoint discusses the new US Food and Drug Administration (FDA) boxed warning for intravenous ferric carboxymaltose, how the warning does not go far enough in explaining the potential dangers, and the risks vs benefits of the drug’s use.&lt;/p&gt;&lt;p&gt;Al-Samkari H, Olitsky S, Auerbach M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21147&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002414%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Error in Author Byline</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24617</link>
+      <guid isPermaLink="false">pmid:43002165</guid>
+      <pubDate>Mon, 09 Nov 2026 10:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article, Published Erratum&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24617&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002165%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orforglipron for Obstructive Sleep Apnea: Research Summary</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24226</link>
+      <guid isPermaLink="false">pmid:43002163</guid>
+      <pubDate>Mon, 09 Nov 2026 10:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24226&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002163%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orforglipron for Obstructive Sleep Apnea: Results From 2 Randomized Clinical Trials (ATTAIN-OSA)</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24080</link>
+      <guid isPermaLink="false">pmid:43002161</guid>
+      <pubDate>Mon, 09 Nov 2026 10:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Obstructive sleep apnea (OSA) is a common disorder characterized by repeated upper airway collapse during sleep that is associated with reduced quality of life and increased incidence of cardiometabolic disease.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To assess the effects of orforglipron on moderate to severe OSA in adults with obesity or overweight, compared with placebo.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; Two 52-week, phase 3, multicenter, double-blind, placebo-controlled randomized clinical trials were conducted at 66 sites in the US, Argentina, Brazil, China, Czech Republic, Germany, Japan, Mexico, and Taiwan. Adults with moderate to severe OSA and body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) of 27 or higher were enrolled between November 11, 2024, and July 23, 2025. Final follow-up occurred on July 30, 2026. Trial 1 included patients not receiving positive airway pressure treatment and trial 2 included patients receiving positive airway pressure treatment.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Intervention:&lt;/b&gt; Patients were randomized (1:1) to receive either once-daily orforglipron (maximum tolerated dose: equivalent to 9-, 14.5-, or 17.2-mg tablet dose) or placebo.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The primary end point was change in apnea-hypopnea index (AHI, events/h) from baseline to week 52. Seven key multiplicity-controlled secondary end points included change in sleep apnea-specific hypoxic burden, the Patient-Reported Outcomes Measurement Information System Short Form Sleep-Related Impairment T-score, and high-sensitivity C-reactive protein.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 363 patients were randomized in trial 1 (mean age, 48.4 years; BMI, 37.4; AHI, 50.7 events/h; 31.4% female) and 349 patients were randomized in trial 2 (mean age, 51.1 years; BMI, 38.6; AHI, 57.6 events/h; 26.9% female). For the treatment regimen estimand, in trial 1, the mean AHI change was -17.8 for orforglipron compared with -4.5 for placebo (difference, -13.2 [95% CI, -17.7 to -8.7]; P &amp;lt; .001) at 52 weeks. In trial 2, the mean AHI change was -17.3 for orforglipron and -5.3 for placebo (difference, -12.0 [95% CI, -17.1 to -6.9]; P &amp;lt; .001) at 52 weeks. Of 7 key secondary end points, 6 were statistically significant, favoring orforglipron. Gastrointestinal events were the most commonly reported adverse events, occurring in 123 (68.0%) participants randomized to receive orforglipron vs 68 (37.4%) randomized to receive placebo in trial 1 and in 125 (70.6%) participants randomized to receive orforglipron vs 63 (36.6%) randomized to receive placebo in trial 2.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; These results provide evidence for the potential use of oral orforglipron to improve sleep-disordered breathing in adults with moderate to severe OSA and obesity or overweight.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov Identifier: NCT06649045.&lt;/p&gt;&lt;p&gt;Malhotra A, Gottlieb DJ, Woehrle H, Dennehy EB, Calamai G, Liu Z&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24080&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002161%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Oral Incretin for OSA</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23386</link>
+      <guid isPermaLink="false">pmid:43002156</guid>
+      <pubDate>Mon, 09 Nov 2026 10:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Mazzotti DR, Stevens DR&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23386&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002156%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings: A Cluster Randomized Clinical Trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24169</link>
+      <guid isPermaLink="false">pmid:43000001</guid>
+      <pubDate>Sun, 08 Nov 2026 17:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Single-pill combination therapy improves medication adherence and hypertension control. However, limited evidence is available on its implementation in routine clinical practice.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To assess the long-term effectiveness, implementation, and sustainability of single-pill combination therapy through team-based care for blood pressure reduction among patients with uncontrolled hypertension in primary care settings in Colombia and Jamaica.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; Multicountry, unblinded, pragmatic, cluster randomized clinical trial. Twenty primary care clinics in Jamaica and 20 in Colombia were randomly assigned to either the single-pill combination therapy group or the standard care group. A total of 1706 adults with uncontrolled hypertension were enrolled between February 23, 2023, and September 12, 2024. The final follow-up visit occurred on September 9, 2026.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Interventions:&lt;/b&gt; In the intervention group (n = 869), a team-based care approach that included physician and nurse training, health coaching, home blood pressure monitoring, and blood pressure audit and feedback was used to implement single-pill combination therapy. Single-pill combinations were purchased locally and provided to patients. In the standard care group (n = 837), patients received monotherapy or polytherapy with guideline-recommended medications covered by health insurance or government programs. The intervention lasted 18 months, with additional follow-up at 24 months.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The primary outcome was the between-group difference in change in systolic blood pressure from baseline to 18 months. Three blood pressure measurements were obtained at each of 2 visits at each time point using a standard protocol.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among the 1706 enrolled participants, at baseline, the mean age was 61.4 years, 69.9% of participants were female, and 98.2% were taking antihypertensive medications. Among the 1574 participants included in the primary analysis, systolic blood pressure decreased by 19.1 mm Hg, from 145.9 mm Hg at baseline to 126.8 mm Hg at 18 months, in the intervention group and by 9.0 mm Hg, from 145.0 mm Hg to 136.1 mm Hg, in the standard care group, with a between-group difference of -10.1 mm Hg (95% CI, -13.3 to -6.9 mm Hg; P &amp;lt; .001). At 18 months, 69.5% of patients in the intervention group and 29.2% in the standard care group achieved systolic blood pressure less than 130 and diastolic blood pressure less than 80 mm Hg. Serious adverse events (death and hospitalization) occurred at similar frequencies in the intervention (7.9%) and standard care (9.9%) groups.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; Implementing single-pill combination therapy through team-based care significantly reduced blood pressure over 18 months among adults with uncontrolled hypertension in Colombia and Jamaica. This comprehensive strategy integrating single-pill combination therapy with team-based care could be widely adopted and scaled up for hypertension control, particularly in resource-constrained settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov Identifier: NCT05405920.&lt;/p&gt;&lt;p&gt;Lopez-Lopez JP, Duncan J, Chen J, Mills KT, Ferguson T, Reyes M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24169&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43000001%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings: Research Summary</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24330</link>
+      <guid isPermaLink="false">pmid:43000000</guid>
+      <pubDate>Sun, 08 Nov 2026 17:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24330&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43000000%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Low-Voltage Area Ablation for Persistent Atrial Fibrillation: Research Summary</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24384</link>
+      <guid isPermaLink="false">pmid:42999999</guid>
+      <pubDate>Sun, 08 Nov 2026 17:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24384&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42999999%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Low-Voltage Area Ablation for Persistent Atrial Fibrillation: The COAST-AF Randomized Clinical Trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24331</link>
+      <guid isPermaLink="false">pmid:42999998</guid>
+      <pubDate>Sun, 08 Nov 2026 17:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; Pulmonary vein isolation (PVI) for persistent atrial fibrillation (AF) has demonstrated modest success rates. Ablation of atrial low-voltage areas (LVA) has shown potential results, but more data are required.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To determine whether PVI plus LVA ablation is superior to PVI alone in reducing atrial arrhythmia recurrence in patients with AF.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; Single-blind randomized clinical trial in 14 AF ablation centers in Canada. Adults with persistent AF of more than 3 months were enrolled between August 2018 and September 2024 and followed up for 18 to 36 months through April 2026.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Intervention:&lt;/b&gt; Patients were randomized to PVI plus LVA ablation or PVI alone.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The primary outcome was atrial arrhythmia recurrence beyond 90 days after a single catheter ablation procedure. Secondary outcomes included repeat ablation for AF, atrial flutter, or atrial tachycardia, emergency visits or hospitalization, arrhythmia recurrence over 18 months, procedure duration, total ablation delivery time, AF burden, and safety outcomes. The primary efficacy analysis was based on the modified intention-to-treat principle for patients who received the intervention.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 508 enrolled patients, 253 were randomized to PVI plus LVA ablation and 255 to PVI alone. Mean (SD) age was 65.2 (9.0) years, 386 (76%) were male and 268 (54%) had LVA. After a mean (SD) follow-up of 21 (15) months, 124 (49.4%) randomized to PVI plus LVA and 146 (57.5%) randomized to PVI reached the primary outcome (hazard ratio [HR], 0.82; 95% CI, 0.65-1.04; P = .11). In the prespecified principal subgroup analysis of 268 patients with LVA, arrhythmia recurrence occurred in 68 of 138 patients (49.3%) following PVI plus LVA ablation compared with 90 of 130 patients (69.2%) following PVI alone (HR, 0.77; 95% CI, 0.66-0.91; P = .002). Arrhythmia recurrence over 18 months (37.0% vs 56.2%; HR, 0.77; 95% CI, 0.64-0.92) and AF burden were lower after PVI plus LVA ablation in this group. Among patients without LVA, recurrence was similar between ablation groups (56 of 113 [49.6%] vs 51 of 113 [45.1%]; HR, 1.09; 95% CI, 0.90-1.32). Procedure duration and ablation delivery time were longer in the PVI plus LVA ablation group. Safety outcomes were similar between groups.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; In this study, among patients with persistent AF, adjunctive LVA ablation did not significantly reduce atrial arrhythmia recurrence in the overall population over a mean 21-month follow-up. A prespecified principal subgroup analysis of patients with LVA suggested that adjunctive LVA ablation was consistent with reduced recurrence of atrial arrhythmias in this group.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov, Identifier: NCT03347227.&lt;/p&gt;&lt;p&gt;Nery PB, Wells GA, Nair GM, Essebag V, Joza J, Wong JA&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.24331&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42999998%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20375</link>
+      <guid isPermaLink="false">pmid:42998244</guid>
+      <pubDate>Sat, 07 Nov 2026 11:33:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; It is unknown whether routine invasive management of chronic coronary disease improves long-term survival when added to guideline-directed medical therapy.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To compare the effects of initial invasive and conservative strategies on long-term mortality in patients with chronic coronary disease.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; In this long-term follow-up study of the International Study of Comparative Health Effectiveness with Medical and Invasive Approaches (ISCHEMIA), an international trial of patients with chronic coronary disease, moderate or severe ischemia, left ventricular ejection fraction of 35% or more, and no left main coronary artery disease, unacceptable angina, or recent acute coronary syndrome, participants were randomized at 320 sites in 37 countries beginning August 2012 and followed up through December 2025. Data were analyzed using the intention-to-treat principle.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Intervention:&lt;/b&gt; ISCHEMIA randomized patients to an initial invasive strategy of guideline-directed medical therapy plus coronary angiography and revascularization (when feasible) or an initial conservative strategy with guideline-directed medical therapy alone, with invasive management for failure of medical therapy.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; All-cause, cardiovascular, and noncardiovascular mortality were analyzed using cumulative incidence estimates, Cox and Fine-Gray models, bayesian analysis, and restricted mean survival time.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 5179 participants, median age was 64 (IQR, 58-70) years; 23% were female, 42% had diabetes, and median ejection fraction was 60% (IQR, 55%-65%). During 9-year median follow-up (range, 1 day to 13.4 years), 1071 deaths occurred (782 during extended follow-up): 672 cardiovascular, 359 noncardiovascular, and 40 unclassified. All-cause 11-year mortality was not significantly different between groups (25.8% invasive vs 26.9% conservative; estimated difference, -1.0 percentage point [95% CI, -4.2 to 2.1 percentage points]; adjusted hazard ratio [AHR], 0.97 [95% CI, 0.86-1.09]). By bayesian analysis, the posterior probability of more than 1 percentage-point survival benefit to invasive vs conservative was low (18%). Cardiovascular mortality at 11 years was 15.8% in the invasive group vs 17.1% in the conservative group (estimated difference, -1.4 percentage points [95% CI, -4.0 to 1.3 percentage points]; AHR, 0.88 [95% CI, 0.75-1.02]). Noncardiovascular mortality at 11 years was 9.1% in the invasive group vs 8.1% in the conservative group (estimated difference, 1.0 percentage point [95% CI, -0.9 to 2.9 percentage points]; AHR, 1.18 [95% CI, 0.96-1.45]). Eleven-year restricted mean survival was not significantly different (estimated difference, 14 days [95% CI, -41 to 70 days]).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; In this study, long-term all-cause mortality in patients with high-risk chronic coronary disease was not significantly different after routine invasive vs initial conservative management.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Trial registration:&lt;/b&gt; ClinicalTrials.gov Identifier: NCT04894877.&lt;/p&gt;&lt;p&gt;Hochman JS, Anthopolos R, Reynolds HR, Bangalore S, Xu Y, O&amp;#x27;Brien SM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.20375&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42998244%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND: Research Summary</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21188</link>
+      <guid isPermaLink="false">pmid:42998243</guid>
+      <pubDate>Sat, 07 Nov 2026 11:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.21188&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42998243%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The ISCHEMIA Trial a Decade Later-What Have We Learned?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23003</link>
+      <guid isPermaLink="false">pmid:42998241</guid>
+      <pubDate>Sat, 07 Nov 2026 11:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;Cutlip DE, Yeh RW&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23003&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42998241%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Percutaneous Coronary Intervention and Long-Term Outcomes in Stable Coronary Artery Disease: Extended Follow-Up of the COURAGE Randomized Trial</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23488</link>
+      <guid isPermaLink="false">pmid:42998239</guid>
+      <pubDate>Sat, 07 Nov 2026 11:32:00 +0000</pubDate>
+      <category>JAMA</category>
+      <description>&lt;p&gt;This study examines the effect of percutaneous coronary intervention on death and myocardial infarction in veterans with coronary artery disease.&lt;/p&gt;&lt;p&gt;Butala NM, Murali N, Rahman N, Cave S, Ayandeh S, Plomondon ME&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjama.2026.23488&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F42998239%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

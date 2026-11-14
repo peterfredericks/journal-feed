@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEJM</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/the-new-england-journal-of-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in NEJM</description>
+    <lastBuildDate>Sat, 14 Nov 2026 19:55:25 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Intismeran Autogene plus Pembrolizumab for Resected Stage IIB to IV Melanoma</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2609762</link>
+      <guid isPermaLink="false">pmid:43013837</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Intismeran autogene (intismeran) is an individualized neoantigen therapy that is designed to induce new T-cell responses and expand preexisting T-cell responses against patient-specific tumor neoantigens, which may potentially improve the efficacy of adjuvant therapy in patients with melanoma.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this phase 3, double-blind trial, we randomly assigned patients with completely resected stage IIB to IV cutaneous melanoma in a 2:1 ratio to receive intramuscular intismeran (at a dose of 1 mg) or placebo every 3 weeks for nine doses; all the patients received intravenous pembrolizumab (at a dose of 400 mg) every 6 weeks for nine cycles. The primary end point was investigator-determined recurrence-free survival, assessed in a time-to-event analysis. Key secondary end points included investigator-determined distant-metastasis-free survival (assessed in a time-to-event analysis) and safety.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 1137 patients underwent randomization: 757 to the intismeran-pembrolizumab group and 380 to the placebo-pembrolizumab group. The median follow-up was 24.6 months. Recurrence-free survival at 24 months was 82.2% in the intismeran-pembrolizumab group and 70.0% in the placebo-pembrolizumab group (two-sided P&amp;lt;0.001); the piecewise hazard ratio was 0.99 (95% confidence interval [CI], 0.66 to 1.49) before 6 months and 0.42 (95% CI, 0.30 to 0.58) after 6 months. Distant-metastasis-free survival at 24 months was 88.5% with intismeran-pembrolizumab and 80.2% with placebo-pembrolizumab (two-sided P = 0.002); the piecewise hazard ratio was 1.01 (95% CI, 0.58 to 1.79) before 6 months and 0.50 (95% CI, 0.34 to 0.73) after 6 months. Adverse events of grade 3 or higher occurred in 23.6% of the patients in the intismeran-pembrolizumab group and 20.3% of the patients in the placebo-pembrolizumab group. Eight patients (1.1%) in the intismeran-pembrolizumab group died from an adverse event; five of the deaths occurred before intismeran was administered.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Adjuvant therapy with intismeran plus pembrolizumab significantly prolonged recurrence-free survival and distant-metastasis-free survival as compared with pembrolizumab alone in patients with completely resected, high-risk cutaneous melanoma. (Funded by Merck Sharp and Dohme and Moderna; ClinicalTrials.gov number, NCT05933577.).&lt;/p&gt;&lt;p&gt;Long GV, Khattak MA, Gogas HJ, Schadendorf D, Arance A, Carlino MS&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2609762&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013837%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Subretinal Gene Therapy in X-Linked Retinoschisis. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609517</link>
+      <guid isPermaLink="false">pmid:43013836</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Yang Y, Zhang K, Lu F&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609517&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013836%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Subretinal Gene Therapy in X-Linked Retinoschisis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609517</link>
+      <guid isPermaLink="false">pmid:43013835</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Chen J&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609517&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013835%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Subretinal Gene Therapy in X-Linked Retinoschisis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609517</link>
+      <guid isPermaLink="false">pmid:43013834</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Farrell LC, Pulido JS&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2609517&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013834%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Iptacopan in IgA Nephropathy - Final 24-Month Data. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338</link>
+      <guid isPermaLink="false">pmid:43013833</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Barratt J, Rizk DV, Perkovic V&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013833%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Iptacopan in IgA Nephropathy - Final 24-Month Data</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338</link>
+      <guid isPermaLink="false">pmid:43013832</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Haas M&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013832%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Iptacopan in IgA Nephropathy - Final 24-Month Data</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338</link>
+      <guid isPermaLink="false">pmid:43013831</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Ao G, Li J, Nie H&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013831%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Iptacopan in IgA Nephropathy - Final 24-Month Data</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338</link>
+      <guid isPermaLink="false">pmid:43013830</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Whelan RS, Dixon BP&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611338&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013830%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perioperative Apalutamide in High-Risk Localized Prostate Cancer. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613</link>
+      <guid isPermaLink="false">pmid:43013829</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Taplin ME&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013829%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perioperative Apalutamide in High-Risk Localized Prostate Cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613</link>
+      <guid isPermaLink="false">pmid:43013828</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Sirvan F, Guven DC&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013828%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perioperative Apalutamide in High-Risk Localized Prostate Cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613</link>
+      <guid isPermaLink="false">pmid:43013827</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Terlizzi M, De Hertogh O, Sargos P&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013827%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perioperative Apalutamide in High-Risk Localized Prostate Cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613</link>
+      <guid isPermaLink="false">pmid:43013826</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Tombal B&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611613&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013826%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autoantibodies against Type I Interferons and Death from H7N7 Avian Influenza</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2608446</link>
+      <guid isPermaLink="false">pmid:43013825</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Zhang Q, Fouchier RAM, Moncada-Vélez M, Meijer A, Cui Y, Puel A&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2608446&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013825%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interferon-γ Underlying Thymoma-Associated Immune Dysregulation</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2607434</link>
+      <guid isPermaLink="false">pmid:43013824</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Hetemäki I, Wang C, Wu R, Pechacek J, Webb T, Riley D&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2607434&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013824%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aspirin Therapy - Enough after Arthroplasty?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612392</link>
+      <guid isPermaLink="false">pmid:43013823</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Eikelboom JW&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612392&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013823%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Case 32-2026: A 50-Year-Old Man with Recurrent Cardiomyopathy</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2301034</link>
+      <guid isPermaLink="false">pmid:43013822</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Adler DS, Newton-Cheh CH, Kamalian SC, Lippincott MF, Pope HG Jr, Jobbagy S&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2301034&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013822%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lung Hernia with a Chest-Wall Bulge</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607906</link>
+      <guid isPermaLink="false">pmid:43013821</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Tahirović E&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607906&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013821%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>High-Flow Oxygen Therapy with Nasal Cannula</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMvcm2517207</link>
+      <guid isPermaLink="false">pmid:43013820</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Nadler M, Fung Cai K, Jalihal P, Ortega R&lt;br/&gt;Journal Article, Video-Audio Media&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMvcm2517207&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013820%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preventing Malaria Infections and Moving toward Malaria Elimination</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMra2508563</link>
+      <guid isPermaLink="false">pmid:43013819</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Malaria continues to be a major health challenge worldwide, causing an estimated 282 million cases of illness and 610,000 deaths in 2024, predominantly among African children. Despite recent stagnation in the progress of malaria prevention, the landscape is undergoing rapid transformation. This review examines current and emerging approaches to preventing malaria infection and supporting malaria elimination, including vector control, transmission-blocking interventions, chemoprevention, monoclonal antibodies, and vaccines. Next-generation insecticide-treated nets, expanded use of seasonal malaria chemoprevention, and the introduction of RTS,S/AS01 and R21/Matrix-M vaccines are already reshaping control strategies. Looking ahead, long-acting injectable chemoprevention, transmission-blocking medicines and vaccines, and improved surveillance-driven deployment may further accelerate progress. As funding becomes constrained and decision making shifts increasingly to countries where malaria is endemic, effective malaria prevention will depend on locally tailored, integrated combinations of interventions supported by strong surveillance, regulatory capacity, and national leadership.&lt;/p&gt;&lt;p&gt;Tchouatieu AM, Wells TNC, Achan J&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMra2508563&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013819%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prevention of Venous Thromboembolism after Total Hip or Knee Replacement</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2602435</link>
+      <guid isPermaLink="false">pmid:43013818</guid>
+      <pubDate>Wed, 11 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Studies comparing aspirin with anticoagulants for venous thromboembolism (VTE) prophylaxis after total hip or knee arthroplasty have had conflicting results.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In a comparative-effectiveness noninferiority trial, we randomly assigned patients undergoing elective hip or knee arthroplasty to receive aspirin (81 mg twice daily), warfarin (to a target international normalized ratio of 2.0), or rivaroxaban (10 mg daily) for 30 days. The composite primary effectiveness outcome (death from any cause or symptomatic VTE) and primary safety outcome (bleeding, reoperation for wound problems, or myocardial infarction) were evaluated through 6 months in a blinded fashion. The noninferiority margin for the risk difference was 0.69 percentage points.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 18,883 participants who had undergone randomization, 15,317 (7214 with hip arthroplasty and 8103 with knee arthroplasty) were included in the primary per-protocol analysis. A primary effectiveness outcome event occurred in 77 of 6090 participants (1.26%) in the aspirin group, in 52 of 4231 (1.23%) in the warfarin group, and in 47 of 4996 (0.94%) in the rivaroxaban group; a primary safety outcome event occurred in 177 (2.91%), 142 (3.36%), and 174 (3.48%), respectively. In pairwise comparisons, 6-month risks of a primary effectiveness outcome event were 1.24% and 0.94% for aspirin versus rivaroxaban (difference, 0.30 percentage points; 95% confidence interval [CI], -0.20 to 0.81); 1.24% and 1.01% for aspirin versus warfarin (difference, 0.23 percentage points; 95% CI, -0.34 to 0.81); and 1.13% and 1.10% for warfarin versus rivaroxaban (difference, 0.03 percentage points; 95% CI, -0.57 to 0.63). Risks of a primary safety outcome event were 3.70% and 3.02% for rivaroxaban versus aspirin (difference, 0.68 percentage points; 95% CI, -0.04 to 1.41); 3.65% and 2.88% for warfarin versus aspirin (difference, 0.77 percentage points; 95% CI, -0.04 to 1.58); and 3.59% and 3.61% for rivaroxaban versus warfarin (difference, -0.02 percentage points; 95% CI, -0.89 to 0.85). Intention-to-treat analyses yielded similar results.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Aspirin prophylaxis after total hip or knee arthroplasty was not noninferior to rivaroxaban or warfarin with respect to death or symptomatic VTE. Warfarin and rivaroxaban were not noninferior to aspirin for safety. (Funded by the Patient-Centered Outcomes Research Institute; PEPPER ClinicalTrials.gov number, NCT02810704.).&lt;/p&gt;&lt;p&gt;Pellegrini VD Jr, Lambourne CA, Magder LS, Franklin PD, Magaziner JS, Martin BI&lt;br/&gt;Journal Article, Randomized Controlled Trial, Comparative Study, Equivalence Trial, Multicenter Study&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2602435&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013818%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cancer Vaccines - From Treatment to Prevention</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2614041</link>
+      <guid isPermaLink="false">pmid:43013817</guid>
+      <pubDate>Wed, 11 Nov 2026 16:32:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Yarchoan M&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2614041&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43013817%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ANGPTL4 Inhibition in Adults with Elevated Triglyceride Levels</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612463</link>
+      <guid isPermaLink="false">pmid:43002172</guid>
+      <pubDate>Mon, 09 Nov 2026 10:42:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Angiopoietin-like protein 4 (ANGPTL4) inhibits lipoprotein lipase and regulates triglyceride-rich lipoprotein metabolism. MAR001 is a monoclonal antibody against ANGPTL4 that is being evaluated for lowering triglyceride levels.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a two-part, phase 2b, double-blind, randomized, placebo-controlled trial. In part A, the focus of this report, we enrolled adults who had a nonfasting triglyceride level of at least 175 mg per deciliter and a remnant cholesterol level of at least 35 mg per deciliter at initial screening, followed by a fasting triglyceride level of at least 150 mg per deciliter and a remnant cholesterol level of at least 30 mg per deciliter on confirmatory screening. Participants were randomly assigned in a 1:1:1:1 ratio to receive MAR001 at a dose of 300, 450, or 900 mg or matching placebo subcutaneously every 4 weeks for 24 weeks. The primary end point was the percent change from baseline in the fasting triglyceride level at week 12, reported as the difference between each MAR001 dose group and the placebo group (placebo-adjusted change).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 236 participants were enrolled in the trial, with 177 assigned to receive MAR001 and 59 to receive placebo; a total of 235 participants received at least one dose of MAR001 or placebo and were included in the primary efficacy analyses. The mean age of the participants was 60.4 years, and 39% were women. The median triglyceride level at baseline was 249.5 mg per deciliter (interquartile range, 210.0 to 313.0). At week 12, in an intention-to-treat analysis, the placebo-adjusted least-squares mean percent changes in the fasting triglyceride level were -39.1 percentage points, -40.5 percentage points, and -45.3 percentage points for the 300-mg, 450-mg, and 900-mg doses, respectively (P&amp;lt;0.001 for all comparisons). Adverse events occurred in 123 of 177 participants (69%) in the pooled MAR001 group and in 45 of 58 participants (78%) in the placebo group.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Inhibition of ANGPTL4 with MAR001 significantly reduced fasting triglyceride levels at 12 weeks. (Funded by Marea Therapeutics; TYDAL-TIMI 78 ClinicalTrials.gov number, NCT07028749.).&lt;/p&gt;&lt;p&gt;O&amp;#x27;Donoghue ML, Juliano RA, Yi BA, Chung B, Hughes M, Gaudet D&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612463&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43002172%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Left Bundle-Branch Pacing versus Right Ventricular Pacing for Atrioventricular Block</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612972</link>
+      <guid isPermaLink="false">pmid:43001763</guid>
+      <pubDate>Mon, 09 Nov 2026 07:43:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Right ventricular pacing is associated with cardiac dyssynchrony and left ventricular systolic dysfunction. Left bundle-branch pacing preserves left ventricular electrical and mechanical synchrony, but its clinical benefits relative to right ventricular pacing in patients with atrioventricular block remain unclear.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this investigator-initiated, international, open-label, randomized, controlled trial, we assigned patients with atrioventricular block in a 1:1 ratio to receive left bundle-branch pacing or right ventricular pacing. The primary outcome was a composite of death from any cause, hospitalization for heart failure, or pacing-induced cardiomyopathy.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 702 patients underwent randomization, with 348 assigned to receive left bundle-branch pacing and 354 to receive right ventricular pacing; 17 patients (6 in the left bundle-branch pacing group and 11 in the right ventricular pacing group) were excluded before device implantation. A total of 685 patients (342 in the left bundle-branch pacing group and 343 in the right ventricular pacing group) were included in the modified intention-to-treat analysis. The mean age of the patients was 68.4 years, and 57.5% were men. At the prespecified interim analysis, the data monitoring committee recommended early termination of the trial. At a median follow-up of 35.1 months (interquartile range, 23.6 to 40.7), a primary-outcome event had occurred in 16 patients in the left bundle-branch pacing group and in 35 patients in the right ventricular pacing group (Kaplan-Meier 4-year cumulative incidence, 8.5% and 19.2%, respectively; hazard ratio, 0.41; 95% confidence interval, 0.23 to 0.75; P = 0.003 by a stratified log-rank test). Serious adverse events unrelated to implantation procedures occurred in 39 patients (11.8%) who had received left bundle-branch pacing and in 33 patients (9.3%) who had received right ventricular pacing (P = 0.32).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among patients with atrioventricular block, left bundle-branch pacing was superior to right ventricular pacing in reducing the risk of a composite of death from any cause, hospitalization for heart failure, or pacing-induced cardiomyopathy. (Funded by Project on New Technology of Jiangsu Province and others; OptimPacing ClinicalTrials.gov number, NCT04624763.).&lt;/p&gt;&lt;p&gt;Qian Z, Jiang L, Hou X, Xue X, Shen M, Su Y&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612972&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001763%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Liver-Targeted CIDEB siRNA in Adults with MASLD</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2612905</link>
+      <guid isPermaLink="false">pmid:43001761</guid>
+      <pubDate>Mon, 09 Nov 2026 07:43:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Norton TD, Taubel J, Imperato GH, Aziz-Zaman S, Witkin J, Miller J&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2612905&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001761%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Community and EMS Interventions to Improve Survival in Cardiac Arrest</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612757</link>
+      <guid isPermaLink="false">pmid:43001758</guid>
+      <pubDate>Mon, 09 Nov 2026 07:42:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Early cardiopulmonary resuscitation (CPR) and defibrillation improve survival after out-of-hospital cardiac arrest, but evidence from randomized trials about whether community-based implementation strategies improve outcomes is lacking.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a registry-based, cluster-randomized trial involving adults with out-of-hospital cardiac arrest treated by emergency medical services (EMS) in North Carolina counties. The counties were grouped into clusters, which were then randomly assigned in a 1:1 ratio to implement a multifaceted intervention or administer usual care. The intervention included four components: training of 911 telecommunicators to improve rapid recognition of cardiac arrest, training of 911 telecommunicators to improve delivery of CPR instructions from telecommunicators to bystanders, community CPR training, and enhanced use of automated external defibrillators by first responders or bystanders before EMS arrival. Data were collected through the Cardiac Arrest Registry to Enhance Survival. The primary outcome was survival to hospital discharge with a good neurologic outcome (Cerebral Performance Category score of 1 or 2; range, 1 to 5, with higher scores indicating worse neurologic outcome).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; From July 1, 2022, to June 30, 2026, a total of 28 clusters comprising 11,615 patients were assigned to the intervention group, and 27 clusters comprising 10,844 patients were assigned to the usual-care group. The median age of the patients was 64.0 years, and 36.7% were women. The percentage of patients who survived to hospital discharge with a good neurologic outcome was 9.0% (1048 of 11,608 patients) in the intervention group and 9.4% (1017 of 10,839 patients) in the usual-care group (adjusted odds ratio, 0.97; 95% confidence interval, 0.75 to 1.26; P = 0.80).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among adults with out-of-hospital cardiac arrest, implementation of a multifaceted strategy involving the community and EMS did not result in a greater percentage of patients who survived to hospital discharge with a favorable neurologic outcome than usual care. (Funded by the National Heart, Lung, and Blood Institute of the National Institutes of Health; RACE-CARS ClinicalTrials.gov number, NCT04660526.).&lt;/p&gt;&lt;p&gt;Malta Hansen C, Krychtiuk KA, Starks MA, Al-Khalidi HR, Mark DB, Monk L&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612757&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001758%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2610676</link>
+      <guid isPermaLink="false">pmid:43001755</guid>
+      <pubDate>Mon, 09 Nov 2026 07:42:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Retatrutide, an investigational triple agonist of GIP, GLP-1, and glucagon receptors, may be useful for the treatment of painful knee osteoarthritis in persons with obesity.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In two phase 3 trials, adults without diabetes who had painful knee osteoarthritis and a body-mass index of at least 27 were randomly assigned to receive once-weekly subcutaneous retatrutide (9 or 12 mg in TRIUMPH-4 and 4, 9, or 12 mg in TRIUMPH-1-OA) or placebo. In TRIUMPH-4, the primary end points were the change in the WOMAC pain score (range, 0 to 10, with higher scores indicating worse pain) and the percent change in body weight at week 68. In TRIUMPH-1-OA, the primary end point was the change in the WOMAC pain score at week 80. For non-pain-related end points, intercurrent events were handled with a treatment-policy strategy. For pain-related end points, a hybrid-treatment estimand was applied, with a hypothetical strategy for intercurrent events that suggested treatment failure and a treatment-policy strategy elsewhere. We also report results for an intention-to-treat (ITT) estimand.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 445 participants underwent randomization in TRIUMPH-4 and 574 in TRIUMPH-1-OA. At 68 weeks, the mean changes in the WOMAC pain score (hybrid-treatment estimand) with retatrutide in TRIUMPH-4 were -3.96 (9 mg) and -3.74 (12 mg), versus -2.12 with placebo (difference vs. placebo, -1.83 [95% confidence interval {CI}, -2.37 to -1.30] and -1.61 [95% CI, -2.16 to -1.07], respectively). For the ITT estimand, the corresponding differences from placebo were -1.70 (95% CI, -2.19 to -1.22) and -1.38 (95% CI, -1.91 to -0.85) (P&amp;lt;0.001 for all comparisons). The mean percent changes in body weight with retatrutide were -20.0% (9 mg) and -23.7% (12 mg), versus -4.6% with placebo (difference vs. placebo, -15.4 percentage points [95% CI, -18.7 to -12.1] and -19.2 percentage points [95% CI, -22.4 to -15.9]; P&amp;lt;0.001 for both comparisons). At 80 weeks, the mean changes in the WOMAC pain score (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OA were -3.22 (4 mg), -3.48 (9 mg), and -3.64 (12 mg), versus -1.87 with placebo (difference vs. placebo, -1.35 [95% CI, -1.92 to -0.78], -1.61 [95% CI, -2.20 to -1.02], and -1.77 [95% CI, -2.34 to -1.20], respectively). For the ITT estimand, the corresponding differences from placebo were -0.96 (95% CI, -1.61 to -0.30), -1.41 (95% CI, -2.07 to -0.75), and -1.64 (95% CI, -2.26 to -1.02) (P≤0.005 for all comparisons). In both trials, serious adverse events were more common with retatrutide than with placebo, and the most common adverse events were gastrointestinal.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; In participants with painful knee osteoarthritis and obesity, treatment with retatrutide resulted in significantly greater reductions in both the WOMAC pain score and body weight than placebo. (Funded by Eli Lilly; TRIUMPH-4 and -1 ClinicalTrials.gov numbers, NCT05931367 and NCT05929066.).&lt;/p&gt;&lt;p&gt;Schnitzer TJ, Hunter DJ, Conaghan PG, Sharma AM, Pedersen SD, Chen K&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2610676&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001755%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mass Surveillance with Artificial Intelligence - A New Determinant of Health?</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2611224</link>
+      <guid isPermaLink="false">pmid:43001754</guid>
+      <pubDate>Mon, 09 Nov 2026 07:34:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Peoples N, Hoops K, Fleegler EW&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2611224&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001754%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interleukin-6 Inhibition with Ziltivekimab for Atherosclerotic Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612126</link>
+      <guid isPermaLink="false">pmid:43001751</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; The inflammatory cytokine interleukin-6 is hypothesized to be a therapeutic target for patients with atherosclerotic cardiovascular disease and chronic kidney disease. Whether neutralizing interleukin-6 levels with ziltivekimab, a monoclonal antibody, reduces the risk of adverse cardiovascular events remains unknown.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a multinational, double-blind, randomized, placebo-controlled trial involving adults with established atherosclerotic cardiovascular disease, chronic kidney disease, and cardiovascular inflammation (defined by a high-sensitivity C-reactive protein [CRP] level of ≥2 mg per liter). Patients were randomly assigned in a 1:1 ratio to receive subcutaneous ziltivekimab (15 mg once monthly) or placebo. The primary efficacy end point was a 3-point major adverse cardiovascular event (MACE). This composite end point included death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 6376 patients were included in the full analysis population: 3184 were assigned to receive ziltivekimab and 3192 to receive placebo. The mean age of the patients was 69.4 years, and 27.5% were women. At 24 months, the between-group difference in the median percent change in the levels of inflammatory biomarkers among patients receiving ziltivekimab as compared with those receiving placebo was -76 percentage points for free interleukin-6 and -64 percentage points for high-sensitivity CRP. During a median follow-up of 33 months, a primary end-point event occurred in 561 patients (17.6%) in the ziltivekimab group and in 565 patients (17.7%) in the placebo group (hazard ratio, 0.99; 95% confidence interval, 0.88 to 1.11; P = 0.84). Serious adverse events occurred in 54.6% of the patients in the ziltivekimab group and in 54.8% of those in the placebo group; serious infections occurred in 20.4% and 17.9%, respectively.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among patients with atherosclerotic cardiovascular disease, chronic kidney disease, and cardiovascular inflammation, a strategy of lowering interleukin-6 levels with ziltivekimab did not result in a lower risk of cardiovascular events than placebo. (Funded by Novo Nordisk; ZEUS ClinicalTrials.gov number, NCT05021835.).&lt;/p&gt;&lt;p&gt;Ridker PM, Lincoff AM, Marx N, Navar AM, Sattar N, Tuttle KR&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612126&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001751%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Early Days, Late Nights</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2607215</link>
+      <guid isPermaLink="false">pmid:43001750</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Einterz EM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2607215&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001750%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612650</link>
+      <guid isPermaLink="false">pmid:43001747</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Yannopoulos D&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612650&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001747%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612922</link>
+      <guid isPermaLink="false">pmid:43001746</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Uncertainty persists regarding the effects of intensive blood-pressure lowering in patients with type 2 diabetes.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this multicenter, open-label, randomized trial conducted in Brazil, patients with elevated blood pressure, type 2 diabetes, and high cardiovascular risk received intensive therapy targeting a systolic blood pressure of less than 120 mm Hg or standard therapy targeting a systolic blood pressure of less than 140 mm Hg. The primary end point was a composite of death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for unstable angina or heart failure.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Of the 9476 ethnically diverse patients who were enrolled, 4745 were assigned to receive intensive therapy and 4731 to receive standard therapy. The mean (±SD) age was 64.7±8.2 years, and 5871 of the patients (62.0%) were women. The mean systolic blood pressure during follow-up (with exclusion of the first 3 months) was 121.8±10.8 mm Hg in the intensive-therapy group and 135.4±8.2 mm Hg in the standard-therapy group. During a median follow-up of 4.0 years (interquartile range, 3.9 to 4.0), a primary-outcome event occurred in 286 patients (6.0%; 1.65 events per 100 person-years) in the intensive-therapy group and in 315 patients (6.7%; 1.83 events per 100 person-years) in the standard-therapy group (hazard ratio, 0.90; 95% confidence interval, 0.77 to 1.06; P = 0.20). Serious adverse events occurred in 706 patients (14.9%) with intensive therapy and in 693 patients (14.6%) with standard therapy.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among patients with type 2 diabetes, targeting a systolic blood pressure of less than 120 mm Hg, as compared with less than 140 mm Hg, did not reduce the occurrence of major cardiovascular events. (Funded by Hospital Israelita Albert Einstein and the Brazilian Ministry of Health; OPTIMAL-DIABETES ClinicalTrials.gov number, NCT04040634.).&lt;/p&gt;&lt;p&gt;Santo K, Martins E, Silva GS, Guimarães PO, Tavares CAM, Andrade JB&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612922&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001746%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lung Hernia with a Chest-Wall Hematoma</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607065</link>
+      <guid isPermaLink="false">pmid:43001743</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Landry TC, Gienapp T&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2607065&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001743%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discontinuing Statins in Older Adults without Cardiovascular Disease</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2606634</link>
+      <guid isPermaLink="false">pmid:43001742</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Whether discontinuing statin therapy in older adults with at least two chronic conditions but no known cardiovascular disease affects the time to a first cardiovascular event is not well characterized.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted an international, open-label, randomized, controlled trial that enrolled adults at least 70 years of age who were taking statins for primary prevention. Participants were randomly assigned in a 1:1 ratio to either discontinue or continue statin therapy and other lipid-lowering therapies. The primary outcome was a composite of nonfatal myocardial infarction, nonfatal ischemic stroke, or death from any cause, whichever occurred first. The primary analysis assessed noninferiority on the basis of the between-group difference in restricted mean event-free survival time at 2 years, with a noninferiority margin of -5.2 weeks.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 1880 participants underwent randomization: 938 were assigned to the discontinuation group and 942 to the continuation group. The mean age of the participants was 77.5 years, and 46.9% were women. The between-group difference in the restricted mean event-free survival time at 2 years was -2.0 weeks (95% confidence interval, -3.7 to -0.3; P&amp;lt;0.001 for noninferiority). Over a median follow-up of 103 weeks, 119 participants (12.7%) in the discontinuation group and 87 (9.2%) in the continuation group had a primary-outcome event. At least one serious adverse event occurred in 43.0% of the participants in the discontinuation group and in 39.8% in the continuation group.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among older adults with at least two chronic conditions but no known cardiovascular disease, discontinuation of statin therapy was noninferior to continuation with respect to major cardiovascular events or death from any cause at 2 years. (Funded by the Swiss National Science Foundation; STREAM ClinicalTrials.gov number, NCT05178420.).&lt;/p&gt;&lt;p&gt;Rodondi N, Haller ML, Bardoczi JB, Adam L, Blum MR, Gencer B&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2606634&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001742%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612924</link>
+      <guid isPermaLink="false">pmid:43001741</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Whether intensive blood-pressure control reduces cardiovascular risk after cerebrovascular events remains uncertain.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this multicenter, open-label, randomized trial conducted at 30 sites in Brazil, we assigned participants with elevated blood pressure and previous ischemic stroke or transient ischemic attack to receive intensive treatment targeting a systolic blood pressure of less than 120 mm Hg or to receive standard treatment targeting a systolic blood pressure of less than 140 mm Hg. The primary outcome was a composite of death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for unstable angina or heart failure.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 4368 participants were enrolled, with 2172 assigned to intensive treatment and 2196 to standard treatment. The mean (±SD) age of the participants was 63.9±11.2 years, and 2093 (47.9%) were women. During the follow-up period, excluding the first 3 months, the mean systolic blood pressure was 122.0±11.5 mm Hg (median, 119.6 mm Hg) in the intensive-treatment group and 135.2±9.7 mm Hg (median, 135.0 mm Hg) in the standard-treatment group, with a between-group mean difference of 13.1 mm Hg (95% confidence interval [CI], 12.5 to 13.8). Over a median follow-up of 3.9 years, a primary-outcome event occurred in 236 participants (10.9%; 3.25 events per 100 person-years) with intensive treatment and in 297 (13.5%; 4.11 events per 100 person-years) with standard treatment (hazard ratio, 0.79; 95% CI, 0.67 to 0.94; P = 0.007). The composite renal outcome (sustained reduction of ≥50% in the estimated glomerular filtration rate or progression to end-stage renal disease) was more common with intensive treatment. The overall incidence of serious adverse events was similar in the two groups.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among participants with previous ischemic stroke or transient ischemic attack, targeting a systolic blood pressure of less than 120 mm Hg resulted in a lower incidence of major cardiovascular events than targeting a systolic blood pressure of less than 140 mm Hg. (Funded by Hospital Israelita Albert Einstein and the Brazilian Ministry of Health; OPTIMAL-STROKE ClinicalTrials.gov number, NCT04036409.).&lt;/p&gt;&lt;p&gt;Sampaio Silva G, Machline-Carrion MJ, Santo K, Brainer Clares de Andrade J, Martins E, Guimarães PO&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2612924&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001741%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prehospital Extracorporeal Life Support in Refractory Out-of-Hospital Cardiac Arrest</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2602919</link>
+      <guid isPermaLink="false">pmid:43001740</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; In patients with refractory out-of-hospital cardiac arrest, extracorporeal cardiopulmonary resuscitation (ECPR) with the use of venoarterial extracorporeal membrane oxygenation can be performed to establish reperfusion. Data comparing prehospital ECPR with conventional care regarding survival until hospital discharge among patients who are 50 years of age or younger with refractory out-of-hospital cardiac arrest are limited.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In a nationwide, nonrandomized study conducted in the Netherlands, we evaluated the outcomes in young adults who were attended by Helicopter Emergency Medical Services (HEMS) that were equipped to deliver prehospital ECPR (intervention group) as compared with those attended by HEMS without ECPR capability (conventional group). The primary outcome was survival until hospital discharge.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 144 patients were included in the intervention group, and 87 were included in the conventional group. In the intervention group, 57 of 144 patients (40%) survived until hospital discharge, as compared with 17 of 87 patients (20%) in the conventional group (odds ratio, 2.72; 95% confidence interval [CI], 1.59 to 4.66; P = 0.002). At 6 months, a favorable neurologic outcome was reported in 51 of 141 patients (36%) in the intervention group and in 11 of 85 patients (13%) in the conventional group (odds ratio, 4.22; 95% CI, 2.82 to 6.32). There were 32 adverse events in the intervention group and 11 in the conventional group.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among patients who were 50 years of age or younger with out-of-hospital cardiac arrest, incorporating ECPR into HEMS was associated with improved survival until hospital discharge, as compared with conventional care. (Funded by the Dutch Ministry of Health; OnScene ClinicalTrials.gov number, NCT04620070.).&lt;/p&gt;&lt;p&gt;Reis Miranda D, Moors X, Ali S, Maissan IM, van Schuppen HL, Mommers L&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2602919&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001740%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Equity in Maternal-Fetal Medicine - Technological Advances and a Potential Path Forward</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2607107</link>
+      <guid isPermaLink="false">pmid:43001735</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Mallampati D, Binion C, Vora NL&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2607107&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001735%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a)</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2610159</link>
+      <guid isPermaLink="false">pmid:43001734</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Pelacarsen, an antisense oligonucleotide, reduces serum levels of lipoprotein(a). However, the effect of pelacarsen on cardiovascular outcomes remains uncertain.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted an international, randomized, placebo-controlled trial involving patients with preexisting cardiovascular disease and a lipoprotein(a) level of at least 70 mg per deciliter. Patients were randomly assigned in a 1:1 ratio to receive subcutaneous pelacarsen (80 mg) administered monthly or matching placebo. The primary end point was a major adverse cardiovascular event, defined as a composite of death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or urgent coronary revascularization.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 8350 patients underwent randomization, with 8322 included in the efficacy analysis; 4157 patients were assigned to receive pelacarsen, and 4165 to receive placebo. The mean age of the patients was 59.7 years, and 27.0% were women. The median lipoprotein(a) level at baseline was 236 nmol per liter. At 12 months, the lipoprotein(a) level was 64.4 nmol per liter in the pelacarsen group and 233.4 nmol per liter in the placebo group. The median follow-up was 4.7 years. A primary end-point event occurred in 511 patients (12.3%) in the pelacarsen group and in 503 (12.1%) in the placebo group (hazard ratio, 1.02, 95% confidence interval [CI], 0.90 to 1.15, P = 0.76). Among patients with a baseline lipoprotein(a) level of at least 90 mg per deciliter, a primary end-point event occurred in 402 of 3266 patients (12.3%) in the pelacarsen group and in 403 of 3274 (12.3%) in the placebo group (hazard ratio, 1.00; 95% CI, 0.87 to 1.15; P = 0.99). Serious adverse events occurred in 1553 of 4166 patients (37.3%) who received pelacarsen and in 1709 of 4154 (41.1%) who received placebo.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Pelacarsen did not result in a lower risk of major adverse cardiovascular events than placebo at a median follow-up of 4.7 years. (Funded by Novartis; Lp[a]HORIZON ClinicalTrials.gov number, NCT04023552.)See also in NEJM Evidence: Extended Analyses of Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a).&lt;/p&gt;&lt;p&gt;Cho L, Nicholls SJ, Frndak S, Wolski K, Nordestgaard BG, Manning B&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2610159&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001734%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hyperaldosteronism Remission after Extended Aldosterone Synthase Inhibition</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611265</link>
+      <guid isPermaLink="false">pmid:43001732</guid>
+      <pubDate>Mon, 09 Nov 2026 07:32:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Brown MJ, Turcu AF, Sam R, Kirschner LS, Hamidi O, Eren A&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611265&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43001732%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

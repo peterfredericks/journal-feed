@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Emergency Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/academic-emergency-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Academic Emergency Medicine</description>
+    <lastBuildDate>Sat, 14 Nov 2026 19:55:25 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Cost Outcomes of Emergency Observation Care for Ambulatory and Emergency Care Sensitive Conditions</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70441</link>
+      <guid isPermaLink="false">pmid:43031329</guid>
+      <pubDate>Sat, 14 Nov 2026 01:43:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Gettel CJ, Kaur A, Song Y, Gu AH, Dhindsa S, Rothenberg C&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70441&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43031329%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Minute Before the Door</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70442</link>
+      <guid isPermaLink="false">pmid:43023621</guid>
+      <pubDate>Fri, 13 Nov 2026 08:03:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Pratama RK&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70442&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43023621%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spontaneous Posture at Emergency Department Arrival as a Behavioral Signal of Acute Coronary Syndrome: A Prospective Study</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70443</link>
+      <guid isPermaLink="false">pmid:43023610</guid>
+      <pubDate>Fri, 13 Nov 2026 08:03:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt; To determine whether spontaneous body posture at emergency department arrival is associated with acute coronary syndrome (ACS) and whether its addition improves apparent model discrimination beyond established clinical risk scores.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a prospective, single-center observational study using convenience sampling during investigators&amp;#x27; 24-h clinical shifts, including nights and weekends. Adults undergoing evaluation for possible ACS were eligible. Spontaneous posture was recorded on an ED stretcher within 1-2 min of arrival or transfer, before clinician-directed positioning, using six categories. Cardiologists blinded to posture adjudicated ACS. Firth regression adjusted for age, sex, and coronary artery disease. Sensitivity analyses accounted for arrival mode and excluded ST-segment elevation myocardial infarction (STEMI). HEART and TIMI discrimination analyses excluded STEMI and used bootstrap correction for optimism.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 225 participants, 64 (28.4%) had ACS: 12 STEMIs, 48 non-ST-segment elevation myocardial infarctions, and four cases of unstable angina. Compared with leaning back, tripod/forward-leaning posture (adjusted odds ratio [aOR], 7.54; 95% confidence interval [CI], 2.46-25.48) and arm-supported posture (aOR, 6.91; 95% CI, 1.83-29.16) were associated with higher ACS odds. The global posture association persisted after arrival-mode adjustment and STEMI exclusion. In the separate 30-patient reliability sample, unweighted Cohen&amp;#x27;s κ was 0.945 (95% CI, 0.725-1.000). Among 213 patients without STEMI, adding posture increased the optimism-corrected area under the curve from 0.8709 to 0.8950 for HEART and from 0.8208 to 0.8800 for TIMI.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Spontaneous posture was associated with ACS in this cohort, including after STEMI exclusion. Posture provided incremental discrimination beyond HEART and TIMI, but ACS specificity and clinical decision benefit remain unestablished. External validation is required before clinical use.&lt;/p&gt;&lt;p&gt;Yorgun M, Taş O, Çelik A&lt;br/&gt;Journal Article, Observational Study&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70443&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43023610%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
