@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emergency Medicine Journal</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/emergency-medicine-journal.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Emergency Medicine Journal</description>
+    <lastBuildDate>Sat, 21 Nov 2026 19:11:04 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>When drowning surveillance misses the mechanism</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216575</link>
+      <guid isPermaLink="false">pmid:43064503</guid>
+      <pubDate>Fri, 20 Nov 2026 21:13:00 +0000</pubDate>
+      <category>Emergency medicine journal : EMJ</category>
+      <description>&lt;p&gt;Bellini T, Parri N, Buratti S, Spiga G, Moscatelli A&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1136%2Femermed-2026-216575&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43064503%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

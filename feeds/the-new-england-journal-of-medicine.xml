@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEJM</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/the-new-england-journal-of-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in NEJM</description>
+    <lastBuildDate>Sat, 21 Nov 2026 19:11:04 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Slightly Alive - Improving Antituberculosis Therapy</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2614653</link>
+      <guid isPermaLink="false">pmid:43056226</guid>
+      <pubDate>Thu, 19 Nov 2026 12:34:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Rubin EJ&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2614653&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43056226%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assessing Multiple Treatment Regimens for Tuberculosis</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2611913</link>
+      <guid isPermaLink="false">pmid:43056221</guid>
+      <pubDate>Thu, 19 Nov 2026 12:34:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Ganfeborole and BTZ-043 are new drugs that may improve tuberculosis treatment.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; In this phase 2, randomized, controlled trial, we assigned participants with rifampin-susceptible pulmonary tuberculosis to receive the standard four-drug combination (isoniazid-rifampin-pyrazinamide-ethambutol; HRZE) for 24 weeks; bedaquiline-delamanid-moxifloxacin for 16 weeks; or one of 10 new four-drug combinations for 16 weeks. The new regimens contained ganfeborole, BTZ-043, or both, with combinations of bedaquiline, delamanid, moxifloxacin, pyrazinamide, pretomanid, and linezolid. The primary end point was the log10(time to positivity) slope (rate of change from baseline to week 12 in the time to Mycobacterium tuberculosis growth in a positive sputum culture). The treatment effect was assessed as the Bayesian posterior probability of superiority of each new regimen to HRZE with respect to the primary end point (results were used to select regimens for further evaluation, rather than for characterization of efficacy).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; A total of 401 participants underwent randomization; 371 were included in the modified intention-to-treat population and 400 in the safety population. We identified two promising regimens for further evaluation: ganfeborole-bedaquiline-pretomanid-moxifloxacin (BPMG) and BTZ-043-bedaquiline-delamanid-moxifloxacin (BDMT). The log10(time to positivity) slope was 0.129 log10(days) per week (95% Bayesian credible interval, 0.112 to 0.146) with BPMG and 0.142 log10(days) per week (95% Bayesian credible interval, 0.126 to 0.160) with BDMT, as compared with 0.118 log10(days) per week (95% Bayesian credible interval, 0.105 to 0.131) with HRZE, for a relative difference of 9.1% (95% Bayesian credible interval, -8.6 to 29.0) and 20.5% (95% Bayesian credible interval, 2.7 to 41.1), respectively, and a posterior probability of superiority of 0.83 and 0.99. The incidence of adverse events of grade 3 or higher was 38% in the BPMG group (none of the participants discontinued), 28% in the BDMT group (one discontinued because of a drug reaction with eosinophilia and systemic symptoms), and 24% in the HRZE group (none discontinued). Bedaquiline-moxifloxacin-pyrazinamide-BTZ-043 was discontinued because of hepatotoxic effects.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; In this trial, two four-drug regimens, one with ganfeborole and one with BTZ-043, showed evidence of potential efficacy and a safety profile that did not preclude progression to further evaluation. (Funded by Innovative Medicines Initiative 2 Joint Undertaking and others; PARADIGM4TB ClinicalTrials.gov number, NCT06114628.).&lt;/p&gt;&lt;p&gt;Esmail H, Paton NI, Schildkraut JA, Motta I, Szubert AJ, Dufault SM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2611913&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43056221%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meningococcal B Vaccine to Prevent Gonorrhea. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611609</link>
+      <guid isPermaLink="false">pmid:43050671</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Seib KL, Grulich AE&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611609&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050671%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meningococcal B Vaccine to Prevent Gonorrhea</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611609</link>
+      <guid isPermaLink="false">pmid:43050670</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Lambert SB, Wang B, Marshall HS&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2611609&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050670%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enfortumab Vedotin and Pembrolizumab for Cisplatin-Eligible Bladder Cancer. Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610895</link>
+      <guid isPermaLink="false">pmid:43050669</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Galsky MD&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610895&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050669%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enfortumab Vedotin and Pembrolizumab for Cisplatin-Eligible Bladder Cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610895</link>
+      <guid isPermaLink="false">pmid:43050668</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Kıkılı Cİ, Kemik F, Tural D&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610895&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050668%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enfortumab Vedotin and Pembrolizumab for Cisplatin-Eligible Bladder Cancer</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610895</link>
+      <guid isPermaLink="false">pmid:43050667</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Takemura K, Miura Y, Kitano S&lt;br/&gt;Letter, Comment&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2610895&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050667%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Revertant Autograft Replacement in Recessive Dystrophic Epidermolysis Bullosa</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2517823</link>
+      <guid isPermaLink="false">pmid:43050666</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Kubo A, Suzuki H, Ono N, Saito S, Aoki S, Ogawa Y&lt;br/&gt;Letter&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMc2517823&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050666%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Healing Health Care in Rural America - Toward Community-Centered Learning Health Systems</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMsr2607321</link>
+      <guid isPermaLink="false">pmid:43050665</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Bertagnolli MM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMsr2607321&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050665%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Too Soon to Say Goodbye - Aspirin at the Door in STEMI</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612576</link>
+      <guid isPermaLink="false">pmid:43050664</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Bainey KR&lt;br/&gt;Editorial&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMe2612576&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050664%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Case 33-2026: A 73-Year-Old Woman with Fever, Weight Loss, and Leg Weakness</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2603186</link>
+      <guid isPermaLink="false">pmid:43050663</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Janjigian MP, Cheng M, Perugino CA, Hausmann JS&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMcpc2603186&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050663%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cutaneous Anthrax</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2608816</link>
+      <guid isPermaLink="false">pmid:43050662</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Tepe D, Yilmaz G&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2608816&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050662%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Acute Respiratory Distress Syndrome</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMra2601172</link>
+      <guid isPermaLink="false">pmid:43050661</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Acute respiratory distress syndrome (ARDS) is a common cause of acute hypoxemic respiratory failure in patients with pneumonia, sepsis, aspiration of gastric contents, severe trauma, or other inciting triggers. Although the definition of the syndrome has evolved over the past several decades, the core elements (acute onset, hypoxemia, and bilateral radiographic opacities) remain consistent. Critical components of management include identification and treatment of the underlying cause of ARDS as well as avoidance of ventilator-induced lung injury and volume overload. Ongoing areas of controversy include the best strategy for supporting nonintubated patients, personalization of positive end-expiratory pressure, the role of innovative ventilatory strategies, and the use of glucocorticoids. New research suggests that precision medicine approaches to ARDS management that focus on discrete biologic, radiographic, or physiological subphenotypes may improve outcomes, and prospective trials of these approaches are ongoing.&lt;/p&gt;&lt;p&gt;Calfee CS, McAuley DF&lt;br/&gt;Journal Article, Review&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMra2601172&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050661%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Closing the Gap</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2516854</link>
+      <guid isPermaLink="false">pmid:43050660</guid>
+      <pubDate>Wed, 18 Nov 2026 16:33:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Ravindra L, Knoper K, Tan N, Solomon CG&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2516854&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43050660%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Semaglutide for the Treatment of Obesity in Children 6 to &lt;12 Years of Age</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2604058</link>
+      <guid isPermaLink="false">pmid:43037562</guid>
+      <pubDate>Mon, 16 Nov 2026 10:34:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Background:&lt;/b&gt; Childhood obesity is a chronic, neurometabolic disease with limited options for medical treatments that are efficacious and durable. Once-weekly subcutaneous semaglutide is approved for the treatment of obesity in adolescents and adults, but data for its use in young children are lacking.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Methods:&lt;/b&gt; We conducted a phase 3, double-blind, randomized, placebo-controlled trial involving children (6 to &amp;lt;12 years of age) with obesity. Participants were randomly assigned in a 2:1 ratio to receive once-weekly subcutaneous semaglutide or placebo for a period of 104 weeks, after which participants stopped taking semaglutide or placebo for a 7-week washout period. Both groups received counseling for lifestyle modification. The primary end point was the percent change in the body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) from baseline to week 68. The confirmatory secondary end point was a reduction in BMI category at week 68.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 167 children who underwent randomization, 112 were assigned to receive semaglutide and 55 to receive placebo. At week 68, the mean percent change in BMI was -13.5% with semaglutide and 2.7% with placebo (estimated between-group difference, -16.2 percentage points; 95% confidence interval [CI], -19.4 to -12.9; P&amp;lt;0.001). The percent change in BMI at week 104 was -9.4% with semaglutide and 8.4% with placebo (between-group difference, -17.8 percentage points; 95% CI, -22.2 to -13.3). At week 68, a reduction in BMI category had occurred in 79% of the participants in the semaglutide group and in 23% of those in the placebo group (odds ratio, 7.8; 95% CI, 3.5 to 17.6; P&amp;lt;0.001), with the BMI below the threshold for obesity (the 95th percentile for age and sex) in 38% of the participants who received semaglutide and in 2% of those who received placebo. Adverse events occurred in 96% of the participants receiving semaglutide and in 93% of those receiving placebo. Gastrointestinal adverse events were the most common, occurred more frequently with semaglutide than with placebo, and led to discontinuation in 1 participant in the semaglutide group.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions:&lt;/b&gt; Among children (6 to &amp;lt;12 years of age) with obesity, treatment with semaglutide for 68 weeks resulted in a significantly greater mean percent reduction in BMI than placebo. (Funded by Novo Nordisk; STEP Young ClinicalTrials.gov number, NCT05726227.).&lt;/p&gt;&lt;p&gt;Jastreboff AM, Harder-Lauridsen NM, Van Name M, Körner A, Kelly AS, Weghuber D&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMoa2604058&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037562%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Unexamined Subsidy - Rethinking Incentives for Outpatient Clinical Preceptors</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2611160</link>
+      <guid isPermaLink="false">pmid:43037246</guid>
+      <pubDate>Mon, 16 Nov 2026 07:53:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Maxey HL, Moore M&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2611160&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037246%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What the Robot Still Can&#x27;t Do</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2606894</link>
+      <guid isPermaLink="false">pmid:43037244</guid>
+      <pubDate>Mon, 16 Nov 2026 07:53:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Nundy S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2606894&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037244%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reimagining Health Policy Research</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2611665</link>
+      <guid isPermaLink="false">pmid:43037241</guid>
+      <pubDate>Mon, 16 Nov 2026 07:53:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;McGinty EE&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMp2611665&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037241%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Functional Fixed Dystonia of the Foot</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2608021</link>
+      <guid isPermaLink="false">pmid:43037238</guid>
+      <pubDate>Mon, 16 Nov 2026 07:53:00 +0000</pubDate>
+      <category>The New England journal of medicine</category>
+      <description>&lt;p&gt;Nonnekes J, de Greef-Rotteveel A&lt;br/&gt;Case Reports, Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1056%2FNEJMicm2608021&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037238%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

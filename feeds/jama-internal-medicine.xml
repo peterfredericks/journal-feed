@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMA Internal Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/jama-internal-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in JAMA Internal Medicine</description>
+    <lastBuildDate>Sat, 21 Nov 2026 19:11:04 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Removing Race From Standardized Mortality Ratio Risk Adjustment in Dialysis Care Quality Measurement</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5632</link>
+      <guid isPermaLink="false">pmid:43037992</guid>
+      <pubDate>Mon, 16 Nov 2026 11:36:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;&lt;b&gt;Importance:&lt;/b&gt; The Centers for Medicare and Medicaid Services (CMS) adjusts for race and ethnicity when calculating and publicly reporting standardized mortality ratios (SMRs) of dialysis facilities. In July 2025, CMS removed race, ethnicity, and related demographic fields from the End-Stage Renal Disease Medical Evidence Report-the primary data source for race and ethnicity in SMR risk adjustment.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Objective:&lt;/b&gt; To evaluate how removing race and ethnicity from SMR calculations is associated with facility-level performance, particularly among facilities serving high proportions of patients with social risk factors.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Design, setting, and participants:&lt;/b&gt; In this cross-sectional study using the US Renal Data and Renal Management Information Systems, data from dialysis facilities in the US during the period of January 2017 to December 2020 were analyzed from October 2025 to January 2026. Facilities were categorized into quintiles based on the proportion of incident patients who were non-Hispanic Black, Hispanic, living in highly disadvantaged neighborhoods, or uninsured or Medicaid-covered at dialysis initiation. A composite social risk score classified facilities as being in the highest quintile of none, 1, or at least 2 of these characteristics.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Exposure:&lt;/b&gt; Race and ethnicity, socioeconomic status, and insurance coverage proportions of patients.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main outcomes and measures:&lt;/b&gt; The primary outcomes were change in facility-level SMR values and rankings after the removal of race and ethnicity from risk adjustment.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Among 6895 dialysis facilities, 6220 (90.2%) were for profit, and 1588 (23.0%) had the highest social risk score of 2 or higher. With race-inclusive adjustment, the mean (SD) SMR among facilities with the lowest social risk was 0.93 (0.39), compared with 1.03 (0.42) among facilities with the highest social risk (difference, 0.10; 95% CI, 0.09-0.12). After removing race and ethnicity, this difference was nearly eliminated to -0.002 (95% CI, -0.02 to 0.01). A total of 1259 facilities (21.6%) with high social risk improved in SMR ranking after race exclusion, compared with 236 facilities (1.9%) with low social risk (difference, 19.7; 95% CI, 18.4-20.9 percentage points). Facilities serving the highest proportion of non-Hispanic Black patients experienced the greatest gains, with 26.6% improving SMR performance, compared with 4.7% among all other facilities (difference, 21.9; 95% CI, 20.5-23.3 percentage points).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Conclusions and relevance:&lt;/b&gt; Results of this cross-sectional study suggest that removing race and ethnicity from SMR risk adjustment substantially altered publicly reported mortality performance among dialysis facilities, with the largest changes among facilities serving larger proportions of Black patients. These findings suggest that excluding race and ethnicity from SMR risk adjustment may meaningfully shift performance comparisons in favor of facilities serving populations with greater social risk.&lt;/p&gt;&lt;p&gt;Koukounas KG, Boyang L, Schmid CH, Patzer RE, Wilk AS, Drewry KM&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5632&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037992%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Governing the Environmental Costs of Clinical Artificial Intelligence</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5271</link>
+      <guid isPermaLink="false">pmid:43037990</guid>
+      <pubDate>Mon, 16 Nov 2026 11:36:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This Viewpoint proposes guidance for evaluating the environmental impact of artificial intelligence used by health systems.&lt;/p&gt;&lt;p&gt;Yang YT, Sikka N&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5271&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037990%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluation of Premarket-Identified Serious Risks for Drugs and Biologics Using FDA Surveillance Systems</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5774</link>
+      <guid isPermaLink="false">pmid:43037980</guid>
+      <pubDate>Mon, 16 Nov 2026 11:36:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This cross-sectional study examines the use and sufficiency of US Food and Drug Administration (FDA) postmarket surveillance systems for further assessing serious risks found at product approval between 2016 and 2025.&lt;/p&gt;&lt;p&gt;Elshafie S, Chen RZ, Taherifard E, Ramachandran R, Ross JS, Wallach JD&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5774&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037980%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HEPA Filtration in Care Homes-Distinguishing Implementation From Intervention Failure</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5472</link>
+      <guid isPermaLink="false">pmid:43037979</guid>
+      <pubDate>Mon, 16 Nov 2026 11:36:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Hussain H&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5472&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037979%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pulmonary and Critical Care for General Internists: Updates from the American Thoracic Society Conference 2026</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5860</link>
+      <guid isPermaLink="false">pmid:43037974</guid>
+      <pubDate>Mon, 16 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This clinical insight describes updates to guidelines for management of chronic obstructive pulmonary disease, community-acquired pneumonia, and acute pulmonary embolism from the American Thoracic Society 2026 International Conference.&lt;/p&gt;&lt;p&gt;Brender TD&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5860&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037974%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Value Judgments in Comparing Dialysis Facility Performance</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5633</link>
+      <guid isPermaLink="false">pmid:43037972</guid>
+      <pubDate>Mon, 16 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Hatfield LA&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5633&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037972%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Arrives First</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5919</link>
+      <guid isPermaLink="false">pmid:43037971</guid>
+      <pubDate>Mon, 16 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;This essay describes a physician’s cognitive dissonance during a patient’s emergency.&lt;/p&gt;&lt;p&gt;Westpy S&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5919&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037971%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HEPA Filtration in Care Homes-Distinguishing Implementation From Intervention Failure-Reply</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5475</link>
+      <guid isPermaLink="false">pmid:43037970</guid>
+      <pubDate>Mon, 16 Nov 2026 11:35:00 +0000</pubDate>
+      <category>JAMA internal medicine</category>
+      <description>&lt;p&gt;Hay AD, Turner N&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1001%2Fjamainternmed.2026.5475&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43037970%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
