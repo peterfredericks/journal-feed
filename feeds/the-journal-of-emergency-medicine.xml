@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal of Emergency Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/the-journal-of-emergency-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Journal of Emergency Medicine</description>
+    <lastBuildDate>Sat, 28 Nov 2026 15:27:39 +0000</lastBuildDate>
+    <ttl>180</ttl>
+
+  </channel>
+</rss>

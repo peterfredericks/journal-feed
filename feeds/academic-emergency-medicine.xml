@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Emergency Medicine</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/</link>
+    <atom:link href="https://peterfredericks.github.io/journal-feed/feeds/academic-emergency-medicine.xml" rel="self" type="application/rss+xml"/>
+    <description>New articles in Academic Emergency Medicine</description>
+    <lastBuildDate>Sat, 28 Nov 2026 15:27:39 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>A Digital Rumack-Matthew Nomogram Application Improves Classification Accuracy and User Experience: A Crossover Study</title>
+      <link>https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70446</link>
+      <guid isPermaLink="false">pmid:43104262</guid>
+      <pubDate>Fri, 27 Nov 2026 23:36:00 +0000</pubDate>
+      <category>Academic emergency medicine : official journal of the Society for Academic Emergency Medicine</category>
+      <description>&lt;p&gt;Riviello CD, Chen RJ, Singer MF, Pun JF, Stewart JD, Walsh SJ&lt;br/&gt;Journal Article&lt;br/&gt;&lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fdoi.org%2F10.1111%2Facem.70446&quot;&gt;Full text&lt;/a&gt; · &lt;a href=&quot;https://proxy1.library.jhu.edu/login?qurl=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F43104262%2F&quot;&gt;PubMed&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
